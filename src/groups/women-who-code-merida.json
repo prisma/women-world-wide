@@ -1,0 +1,15 @@
+
+{
+  "image": "https://pbs.twimg.com/profile_images/707627558427238400/0Fy3ozyR_400x400.jpg",
+  "name": "Women Who Code Mérida",
+  "country": "Mexico",
+  "city": "Mérida",
+  "topics": ["Tech"],
+  "mainLink": "https://www.meetup.com/wwcodemerida/",
+  "secondaryLinks": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/WWCodeMID"
+    }
+  ]
+}

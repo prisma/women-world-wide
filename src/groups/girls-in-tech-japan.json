@@ -1,0 +1,17 @@
+{
+  "image": "https://pbs.twimg.com/profile_images/742327083305603072/Vm69bi83_400x400.jpg",
+  "name": "Girls in Tech Japan",
+  "country": "Japan",
+  "topics": ["Tech"],
+  "mainLink": "https://twitter.com/GirlsinTech_JPN",
+  "secondaryLinks": [
+    {
+      "name": "Website",
+      "url": "https://japan.girlsintech.org/"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/Girls-in-Tech-Japan-837669356355666/?fref=ts"
+    }
+  ]
+}

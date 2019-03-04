@@ -1,0 +1,18 @@
+{
+  "image": "https://secure.meetupstatic.com/photos/event/e/2/f/f/600_457978111.jpeg",
+  "name": "Women Who Go (London)",
+  "country": "UK",
+  "city": "London",
+  "topics": ["Golang"],
+  "mainLink": "https://www.meetup.com/Women-Who-Go-London/",
+  "secondaryLinks": [
+    {
+      "name": "Twitter",
+      "url": "https://www.twitter.com/womenwhogolondon"
+    },
+    {
+      "name": "Slack",
+      "url": "https://www.slack.com/womenwhogolondon"
+    }
+  ]
+}

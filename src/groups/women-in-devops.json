@@ -1,0 +1,18 @@
+{
+  "image": "https://pbs.twimg.com/profile_images/977111553261604864/eWx_tw-K_400x400.jpg",
+  "name": "Women in DevOps",
+  "country": "UK",
+  "city": "London",
+  "topics": ["Dev Ops"],
+  "mainLink": "https://www.meetup.com/Woman-in-DevOps/",
+  "secondaryLinks": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/WomenInDevOps"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/groups/2082051015447031/"
+    }
+  ]
+}

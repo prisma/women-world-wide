@@ -1,0 +1,17 @@
+{
+  "image": "https://pbs.twimg.com/profile_images/950081618777133057/h9K31Afx_400x400.jpg",
+  "name": "Girls in Tech Poland",
+  "country": "Poland",
+  "topics": ["Tech"],
+  "mainLink": "https://twitter.com/GiTPoland",
+  "secondaryLinks": [
+    {
+      "name": "Website",
+      "url": "https://poland.girlsintech.org/"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/Girls-in-Tech-Poland-849965745085021/"
+    }
+  ]
+}

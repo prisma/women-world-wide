@@ -1,0 +1,14 @@
+{
+  "image": "https://pbs.twimg.com/profile_images/1068657741667946497/J4YzuvnY_400x400.jpg",
+  "name": "Womend And Code",
+  "country": "Vienna",
+  "city": "Austria",
+  "topics": ["Tech"],
+  "mainLink": "https://twitter.com/womenandcode",
+  "secondaryLinks": [
+    {
+      "name": "Website",
+      "url": "https://www.womenandcode.org/"
+    }
+  ]
+}

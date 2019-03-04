@@ -1,0 +1,41 @@
+{
+  "name": "womens-day",
+  "private": true,
+  "description": "Internationl Women's Day Website",
+  "version": "0.1.0",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "start": "npm run develop",
+    "serve": "gatsby serve"
+  },
+  "dependencies": {
+    "babel-plugin-styled-components": "^1.10.0",
+    "gatsby": "^2.1.19",
+    "gatsby-image": "^2.0.30",
+    "gatsby-plugin-manifest": "^2.0.20",
+    "gatsby-plugin-offline": "^2.0.24",
+    "gatsby-plugin-prefetch-google-fonts": "^1.4.0",
+    "gatsby-plugin-react-helmet": "^3.0.7",
+    "gatsby-plugin-react-svg": "^2.0.0",
+    "gatsby-plugin-sharp": "^2.0.23",
+    "gatsby-plugin-styled-components": "^3.0.6",
+    "gatsby-source-filesystem": "^2.0.23",
+    "gatsby-transformer-json": "^2.1.8",
+    "gatsby-transformer-sharp": "^2.1.15",
+    "polished": "^3.0.3",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "react-helmet": "^5.2.0",
+    "styled-components": "^4.1.3"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prisma/womens-day"
+  },
+  "bugs": {
+    "url": "https://github.com/prisma/womens-day/issues"
+  }
+}

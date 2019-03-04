@@ -1,0 +1,17 @@
+{
+  "image": "https://pbs.twimg.com/profile_images/953304050883289089/dQqUdMH4_400x400.jpg",
+  "name": "Girls in Tech Romania",
+  "country": "Romania",
+  "topics": ["Tech"],
+  "mainLink": "https://twitter.com/GITRomania",
+  "secondaryLinks": [
+    {
+      "name": "Website",
+      "url": "https://romania.girlsintech.org/"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/GITRomania/"
+    }
+  ]
+}

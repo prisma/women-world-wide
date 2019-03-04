@@ -1,0 +1,18 @@
+{
+  "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
+  "name": "Bay Area Women in Machine Learning & Data Science",
+  "city": "San Francisco",
+  "country": "USA",
+  "topics": ["Machine Learning", "Data Science"],
+  "mainLink": "https://www.meetup.com/Bay-Area-Women-in-Machine-Learning-and-Data-Science/",
+  "secondaryLinks": [
+    {
+      "name": "Website",
+      "url": "http://wimlds.org/chapters/about-bay-area/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/wimlds_bayarea"
+    }
+  ]
+}

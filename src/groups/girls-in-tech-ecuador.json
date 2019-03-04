@@ -1,0 +1,18 @@
+{
+  "image": "https://pbs.twimg.com/profile_images/946780858501009409/Fp_nz5Q__400x400.jpg",
+  "name": "Girls In Tech Ecuador",
+  "country": "USA",
+  "city": "Utah",
+  "topics": ["Tech"],
+  "mainLink": "https://twitter.com/GirlsinTech_Ec",
+  "secondaryLinks": [
+    {
+      "name": "Website",
+      "url": "https://ecuador.girlsintech.org/"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/Girls-in-Tech-Ecuador-717123028399295/"
+    }
+  ]
+}
