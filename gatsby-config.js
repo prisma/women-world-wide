@@ -12,8 +12,8 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `groups`,
-        path: `./src/groups/`,
+        name: `orgs`,
+        path: `./src/orgs/`,
       },
     },
     {
@@ -30,7 +30,7 @@ module.exports = {
         fonts: [
           {
             family: `Poppins`,
-            variants: [`500`, `600`, `700`]
+            variants: [`500`, `600`]
           }
         ]
       }
@@ -38,8 +38,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `womens-day`,
-        short_name: `starter`,
+        name: `women-in-tech`,
+        short_name: `women-in-tech`,
         start_url: `/`,
         background_color: `#300886`,
         theme_color: `#300886`,

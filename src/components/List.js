@@ -15,14 +15,14 @@ import theme from '../styles/theme'
 
 // List
 const List = () => {
-  const data = useStaticQuery(groupsQuery)
-  const groups = data.allGroupsJson.edges
+  const data = useStaticQuery(orgsQuery)
+  const orgs = data.allOrgsJson.edges
 
   return (
     <Container>
       <Filter>
         <FilterPin />
-        <FilterText>Show me all groups in</FilterText>
+        <FilterText>Show me all organizations in</FilterText>
         <Select>
           <SelectText>London</SelectText>
           <SelectDropdown />
@@ -30,29 +30,29 @@ const List = () => {
       </Filter>
 
       <Card>
-        { groups.map(({ node: group }) =>
-            <Row>
-              <Image src={group.image}/>
+        { orgs.map(({ node: org }) =>
+            <Row key={org.id}>
+              <Image src={org.image}/>
               <Main>
                 <Top>
-                  <Name href={group.mainLink}>{group.name}</Name>
-                  {renderMainLink(group.mainLink)}
+                  <Name href={org.mainLink}>{org.name}</Name>
+                  {renderMainLink(org.mainLink)}
                 </Top>
 
                 <Bottom>
                   <Meta>
                     <Pin />
-                    {group.city && <City>{group.city},&nbsp;</City>}
-                    <Country>{group.country}</Country>
+                    { org.city && <City>{org.city},&nbsp;</City> }
+                    <Country>{org.country}</Country>
                     <Topics>
-                      { group.topics.map(topic =>
+                      { org.topics.map(topic =>
                         <Topic>{topic}</Topic>
                       )}
                     </Topics>
                   </Meta>
 
                   <SecondaryLinks>
-                    { group.secondaryLinks && group.secondaryLinks.map(link =>
+                    { org.secondaryLinks && org.secondaryLinks.map(link =>
                       <SecondaryLink href={link.url}>{link.name}</SecondaryLink>
                     )}
                   </SecondaryLinks>
@@ -78,11 +78,12 @@ const renderMainLink = url => {
 }
 
 // Groups Query
-const groupsQuery = graphql`
+const orgsQuery = graphql`
   query {
-    allGroupsJson {
+    allOrgsJson {
       edges {
         node {
+          id
           image
           name
           country
@@ -102,7 +103,7 @@ const groupsQuery = graphql`
 // Styles
 const Container = styled.div`
   max-width: 900px;
-  margin: 4rem auto;
+  margin: 0 auto;
 `
 
 const Filter = styled.div`
@@ -211,6 +212,7 @@ const Country = styled.span``
 
 const Topics = styled.div`
   color: ${p => p.theme.gray};
+  display: flex;
 `
 const Topic = styled.div`
   position: relative;

@@ -25,7 +25,7 @@ const Center = styled.div`
 `
 
 const Name = styled.div`
-  font-weight: 700;
+  font-weight: 600;
   font-size: 24px;
   letter-spacing: -1px;
 `
@@ -37,7 +37,7 @@ const Nav = styled.nav`
 
 const NavLink = styled.a`
   margin: 0 12px;
-  font-size: 16px;
+  font-size: 18px;
   color: ${p => p.theme.white};
 
   &:hover {

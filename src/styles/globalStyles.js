@@ -31,6 +31,11 @@ export default createGlobalStyle`
 
   html {
     font-size: 16px;
+    box-sizing: border-box;
+  }
+
+  *, *:before, *:after {
+    box-sizing: inherit;
   }
 
   body {

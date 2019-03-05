@@ -1,7 +1,7 @@
 {
-  "name": "womens-day",
+  "name": "women-in-tech",
   "private": true,
-  "description": "Internationl Women's Day Website",
+  "description": "Women in Tech",
   "version": "0.1.0",
   "scripts": {
     "build": "gatsby build",
@@ -33,9 +33,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/prisma/womens-day"
+    "url": "https://github.com/prisma/women-in-tech"
   },
   "bugs": {
-    "url": "https://github.com/prisma/womens-day/issues"
+    "url": "https://github.com/prisma/women-in-tech/issues"
   }
 }
