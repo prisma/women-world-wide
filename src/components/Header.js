@@ -17,13 +17,13 @@ const Header = () => (
 
 // Styles
 const Container = styled.div`
-  padding: 64px 0;
+  padding: 64px 0 0 0;
   background: ${p => p.theme.purple};
 `
 
 const Title = styled.div`
   position: relative;
-  z-index: 1;
+  z-index: 10;
   max-width: 500px;
   margin: 64px auto -100px auto;
   text-align: center;

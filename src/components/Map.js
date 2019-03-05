@@ -4,6 +4,8 @@ import styled from 'styled-components'
 
 // Illustration
 import MapIllustration from '../svgs/map.svg'
+import BackgroundIllustration from '../svgs/background.svg'
+import FlowersIllustration from '../svgs/flowers.svg'
 
 // Map
 const Map = () => (
@@ -134,20 +136,23 @@ const Map = () => (
       top={210}
       left={100} />
 
-    <MapIllustration />
+    <StyledMap />
+    <Background />
   </Container>
 )
 
 const Container = styled.div`
   position: relative;
   height: 601px;
-  width: 980px;
+  width: 1200px;
   margin: 0 auto;
+  overflow: hidden;
 `
 
 const Dot = styled.div`
   transition: transform 0.1s ease;
   position: absolute;
+  z-index: 2;
   top: ${p => p.top}px;
   left: ${p => p.left}px;
   background-color: ${p => p.theme.white};
@@ -160,6 +165,22 @@ const Dot = styled.div`
     transform: scale(3);
     cursor: pointer;
   }
+`
+
+const StyledMap = styled(MapIllustration)`
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+`
+
+const Background = styled(BackgroundIllustration)`
+  position: absolute;
+  z-index: 0;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
 `
 
 export default Map
