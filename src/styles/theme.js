@@ -23,7 +23,8 @@ const fonts = {
 
 // Shadows
 const shadows = {
-  cardShadow: `0px 4px 16px rgba(86, 82, 96, 0.2)`
+  cardShadow: `0px 4px 16px rgba(86, 82, 96, 0.2)`,
+  cardShadowSmall: `0px 2px 8px rgba(86, 82, 96, 0.15)`
 }
 
 export default {
