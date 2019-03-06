@@ -1,0 +1,94 @@
+[
+  {
+    "name": "United States",
+    "slug": "usa"
+  },
+  {
+    "name": "Canada",
+    "slug": "canada"
+  },
+  {
+    "name": "Mexico",
+    "slug": "mexico"
+  },
+  {
+    "name": "Ecuador",
+    "slug": "ecuador"
+  },
+  {
+    "name": "Brazil",
+    "slug": "brazil"
+  },
+  {
+    "name": "United Kingdom",
+    "slug": "uk"
+  },
+  {
+    "name": "Ireland",
+    "slug": "ireland"
+  },
+  {
+    "name": "France",
+    "slug": "france"
+  },
+  {
+    "name": "Germany",
+    "slug": "germany"
+  },
+  {
+    "name": "Austria",
+    "slug": "austria"
+  },
+  {
+    "name": "Sweden",
+    "slug": "sweden"
+  },
+  {
+    "name": "Spain",
+    "slug": "spain"
+  },
+  {
+    "name": "Italy",
+    "slug": "italy"
+  },
+  {
+    "name": "Israel",
+    "slug": "israel"
+  },
+  {
+    "name": "India",
+    "slug": "india"
+  },
+  {
+    "name": "Japan",
+    "slug": "japan"
+  },
+  {
+    "name": "Kenya",
+    "slug": "keyna"
+  },
+  {
+    "name": "Nigeria",
+    "slug": "nigeria"
+  },
+  {
+    "name": "Poland",
+    "slug": "poland"
+  },
+  {
+    "name": "Switzerland",
+    "slug": "switzerland"
+  },
+  {
+    "name": "Bolivia",
+    "slug": "bolivia"
+  },
+  {
+    "name": "Argentina",
+    "slug": "argentina"
+  },
+  {
+    "name": "Australia",
+    "slug": "australia"
+  }
+]

@@ -21,7 +21,7 @@ const Container = styled.div`
   align-items: center;
   max-width: 900px;
   padding: 40px 0;
-  margin: 0 auto;
+  margin: 0 auto 64px auto;
   color: ${p => p.theme.gray};
 `
 

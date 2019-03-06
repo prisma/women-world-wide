@@ -1,0 +1,14 @@
+{
+  "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
+  "name": "Austin Women in Machine Learning & Data Science",
+  "city": "austin",
+  "country": "usa",
+  "topics": ["Machine Learning", "Data Science"],
+  "mainLink": "https://www.meetup.com/Austin-Women-in-Machine-Learning-Data-Science/",
+  "secondaryLinks": [
+    {
+      "name": "Website",
+      "url": "http://wimlds.org/about-the-austin-team/"
+    }
+  ]
+}

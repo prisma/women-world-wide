@@ -1,0 +1,22 @@
+{
+  "image": "https://pbs.twimg.com/profile_images/993451802099142668/y2-rDrU3_400x400.jpg",
+  "name": "Girls in Tech London",
+  "city": "london",
+  "country": "uk",
+  "topics": ["Tech"],
+  "mainLink": "https://twitter.com/GirlsInTech_LDN",
+  "secondaryLinks": [
+    {
+      "name": "Website",
+      "url": "https://london.girlsintech.org/"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/GirlsinTechLondon/"
+    },
+    {
+      "name": "Newsletter",
+      "url": "https://girlsintech.us18.list-manage.com/subscribe?u=f9d5a7b318fda51f91af3dd9c&id=ee2e8b867b"
+    }
+  ]
+}

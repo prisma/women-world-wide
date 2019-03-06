@@ -1,0 +1,18 @@
+{
+  "image": "https://pbs.twimg.com/profile_images/762393898408960000/SAdZI0hC_400x400.jpg",
+  "name": "Women Who Go Berlin",
+  "country": "germany",
+  "city": "berlin",
+  "topics": ["Go"],
+  "mainLink": "https://www.meetup.com/women-who-go-berlin/",
+  "secondaryLinks": [
+    {
+      "name": "Slack",
+      "url": "https://wwgberlin.herokuapp.com/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/wwgberlin"
+    }
+  ]
+}

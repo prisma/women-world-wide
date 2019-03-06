@@ -1,0 +1,14 @@
+{
+  "image": "https://pbs.twimg.com/profile_images/1055739997641469952/FETldn_C_400x400.jpg",
+  "name": "Node Girls Stockholm",
+  "country": "sweden",
+  "city": "stockholm",
+  "topics": ["Node"],
+  "mainLink": "https://twitter.com/nodegirlssthlm",
+  "secondaryLinks": [
+    {
+      "name": "Website",
+      "url": "https://nodegirls.com/stockholm"
+    }
+  ]
+}

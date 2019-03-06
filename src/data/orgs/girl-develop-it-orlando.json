@@ -1,0 +1,22 @@
+{
+  "image": "https://pbs.twimg.com/profile_images/915794034332962821/Z9Pzsv_b_400x400.jpg",
+  "name": "Girl Develop It Orlando",
+  "country": "usa",
+  "city": "orlando",
+  "topics": ["Tech"],
+  "mainLink": "https://www.meetup.com/Girl-Develop-It-Orlando/",
+  "secondaryLinks": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/gdiorl"
+    },
+    {
+      "name": "Slack",
+      "url": "http://gdi-orlando-slack.herokuapp.com/"
+    },
+    {
+      "name": "Website",
+      "url": "https://www.girldevelopit.com/chapters/orlando"
+    }
+  ]
+}

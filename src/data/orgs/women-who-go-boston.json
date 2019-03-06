@@ -1,0 +1,14 @@
+{
+  "image": "https://pbs.twimg.com/profile_images/652292731163832320/O4ehRC4H_400x400.png",
+  "name": "Women Who Go Boston",
+  "country": "usa",
+  "city": "boston",
+  "topics": ["Go"],
+  "mainLink": "https://www.meetup.com/women-who-go-boston/",
+  "secondaryLinks": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/WomenWhoGo_Bos"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "image": "https://pbs.twimg.com/profile_images/936100470916919296/kZuY1Esc_400x400.jpg",
+  "name": "Girls in Tech Melbourne",
+  "country": "australia",
+  "city": "melbourne",
+  "topics": ["Tech"],
+  "mainLink": "https://twitter.com/GiTAustralia",
+  "secondaryLinks": [
+    {
+      "name": "Website",
+      "url": "https://melbourne.girlsintech.org/"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/girlsintechmelbourne"
+    }
+  ]
+}

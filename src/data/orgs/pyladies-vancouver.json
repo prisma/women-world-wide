@@ -1,0 +1,18 @@
+{
+  "image": "https://secure.meetupstatic.com/photos/event/a/d/d/e/600_447404510.jpeg",
+  "name": "PyLadies Vancouver",
+  "country": "canada",
+  "city": "vancouver",
+  "topics": ["Python"],
+  "mainLink": "https://www.meetup.com/PyLadies-Vancouver/",
+  "secondaryLinks": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/pyladiesvan"
+    },
+    {
+      "name": "Website",
+      "url": "https://pyladies-vancouver.readthedocs.io"
+    }
+  ]
+}

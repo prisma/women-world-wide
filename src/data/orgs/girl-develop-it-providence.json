@@ -1,0 +1,14 @@
+{
+  "image": "https://pbs.twimg.com/profile_images/659134395845079041/JhO6Larr_400x400.jpg",
+  "name": "Girl Develop It Providence",
+  "country": "usa",
+  "city": "providence",
+  "topics": ["Tech"],
+  "mainLink": "https://www.meetup.com/Girl-Develop-It-Providence/",
+  "secondaryLinks": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/gdiProvidence"
+    }
+  ]
+}

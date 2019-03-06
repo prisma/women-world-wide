@@ -1,0 +1,14 @@
+{
+  "image": "https://i.imgur.com/NX7aIaX.png",
+  "name": "Women Who Go (Chicago)",
+  "country": "usa",
+  "city": "chicago",
+  "topics": ["Go"],
+  "mainLink": "https://www.meetup.com/Women-Who-Go-Chicago/",
+  "secondaryLinks": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/womenwhogo_chi"
+    }
+  ]
+}

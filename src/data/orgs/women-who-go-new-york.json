@@ -1,0 +1,14 @@
+{
+  "image": "https://pbs.twimg.com/profile_images/623328794363998208/wYXmyHDX_400x400.png",
+  "name": "Women Who Go New York",
+  "country": "usa",
+  "city": "new-york",
+  "topics": ["Go"],
+  "mainLink": "https://www.meetup.com/NYC-Women-Who-Go/",
+  "secondaryLinks": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/womenwhogo_nyc"
+    }
+  ]
+}

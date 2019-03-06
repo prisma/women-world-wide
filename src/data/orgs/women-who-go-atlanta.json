@@ -1,0 +1,18 @@
+{
+  "image": "https://secure.meetupstatic.com/photos/event/6/3/c/e/600_475105550.jpeg",
+  "name": "Women Who Go Atlanta",
+  "country": "usa",
+  "city": "atlanta",
+  "topics": ["Go"],
+  "mainLink": "https://www.meetup.com/Women-Who-Go-Atlanta/",
+  "secondaryLinks": [
+    {
+      "name": "Newsletter",
+      "url": "https://mailchi.mp/e8393ed3ed1a/wwgatl"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/wwgATL"
+    }
+  ]
+}

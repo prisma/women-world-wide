@@ -1,0 +1,14 @@
+{
+  "image": "https://pbs.twimg.com/profile_images/841699227713511424/zhd-N4LE_400x400.jpg",
+  "name": "Women Who Go LA",
+  "country": "usa",
+  "city": "los-angeles",
+  "topics": ["Go"],
+  "mainLink": "https://www.meetup.com/LA-Women-Who-Go/",
+  "secondaryLinks": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/WomenWhoGo_LA"
+    }
+  ]
+}

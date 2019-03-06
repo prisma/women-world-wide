@@ -1,0 +1,17 @@
+{
+  "image": "https://pbs.twimg.com/profile_images/948339881599754242/guruWZXn_400x400.jpg",
+  "name": "Girls in Tech Brazil",
+  "country": "brazil",
+  "topics": ["Tech"],
+  "mainLink": "https://twitter.com/girlsintechbr",
+  "secondaryLinks": [
+    {
+      "name": "Website",
+      "url": "https://brazil.girlsintech.org/"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/GiTSaoPaulo/"
+    }
+  ]
+}

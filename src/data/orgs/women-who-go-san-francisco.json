@@ -1,0 +1,14 @@
+{
+  "image": "https://pbs.twimg.com/profile_images/1016519026648887296/pHYmi2Ji_400x400.jpg",
+  "name": "Women Who Go San Francisco",
+  "country": "usa",
+  "city": "san-francisco",
+  "topics": ["Go"],
+  "mainLink": "https://www.meetup.com/women-who-go/",
+  "secondaryLinks": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/womenwhogo_sf"
+    }
+  ]
+}

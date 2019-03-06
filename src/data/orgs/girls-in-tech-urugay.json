@@ -1,0 +1,17 @@
+{
+  "image": "https://pbs.twimg.com/profile_images/983473237601505280/Shgjol3G_400x400.jpg",
+  "name": "Girls in Tech Uruguay",
+  "country": "uruguay",
+  "topics": ["Tech"],
+  "mainLink": "https://twitter.com/girlsintech_uy",
+  "secondaryLinks": [
+    {
+      "name": "Website",
+      "url": "https://uruguay.girlsintech.org/"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/Girls-in-Tech-Uruguay-1505773923064030/"
+    }
+  ]
+}
