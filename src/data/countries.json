@@ -76,6 +76,10 @@
     "slug": "poland"
   },
   {
+    "name": "Romania",
+    "slug": "romania"
+  },
+  {
     "name": "Switzerland",
     "slug": "switzerland"
   },
@@ -90,5 +94,9 @@
   {
     "name": "Australia",
     "slug": "australia"
+  },
+  {
+    "name": "Uruguay",
+    "slug": "uruguay"
   }
 ]

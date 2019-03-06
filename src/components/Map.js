@@ -79,7 +79,7 @@ const citiesQuery = graphql`
 // Styles
 const Container = styled.div`
   position: relative;
-  height: 601px;
+  height: 650px;
   width: 1100px;
   margin: 40px auto 0 auto;
   overflow: hidden;
@@ -138,6 +138,7 @@ const Dots = styled.div`
   width: 980px;
   height: 600px;
   top: 0;
+  left: 60px;
 `
 
 const Dot = styled.div`
@@ -161,14 +162,14 @@ const Flowers = styled(FlowersIllustration)`
   position: absolute;
   z-index: 3;
   bottom: -48px;
-  left: 0;
+  left: 60px;
 `
 
 const StyledMap = styled(MapIllustration)`
   position: absolute;
   z-index: 1;
   top: 0;
-  left: 0;
+  left: 60px;
 `
 
 const Background = styled(BackgroundIllustration)`

@@ -150,196 +150,189 @@
     "name": "Merida",
     "slug": "merida",
     "country": "mexico",
-    "top": 10,
-    "left": 10
+    "top": 330,
+    "left": 180
   },
   {
     "name": "Rio de Janeiro",
     "slug": "rio-de-janeiro",
     "country": "brazil",
-    "top": 20,
-    "left": 10
+    "top": 465,
+    "left": 325
   },
   {
     "name": "Sao Paulo",
     "slug": "sao-paulo",
     "country": "brazil",
-    "top": 30,
-    "left": 10
+    "top": 470,
+    "left": 305
   },
   {
     "name": "London",
     "slug": "london",
     "country": "uk",
-    "top": 40,
-    "left": 10
+    "top": 220,
+    "left": 450
   },
   {
     "name": "Oxford",
     "slug": "oxford",
     "country": "uk",
-    "top": 50,
-    "left": 10
+    "top": 219,
+    "left": 444
   },
   {
     "name": "Dublin",
     "slug": "dublin",
     "country": "ireland",
-    "top": 60,
-    "left": 10
+    "top": 210,
+    "left": 430
   },
   {
     "name": "Paris",
     "slug": "paris",
     "country": "france",
-    "top": 70,
-    "left": 10
+    "top": 230,
+    "left": 450
   },
   {
     "name": "Berlin",
     "slug": "berlin",
     "country": "germany",
-    "top": 80,
-    "left": 10
+    "top": 212,
+    "left": 484
   },
   {
     "name": "Vienna",
     "slug": "vienna",
     "country": "austria",
-    "top": 90,
-    "left": 10
+    "top": 230,
+    "left": 490
   },
   {
     "name": "Stockholm",
     "slug": "stockholm",
     "country": "sweden",
-    "top": 100,
-    "left": 10
+    "top": 185,
+    "left": 497
   },
   {
     "name": "Madrid",
     "slug": "madrid",
     "country": "spain",
-    "top": 110,
-    "left": 10
+    "top": 260,
+    "left": 440
   },
   {
     "name": "Milan",
     "slug": "milan",
     "country": "italy",
-    "top": 120,
-    "left": 10
+    "top": 245,
+    "left": 475
   },
   {
     "name": "Tel Aviv",
     "slug": "tel-aviv",
     "country": "israel",
-    "top": 130,
-    "left": 10
-  },
-  {
-    "name": "New Delhi",
-    "slug": "new-delhi",
-    "country": "india",
-    "top": 140,
-    "left": 10
-  },
-  {
-    "name": "Bangalore",
-    "slug": "bangalore",
-    "country": "india",
-    "top": 150,
-    "left": 10
-  },
-  {
-    "name": "Bhopal",
-    "slug": "bhopal",
-    "country": "india",
-    "top": 160,
-    "left": 10
-  },
-  {
-    "name": "Chennai",
-    "slug": "chennai",
-    "country": "india",
-    "top": 170,
-    "left": 10
+    "top": 296,
+    "left": 550
   },
   {
     "name": "Delhi",
     "slug": "delhi",
     "country": "india",
-    "top": 180,
-    "left": 10
+    "top": 305,
+    "left": 687
+  },
+  {
+    "name": "Bangalore",
+    "slug": "bangalore",
+    "country": "india",
+    "top": 355,
+    "left": 687
+  },
+  {
+    "name": "Bhopal",
+    "slug": "bhopal",
+    "country": "india",
+    "top": 325,
+    "left": 687
+  },
+  {
+    "name": "Chennai",
+    "slug": "chennai",
+    "country": "india",
+    "top": 354,
+    "left": 698
   },
   {
     "name": "Pune",
     "slug": "pune",
     "country": "india",
-    "top": 190,
-    "left": 10
+    "top": 340,
+    "left": 675
   },
   {
     "name": "Tokyo",
     "slug": "tokyo",
     "country": "japan",
-    "top": 200,
-    "left": 10
+    "top": 268,
+    "left": 860
   },
   {
     "name": "Nairobi",
     "slug": "nairobi",
     "country": "kenya",
-    "top": 210,
-    "left": 10
+    "top": 396,
+    "left": 560
   },
   {
     "name": "Poznan",
     "slug": "poznan",
     "country": "poland",
-    "top": 220,
-    "left": 10
+    "top": 212,
+    "left": 494
   },
   {
     "name": "Trojmiasto",
     "slug": "trojmiasto",
     "country": "poland",
-    "top": 230,
-    "left": 10
+    "top": 205,
+    "left": 496
   },
   {
     "name": "Zurich",
     "slug": "zurich",
     "country": "switzerland",
-    "top": 240,
-    "left": 10
+    "top": 235,
+    "left": 475
   },
   {
     "name": "Cochabamba",
     "slug": "cochabamba",
     "country": "bolivia",
-    "top": 250,
-    "left": 10
+    "top": 460,
+    "left": 260
   },
   {
     "name": "Buenos Aires",
     "slug": "buenos-aires",
     "country": "argentina",
-    "top": 260,
-    "left": 10
+    "top": 516,
+    "left": 277
   },
   {
     "name": "La Paz",
     "slug": "la-paz",
     "country": "argentina",
-    "top": 270,
-    "left": 10
+    "top": 505,
+    "left": 274
   },
   {
     "name": "Melbourne",
     "slug": "melbourne",
     "country": "australia",
-    "top": 280,
-    "left": 10
+    "top": 526,
+    "left": 880
   }
 ]
