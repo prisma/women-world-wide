@@ -222,7 +222,7 @@ const List = () => {
         </Select> */}
         <Select
           onChange={option => setCity(option)}
-          defaultValue={city}
+          value={city}
           options={cities}
           styles={customStyles} />
       </Filter>

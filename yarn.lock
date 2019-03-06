@@ -9134,6 +9134,11 @@ relay-runtime@2.0.0:
     "@babel/runtime" "^7.0.0"
     fbjs "^1.0.0"
 
+rellax@^1.8.0:
+  version "1.8.0"
+  resolved "https://registry.yarnpkg.com/rellax/-/rellax-1.8.0.tgz#03d26564717d6ecc13633c34642c7374ecb4c431"
+  integrity sha512-15o13NkG4cxboBVrFYXyYax3Jj7jGQQBVGyzt0raL8+79XUDKxXerJ5UYt5mtda3L4qJPF55j2lz/QTl6PMxxw==
+
 remove-trailing-separator@^1.0.1:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
