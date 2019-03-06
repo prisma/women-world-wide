@@ -1,5 +1,5 @@
 // Libraries
-import React, { useState } from 'react'
+import React from 'react'
 import styled from 'styled-components'
 import { transparentize } from 'polished'
 import { useStaticQuery, graphql } from 'gatsby'
@@ -18,15 +18,14 @@ import selectStyles from '../styles/selectStyles'
 
 
 // List
-const List = () => {
-  const [currentCity, setCurrentCity] = useState({ value: 'all', label: 'All cities' })
+const List = ({ currentCity, setCurrentCity }) => {
 
   const data = useStaticQuery(queries)
-
   const orgs = data.allOrgsJson.edges
   const cities = data.allCitiesJson.edges
   const countries = data.allCountriesJson.edges
 
+  // Select Options
   const selectOptions = () => {
     const options = []
 
@@ -34,18 +33,27 @@ const List = () => {
       const cityOptions = []
 
       cities.map(({ node: city }) => {
-        if (city.country === country.slug) {
-          cityOptions.push({ value: city.slug, label: city.name })
-        }
+        return city.country === country.slug
+        ? cityOptions.push({ value: city.slug, label: city.name })
+        : null
       })
 
-      options.push({ label: country.name, options: cityOptions })
+      return options.push({ label: country.name, options: cityOptions })
     })
 
     return [
       { value: 'all', label: 'All cities' },
       ...options
     ]
+  }
+
+  // Handle City Click
+  const handleCityClick = city => {
+    const currentCity = {
+      value: city.node.slug,
+      label: city.node.name
+    }
+    setCurrentCity(currentCity)
   }
 
   return (
@@ -64,9 +72,6 @@ const List = () => {
         { orgs.map(({ node: org }) => {
           if (currentCity.value !== 'all' && currentCity.value !== org.city) return null
 
-          // const { node: orgCity } = cities.find(({ node: city }) => city.slug === org.city)
-          // const { node: orgCountry } = countries.find(({ node: country }) => country.slug === org.country)
-
           const orgCity = cities.find(({ node: city }) => city.slug === org.city)
           const orgCountry = countries.find(({ node: country }) => country.slug === org.country)
 
@@ -82,18 +87,24 @@ const List = () => {
                 <Bottom>
                   <Meta>
                     <Pin />
-                    { orgCity && <City onClick={() => setCurrentCity({ value: orgCity.node.slug, label: orgCity.node.name })}><CityLink>{orgCity.node.name}</CityLink>,&nbsp;</City> }
+                    { orgCity &&
+                      <City>
+                        <CityLink onClick={() => handleCityClick(orgCity)}>
+                          {orgCity.node.name}
+                        </CityLink>,&nbsp;
+                      </City>
+                    }
                     { orgCountry && <Country>{orgCountry.node.name}</Country> }
                     <Topics>
-                      { org.topics.map(topic =>
-                        <Topic>{topic}</Topic>
+                      { org.topics.map((topic, i) =>
+                        <Topic key={i}>{topic}</Topic>
                       )}
                     </Topics>
                   </Meta>
 
                   <SecondaryLinks>
-                    { org.secondaryLinks && org.secondaryLinks.map(link =>
-                      <SecondaryLink href={link.url}>{link.name}</SecondaryLink>
+                    { org.secondaryLinks && org.secondaryLinks.map((link, i) =>
+                      <SecondaryLink key={i} href={link.url}>{link.name}</SecondaryLink>
                     )}
                   </SecondaryLinks>
                 </Bottom>
@@ -113,7 +124,7 @@ const renderMainLink = url => {
 
   if (site.includes('meetup.com')) return <MainLink color={theme.meetupRed} href={url}><MeetupIcon /> Meetup</MainLink>
   if (site.includes('twitter.com')) return <MainLink color={theme.twitterBlue} href={url}><TwitterIcon /> Twitter</MainLink>
-  if (site.includes('t.me')) return <MainLink color={theme.telegramBlue} href={url}><TelegramIcon /> Telegram</MainLink>
+  if (site.includes('t.me') || site.includes('telegram.me')) return <MainLink color={theme.telegramBlue} href={url}><TelegramIcon /> Telegram</MainLink>
 
   else return <MainLink href={url}><LinkIcon /> Visit</MainLink>
 }
@@ -146,8 +157,6 @@ const queries = graphql`
           slug
           name
           country
-          top
-          left
         }
       }
     }

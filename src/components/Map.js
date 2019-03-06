@@ -15,12 +15,17 @@ import BlueSquare from '../svgs/blue-square.svg'
 import YellowBall from '../svgs/yellow-ball.svg'
 
 // Map
-const Map = () => {
+const Map = ({ setCurrentCity }) => {
 
   const data = useStaticQuery(citiesQuery)
   const cities = data.allCitiesJson.edges
 
-  useEffect(() => { new Rellax('.rellax') })
+  useEffect(() => { new Rellax('.rellax') }, [])
+
+  const handleDotClick = city => {
+    setCurrentCity({ label: city.name, value: city.slug })
+    window.scrollTo({ top: 850, behavior: 'smooth' })
+  }
 
   return (
     <Container>
@@ -29,7 +34,7 @@ const Map = () => {
       </Title>
 
       <Dots className="rellax" data-rellax-speed="-4">
-        { cities.map(({ node: city }) => <Dot {...city} />)}
+        { cities.map(({ node: city }) => <Dot key={city.id} {...city} onClick={() => handleDotClick(city)} />)}
       </Dots>
 
       <StyledYellowTriangle className="rellax" data-rellax-speed="-7" />
