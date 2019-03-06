@@ -3,6 +3,7 @@ import React, { useEffect } from 'react'
 import { useStaticQuery, graphql } from 'gatsby'
 import styled from 'styled-components'
 import Rellax from 'rellax'
+import Tippy from '@tippy.js/react'
 
 // Illustration
 import MapIllustration from '../svgs/map.svg'
@@ -14,6 +15,9 @@ import RedSquare from '../svgs/red-square.svg'
 import BlueSquare from '../svgs/blue-square.svg'
 import YellowBall from '../svgs/yellow-ball.svg'
 
+// Remove the blue outline
+Tippy.defaultProps = { ...Tippy.defaultProps, a11y: false }
+
 // Map
 const Map = ({ setCurrentCity }) => {
 
@@ -23,8 +27,8 @@ const Map = ({ setCurrentCity }) => {
   useEffect(() => { new Rellax('.rellax') }, [])
 
   const handleDotClick = city => {
-    setCurrentCity({ label: city.name, value: city.slug })
     window.scrollTo({ top: 850, behavior: 'smooth' })
+    setCurrentCity({ label: city.name, value: city.slug })
   }
 
   return (
@@ -34,7 +38,11 @@ const Map = ({ setCurrentCity }) => {
       </Title>
 
       <Dots className="rellax" data-rellax-speed="-4">
-        { cities.map(({ node: city }) => <Dot key={city.id} {...city} onClick={() => handleDotClick(city)} />)}
+        { cities.map(({ node: city }) =>
+          <Tippy content={city.name} key={city.id}>
+            <Dot {...city} onClick={() => handleDotClick(city)} />
+          </Tippy>
+        )}
       </Dots>
 
       <StyledYellowTriangle className="rellax" data-rellax-speed="-7" />
@@ -142,10 +150,9 @@ const Dot = styled.div`
   width: 8px;
   height: 8px;
   border-radius: 12px;
-  /* border: 2px solid ${p => p.theme.purple}; */
 
   &:hover {
-    transform: scale(3);
+    transform: scale(2);
     cursor: pointer;
   }
 `
