@@ -25,7 +25,7 @@ const Container = styled.div`
   display: flex;
   align-items: center;
   position: relative;
-  z-index: 1;
+  z-index: 10;
   background: ${p => p.theme.white};
   max-width: 900px;
   margin: -40px auto 0 auto;
@@ -42,10 +42,11 @@ const Text = styled.div`
 `
 
 const Title = styled.div`
-  color: ${p => p.theme.purple};
+  color: ${p => p.theme.black};
   font-weight: 600;
   font-size: 20px;
   line-height: 24px;
+  margin-bottom: 8px;
 `
 
 const Subtitle = styled.div`
