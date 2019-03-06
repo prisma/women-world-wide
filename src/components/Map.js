@@ -24,7 +24,7 @@ const Map = () => {
 
   return (
     <Container>
-      <Title className="rellax" data-rellax-speed="-3">
+      <Title className="rellax" data-rellax-speed="-5">
         Some Sort of Page Title I Assume Goes Here
       </Title>
 
@@ -74,7 +74,7 @@ const Container = styled.div`
 
 const Title = styled.div`
   position: relative;
-  z-index: 10;
+  z-index: 2;
   max-width: 500px;
   margin: 64px auto 0 auto;
   text-align: center;

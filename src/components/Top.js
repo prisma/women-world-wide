@@ -2,15 +2,18 @@
 import React from 'react'
 import styled from 'styled-components'
 
-// Styles
+// Icons
+import GithubIcon from '../svgs/github.svg'
 
 // Layout
 const Top = () => (
   <Center>
     <Name>Women in Tech</Name>
     <Nav>
-      <NavLink>Github</NavLink>
-      <NavLink>Add a resource</NavLink>
+      <NavLink>
+        <StyledGithubIcon />
+        View on Github
+      </NavLink>
     </Nav>
   </Center>
 )
@@ -35,8 +38,13 @@ const Nav = styled.nav`
   align-items: center;
 `
 
+const StyledGithubIcon = styled(GithubIcon)`
+  margin-right: 12px;
+`
+
 const NavLink = styled.a`
-  margin: 0 12px;
+  display: flex;
+  align-items: center;
   font-size: 18px;
   color: ${p => p.theme.white};
 

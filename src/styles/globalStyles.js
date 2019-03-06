@@ -44,6 +44,9 @@ export default createGlobalStyle`
     font-size: 16px;
     color: ${theme.black};
     background-color: ${theme.lightGray};
+    background-image: url('/gray-flora.svg');
+    background-position: center 600px;
+    background-repeat: no-repeat;
     -webkit-text-size-adjust: 100%;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
