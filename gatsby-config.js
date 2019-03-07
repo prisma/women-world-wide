@@ -1,9 +1,4 @@
 module.exports = {
-  siteMetadata: {
-    title: `Women in Tech Organizations`,
-    description: `Women in Tech`,
-    author: `@prisma`,
-  },
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-transformer-sharp`,
