@@ -4,7 +4,7 @@
 
 This map represents just a tiny sliver of the great organizations that share this focus. 
 
-If you know of a local group that should be on the 🗺, please submit a pull request, so that we can be sure to add it!
+If you know of a local group that should be on the map, please submit a pull request, so that we can be sure to add it!
 
 ## Running the repo locally
 If you'd like to submit a pull request, you can run the easily run the project locally:
