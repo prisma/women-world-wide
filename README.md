@@ -17,7 +17,9 @@ $ yarn develop
 ```
 
 ## Contributions 🤝
-We are actively seeking to add additional organizations for the map. To add your group, please add each of the organization's location as a seperate JSON file in the `src/data/orgs` directory. You can see an example below (using the Women Who Code Atlanta organization):
+We are actively seeking to add additional organizations for the map. To add your group, please add each of the organization's locations as a seperate JSON file in the `src/data/orgs` directory. 
+
+You can see an example below (using the *Women Who Code Atlanta* organization):
 
 ```
 {
@@ -54,4 +56,6 @@ A submitted organization should have the following
 If you see an inactive (without activity for over six months) organization on this map, please open up an issue, so that the map remain current and helpful as possible. 
 
 
-Made with ♥ by Prisma
+
+
+Made with ❤️ by [Prisma](prisma.io)
