@@ -1,8 +1,10 @@
 # Women World Wide Dev 👩🏾‍💻👩🏿‍💻👩🏻‍💻👩🏽‍💻👩🏼‍💻
 
-[WomenWorldWide.dev](WomenWorldWide.dev) is a map organizations around the world dedicated to supporting women in the tech industry!
+[WomenWorldWide.dev](WomenWorldWide.dev) is a map of coding and tech groups around the world for women. 
 
-This map represents just a tiny sliver of the great organizations with this focus. We would love to continue to build out this map. If you know of a local group that should be on the 🗺, please submit a pull request, so that we can be sure to add it!
+This map represents just a tiny sliver of the great organizations that share with this focus. 
+
+If you know of a local group that should be on the 🗺, please submit a pull request, so that we can be sure to add it!
 
 ## Running the repo locally
 If you'd like to submit a pull request, you can run the easily run the project locally:
