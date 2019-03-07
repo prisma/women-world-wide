@@ -17,8 +17,7 @@ $ yarn develop
 ```
 
 ## Contributions 🤝
-We are actively seeking additional organizations for the map. To add your group, please add it as a seperate JSON file in the `src/data/orgs` directory. You can see an example below (using the Women Who Code Atlanta organization):
-
+We are actively seeking to add additional organizations for the map. To add your group, please add each of the organization's location as a seperate JSON file in the `src/data/orgs` directory. You can see an example below (using the Women Who Code Atlanta organization):
 
 ```
 {
@@ -41,15 +40,15 @@ We are actively seeking additional organizations for the map. To add your group,
 }
 ```
 
-A submitted organization should have the following
-* **Filename**: The filename should be the organization name followed by the group's location. For example: `women-who-code-atlanta.json`
-* **Image**: A link to the organizations image 
-* **Name**: The name of the organization (including the branch location)
-* **Country**
-* **City**
-* **Topics**: If the group focuses on a specfic technology, you can add more details about the language or focus here. 
-* **Main Link**: This is the main link where your organization lives. Often this is a meetup link, but it could be the group's homepage, or anything other place where readers can get additional information. 
-* **Secondary Links**: These are additional links that correspond to an organization — for example if they have a specific twitter, etc. 
+A submitted organization should have the following 
+✅ **Filename**: The filename should be the organization name followed by the group's location. For example: `women-who-code-atlanta.json`
+✅ **Image**: A link to the organizations image 
+✅ **Name**: The name of the organization (including the branch location)
+✅ **Country**
+✅ **City**: *If your local organization branch just has a country, but not a city, you can skip this section*
+✅ **Topics**: If the group focuses on a specfic technology, you can add more details about the language or focus here. 
+✅ **Main Link**: This is the main link where your organization lives. Often this is a meetup link, but it could be the group's homepage, or anything other place where readers can get additional information. 
+✅ **Secondary Links**: These are additional links that correspond to an organization — for example if they have a specific twitter, etc. 
 
 ## Maintenance 💪
 If you see an inactive (without activity for over six months) organization on this map, please open up an issue, so that the map can be as current and helpful as possible. 
