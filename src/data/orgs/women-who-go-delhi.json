@@ -1,14 +1,14 @@
 {
-  "image": "https://pbs.twimg.com/profile_images/965020158828756993/ujpiLwn6_400x400.jpg",
-  "name": "Women Who Go - Delhi Chapter",
+  "city": "delhi",
   "country": "india",
-  "city": "new-delhi",
-  "topics": ["Golang"],
-  "mainLink": "https://www.tg.me/Women-Who-Go-London/",
+  "name": "Women Who Go - Delhi Chapter",
+  "image": "http://pbs.twimg.com/profile_images/965020158828756993/ujpiLwn6_400x400.jpg",
+  "topics": ["Go"],
+  "mainLink": "https://t.me/womenwhogodelhi",
   "secondaryLinks": [
     {
       "name": "Twitter",
-      "url": "https://www.twitter.com/womenwhogolondon"
+      "url": "https://twitter.com/womenwhogo_del"
     }
   ]
 }

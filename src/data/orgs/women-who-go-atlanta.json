@@ -1,8 +1,8 @@
 {
-  "image": "https://secure.meetupstatic.com/photos/event/6/3/c/e/600_475105550.jpeg",
-  "name": "Women Who Go Atlanta",
-  "country": "usa",
   "city": "atlanta",
+  "country": "usa",
+  "name": "Atlanta Women Who Go",
+  "image": "http://pbs.twimg.com/profile_images/865680073109626880/fLxpgwPH_400x400.jpg",
   "topics": ["Go"],
   "mainLink": "https://www.meetup.com/Women-Who-Go-Atlanta/",
   "secondaryLinks": [

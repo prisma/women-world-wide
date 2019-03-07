@@ -1,8 +1,8 @@
 {
-  "image": "https://pbs.twimg.com/profile_images/623328794363998208/wYXmyHDX_400x400.png",
-  "name": "Women Who Go New York",
-  "country": "usa",
   "city": "new-york",
+  "country": "usa",
+  "name": "NYC Women Who Go",
+  "image": "http://pbs.twimg.com/profile_images/623328794363998208/wYXmyHDX_normal.png",
   "topics": ["Go"],
   "mainLink": "https://www.meetup.com/NYC-Women-Who-Go/",
   "secondaryLinks": [

@@ -1,8 +1,8 @@
 {
-  "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
-  "name": "Bay Area Women in Machine Learning & Data Science",
   "city": "san-francisco",
   "country": "usa",
+  "name": "Bay Area Women in Machine Learning & Data Science",
+  "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
   "topics": ["Machine Learning", "Data Science"],
   "mainLink": "https://www.meetup.com/Bay-Area-Women-in-Machine-Learning-and-Data-Science/",
   "secondaryLinks": [

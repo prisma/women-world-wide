@@ -1,8 +1,8 @@
 {
-  "image": "https://pbs.twimg.com/profile_images/946729603439185920/HJcdxJXQ_400x400.jpg",
-  "name": "Girls in Tech Dublin",
   "city": "dublin",
   "country": "ireland",
+  "name": "Girls in Tech Dublin",
+  "image": "https://pbs.twimg.com/profile_images/946729603439185920/HJcdxJXQ_400x400.jpg",
   "topics": ["Tech"],
   "mainLink": "https://twitter.com/GITDublin",
   "secondaryLinks": [

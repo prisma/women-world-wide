@@ -1,7 +1,7 @@
 {
-  "image": "https://pbs.twimg.com/profile_images/946780858501009409/Fp_nz5Q__400x400.jpg",
-  "name": "Girls In Tech Ecuador",
   "country": "ecuador",
+  "name": "Girls In Tech Ecuador",
+  "image": "https://pbs.twimg.com/profile_images/946780858501009409/Fp_nz5Q__400x400.jpg",
   "topics": ["Tech"],
   "mainLink": "https://twitter.com/GirlsinTech_Ec",
   "secondaryLinks": [
@@ -11,7 +11,7 @@
     },
     {
       "name": "Facebook",
-      "url": "https://www.facebook.com/Girls-in-Tech-Ecuador-717123028399295/"
+      "url": "https://www.facebookx.com/Girls-in-Tech-Ecuador-717123028399295/"
     }
   ]
 }

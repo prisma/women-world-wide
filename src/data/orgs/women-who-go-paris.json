@@ -1,14 +1,14 @@
 {
-  "image": "https://secure.meetupstatic.com/photos/event/3/8/b/b/600_455714523.jpeg",
-  "name": "Women Who Go Paris",
-  "country": "france",
   "city": "paris",
-  "topics": ["Golang"],
+  "country": "france",
+  "name": "Women Who Go Paris",
+  "image": "http://pbs.twimg.com/profile_images/793196329719697408/6za446ZM_400x400.jpg",
+  "topics": ["Go"],
   "mainLink": "https://www.meetup.com/Women-Who-Go-London/",
   "secondaryLinks": [
     {
       "name": "Twitter",
-      "url": "https://www.twitter.com/womenwhogolondon"
+      "url": "https://twitter.com/womenwhogoparis"
     }
   ]
 }

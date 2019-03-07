@@ -1,7 +1,7 @@
 {
-  "image": "https://pbs.twimg.com/profile_images/948339881599754242/guruWZXn_400x400.jpg",
-  "name": "Girls in Tech Brazil",
   "country": "brazil",
+  "name": "Girls in Tech Brazil",
+  "image": "https://pbs.twimg.com/profile_images/948339881599754242/guruWZXn_400x400.jpg",
   "topics": ["Tech"],
   "mainLink": "https://twitter.com/girlsintechbr",
   "secondaryLinks": [

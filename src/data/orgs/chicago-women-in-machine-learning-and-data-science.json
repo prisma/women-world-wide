@@ -1,0 +1,18 @@
+{
+  "city": "chicago",
+  "country": "usa",
+  "name": "Chicago Women in Machine Learning & Data Science",
+  "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
+  "topics": ["Machine Learning", "Data Science"],
+  "mainLink": "https://www.meetup.com/Chicago-Women-in-Machine-Learning-Data-Science/",
+  "secondaryLinks": [
+    {
+      "name": "Newsletter",
+      "url": "http://eepurl.com/b2Bfvz"
+    },
+    {
+      "name": "Website",
+      "url": "http://wimlds.org/chapters/about-the-chicago-team/"
+    }
+  ]
+}

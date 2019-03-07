@@ -1,0 +1,14 @@
+{
+  "city": "cary",
+  "country": "usa",
+  "name": "NC Women in Machine Learning and Data Science",
+  "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
+  "topics": ["Machine Learning", "Data Science"],
+  "mainLink": "https://www.meetup.com/NC-Women-in-Machine-Learning-and-Data-Science/",
+  "secondaryLinks": [
+    {
+      "name": "Website",
+      "url": "http://wimlds.org/chapters/about-the-north-carolina-team/"
+    }
+  ]
+}

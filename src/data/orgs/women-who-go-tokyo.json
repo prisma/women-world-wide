@@ -1,14 +1,14 @@
 {
-  "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/af/28/af28f8b7eda018a8080a8ad624e46252.png",
-  "name": "Women Who Go Tokyo",
-  "country": "japan",
   "city": "tokyo",
-  "topics": ["Golang"],
-  "mainLink": "https://www.twitter.com/Women-Who-Go-London/",
+  "country": "japan",
+  "name": "Women Who Go Tokyo",
+  "image": "http://pbs.twimg.com/profile_images/1031384898991312896/PM6h3Ga7_400x400.jpg",
+  "topics": ["Go"],
+  "mainLink": "https://twitter.com/wwg_tokyo",
   "secondaryLinks": [
     {
-      "name": "Connpass",
-      "url": "https://www.twitter.com/womenwhogolondon"
+      "name": "Connapss",
+      "url": "https://womenwhogo-tokyo.connpass.com/"
     }
   ]
 }

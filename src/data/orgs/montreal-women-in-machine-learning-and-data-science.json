@@ -1,0 +1,14 @@
+{
+  "city": "montreal",
+  "country": "canada",
+  "name": "Women in Machine Learning and Data Science Montreal",
+  "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
+  "topics": ["Machine Learning", "Data Science"],
+  "mainLink": "https://www.meetup.com/wimlds-mtl/",
+  "secondaryLinks": [
+    {
+      "name": "Website",
+      "url": "http://wimlds.org/chapters/about-the-montreal-team/"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
-  "image": "https://pbs.twimg.com/profile_images/936100470916919296/kZuY1Esc_400x400.jpg",
-  "name": "Girls in Tech Melbourne",
-  "country": "australia",
   "city": "melbourne",
+  "country": "australia",
+  "name": "Girls in Tech Melbourne",
+  "image": "https://pbs.twimg.com/profile_images/936100470916919296/kZuY1Esc_400x400.jpg",
   "topics": ["Tech"],
   "mainLink": "https://twitter.com/GiTAustralia",
   "secondaryLinks": [

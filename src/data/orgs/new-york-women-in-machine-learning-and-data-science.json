@@ -1,0 +1,18 @@
+{
+  "city": "new-york",
+  "country": "usa",
+  "name": "NYC Women in Machine Learning & Data Science",
+  "image": "https://pbs.twimg.com/profile_images/1032358658745741317/Xo4sMniV_400x400.jpg",
+  "topics": ["Machine Learning", "Data Science"],
+  "mainLink": "https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/",
+  "secondaryLinks": [
+    {
+      "name": "Website",
+      "url": "http://wimlds.org/chapters/about-nyc/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/WiMLDS_NYC"
+    }
+  ]
+}
