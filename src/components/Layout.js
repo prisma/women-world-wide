@@ -20,11 +20,14 @@ export default ({ children }) => (
         <meta property='og:url' content='https://FIXME.com' />
         <meta property='og:type' content='website' />
         <meta property='og:locale' content='en' />
+        <meta property='og:title' content='Women in Tech' />
+        <meta property='og:description' content="Site's description" />
         <meta property='og:site_name' content='Women in Tech' />
         <meta property='og:image' content='/social.png' />
         <meta property='og:image:width' content='1012' />
         <meta property='og:image:height' content='506' />
-        <meta name='twitter:card' content='summary' />
+        <meta name='twitter:card' content='summary_large_image' />
+        <meta name="twitter:creator" content="@prisma" />
       </Helmet>
       <GlobalStyles />
       {children}
