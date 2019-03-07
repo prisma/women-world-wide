@@ -7,7 +7,7 @@ This map represents just a tiny sliver of the great organizations that share thi
 If you know of a local group that should be on the map, please submit a pull request, so that we can be sure to add it!
 
 ## Running the repo locally
-If you'd like to submit a pull request, you can run the easily run the project locally:
+If you'd like to submit a pull request, you can run the project locally:
 
 ```
 $ git clone git@github.com:prisma/women-world-wide.git
