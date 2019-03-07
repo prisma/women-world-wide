@@ -13,16 +13,16 @@ export default ({ children }) => (
     <>
       <Helmet>
         <html lang='en' />
-        <title>Women in Tech</title>
-        <meta name="description" content="Site's description" />
-        <link rel='canonical' href='https://FIXME.com' />
+        <title>Women World Wide Dev</title>
+        <meta name="description" content="DESCRIPTION" />
+        <link rel='canonical' href='SITEURL' />
         <meta name='viewport' content='width=device-width,initial-scale=1,shrink-to-fit=no,viewport-fit=cover' />
-        <meta property='og:url' content='https://FIXME.com' />
+        <meta property='og:url' content='SITEURL' />
         <meta property='og:type' content='website' />
         <meta property='og:locale' content='en' />
-        <meta property='og:title' content='Women in Tech' />
-        <meta property='og:description' content="Site's description" />
-        <meta property='og:site_name' content='Women in Tech' />
+        <meta property='og:title' content='Women World Wide Dev' />
+        <meta property='og:description' content="DESCRIPTION" />
+        <meta property='og:site_name' content='Women World Wide Dev' />
         <meta property='og:image' content='/social.png' />
         <meta property='og:image:width' content='1012' />
         <meta property='og:image:height' content='506' />

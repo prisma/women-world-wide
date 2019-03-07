@@ -1,6 +1,3 @@
-// Libraries
-// import { transparentize } from 'polished'
-
 // Colors
 const colors = {
   black: '#1B0054',

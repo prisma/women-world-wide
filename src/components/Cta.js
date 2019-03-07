@@ -15,7 +15,7 @@ const Cta = () => (
         <Title>Don't see your organization on the list?</Title>
         <Subtitle>This site is fully open source, submit a PR to add a new resource.</Subtitle>
       </Text>
-      <Button href="https://github.com/prisma/women-in-tech">
+      <Button href="https://github.com/prisma/women-world-wide">
         <PlusIcon /> Add an org
       </Button>
     </Main>

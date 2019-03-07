@@ -1,7 +1,7 @@
 {
-  "name": "women-in-tech",
+  "name": "women-world-wide",
   "private": true,
-  "description": "Women in Tech",
+  "description": "Women World Wide Dev",
   "version": "0.1.0",
   "scripts": {
     "build": "gatsby build",
@@ -36,9 +36,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/prisma/women-in-tech"
+    "url": "https://github.com/prisma/women-world-wide"
   },
   "bugs": {
-    "url": "https://github.com/prisma/women-in-tech/issues"
+    "url": "https://github.com/prisma/women-world-wide/issues"
   }
 }

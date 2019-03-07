@@ -6,7 +6,7 @@ import styled from 'styled-components'
 const Footer = () => (
   <Container>
     <Left>
-      <Name>Women in Tech</Name>
+      <Name>Women World Wide Dev</Name>
       <Faded>One sentence description of the site</Faded>
     </Left>
 

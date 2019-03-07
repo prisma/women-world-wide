@@ -8,9 +8,9 @@ import GithubIcon from '../svgs/github.svg'
 // Layout
 const Top = () => (
   <Center>
-    <Name>Women in Tech Organizations</Name>
+    <Name>Women World Wide Dev</Name>
     <Nav>
-      <NavLink>
+      <NavLink href="https://github.com/prisma/women-world-wide">
         <StyledGithubIcon />
         View on Github
       </NavLink>

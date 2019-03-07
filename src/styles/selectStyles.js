@@ -1,12 +1,13 @@
+// Theme
 import theme from './theme'
 
+// Select Styles
 export default {
   menu: (provided) => ({
     ...provided,
     boxShadow: theme.cardShadow,
     borderRadius: 0
   }),
-  // singleValue: (provided) => console.log({ provided }),
   singleValue: (provided) => ({
     ...provided,
     color: theme.black,
