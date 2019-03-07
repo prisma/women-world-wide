@@ -34,7 +34,7 @@ const Map = ({ setCurrentCity }) => {
   return (
     <Container>
       <Title className="rellax" data-rellax-speed="-5">
-        Discover the groups nearest to you!
+        Find incredible, local women in tech groups
       </Title>
 
       <Dots className="rellax" data-rellax-speed="-4">

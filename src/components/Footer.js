@@ -7,10 +7,10 @@ const Footer = () => (
   <Container>
     <Left>
       <Name>Women World Wide Dev</Name>
-      <Faded>One sentence description of the site</Faded>
+      <Subline>Thank you to everyone who makes these groups possible! 🙌</Subline>
     </Left>
 
-    <Right>Made by <Link href="https://www.prisma.io/">Prisma</Link>, open for everyone</Right>
+    <Right>Made with <Emoji>️️❤️</Emoji> by <Link href="https://www.prisma.io/">Prisma</Link></Right>
   </Container>
 )
 
@@ -27,6 +27,7 @@ const Container = styled.div`
   text-align: center;
 
   @media screen and (min-width: 650px) {
+    align-items: flex-end;
     text-align: left;
     flex-direction: row;
   }
@@ -36,9 +37,12 @@ const Left = styled.div``
 
 const Name = styled.div`
   font-weight: 700;
+  margin-bottom: 4px;
 `
 
 const Right = styled.div`
+  white-space: nowrap;
+  color: ${p => p.theme.midGray};
   text-align: center;
   margin: 16px 0 0 0;
 
@@ -48,8 +52,13 @@ const Right = styled.div`
   }
 `
 
-const Faded = styled.div`
-  opacity: 0.5;
+const Emoji = styled.span`
+  font-size: 14px;
+`
+
+const Subline = styled.div`
+  line-height: 1.25;
+  color: ${p => p.theme.midGray};
 `
 
 const Link = styled.a`
