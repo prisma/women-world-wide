@@ -43,7 +43,7 @@ You can see an example below (using the *Women Who Code Atlanta* organization):
 ```
 
 A submitted organization should have the following: 
-* **Filename**: The filename should be the organization name followed by the group's location. For example: `women-who-code-atlanta.json`
+* File name: The filename should be the organization name followed by the group's location. For example: `women-who-code-atlanta.json`
 * `image`: A link to the organization's image 
 * `name`: The name of the organization (including the branch location)
 * `country`
