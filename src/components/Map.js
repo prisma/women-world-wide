@@ -160,18 +160,20 @@ const Dots = styled.div`
 `
 
 const Dot = styled.div`
-  transition: transform 0.1s ease;
+  transition: transform 0.1s ease, opacity 0.1s ease;
   position: absolute;
   z-index: 5;
   top: ${p => p.top}px;
   left: ${p => p.left}px;
   background-color: ${p => p.theme.white};
+  opacity: 0.75;
   width: 8px;
   height: 8px;
   border-radius: 12px;
 
   &:hover {
     transform: scale(2);
+    opacity: 1;
     cursor: pointer;
   }
 `

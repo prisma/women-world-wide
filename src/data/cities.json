@@ -1,5 +1,40 @@
 [
   {
+    "name": "Accra",
+    "slug": "accra",
+    "country": "ghana",
+    "top": 380,
+    "left": 430
+  },
+  {
+    "name": "Albuquerque",
+    "slug": "albuquerque",
+    "country": "usa",
+    "top": 275,
+    "left": 130
+  },
+  {
+    "name": "Amsterdam",
+    "slug": "amsterdam",
+    "country": "netherlands",
+    "top": 220,
+    "left": 460
+  },
+  {
+    "name": "Ann-Arbor",
+    "slug": "ann-arbor",
+    "country": "usa",
+    "top": 240,
+    "left": 200
+  },
+  {
+    "name": "Arequipa",
+    "slug": "arequipa",
+    "country": "peru",
+    "top": 450,
+    "left": 240
+  },
+  {
     "name": "Atlanta",
     "slug": "atlanta",
     "country": "usa",
@@ -12,6 +47,97 @@
     "country": "usa",
     "top": 290,
     "left": 160
+  },
+  {
+    "name": "Baltimore",
+    "slug": "baltimore",
+    "country": "usa",
+    "top": 260,
+    "left": 235
+  },
+  {
+    "name": "Bangalore",
+    "slug": "bangalore",
+    "country": "india",
+    "top": 355,
+    "left": 687
+  },
+  {
+    "name": "barcelona",
+    "slug": "barcelona",
+    "country": "spain",
+    "top": 255,
+    "left": 455
+  },
+  {
+    "name": "Bauchi",
+    "slug": "bauchi",
+    "country": "nigeria",
+    "top": 360,
+    "left": 460
+  },
+  {
+    "name": "Bay Area",
+    "slug": "bay-area",
+    "country": "usa",
+    "top": 273,
+    "left": 95
+  },
+  {
+    "name": "Beijing",
+    "slug": "beijing",
+    "country": "china",
+    "top": 253,
+    "left": 790
+  },
+  {
+    "name": "Belfast",
+    "slug": "belfast",
+    "country": "uk",
+    "top": 200,
+    "left": 435
+  },
+  {
+    "name": "Belo Horizonte",
+    "slug": "belo-horizonte",
+    "country": "brazil",
+    "top": 457,
+    "left": 325
+  },
+  {
+    "name": "Berlin",
+    "slug": "berlin",
+    "country": "germany",
+    "top": 212,
+    "left": 484
+  },
+  {
+    "name": "Bhopal",
+    "slug": "bhopal",
+    "country": "india",
+    "top": 325,
+    "left": 687
+  },
+  {
+    "name": "Birmingham",
+    "slug": "birmingham",
+    "country": "uk",
+    "top": 216,
+    "left": 443
+  },
+  {
+    "name": "Bismarck",
+    "slug": "bismarck",
+    "country": "usa",
+    "top": 220,
+    "left": 180
+  },
+  {
+    "name": "Boise",
+    "slug": "boise",
+    "country": "boise",
+    "top": 220,
+    "left": 130
   },
   {
     "name": "Boston",
@@ -28,6 +154,76 @@
     "left": 150
   },
   {
+    "name": "Brasilia",
+    "slug": "brasilia",
+    "country": "brazil",
+    "top": 447,
+    "left": 305
+  },
+  {
+    "name": "Bratislava",
+    "slug": "bratislava",
+    "country": "slovakia",
+    "top": 230,
+    "left": 492
+  },
+  {
+    "name": "Brisbane",
+    "slug": "brisbane",
+    "country": "australia",
+    "top": 496,
+    "left": 907
+  },
+  {
+    "name": "Bristol",
+    "slug": "bristol",
+    "country": "uk",
+    "top": 220,
+    "left": 442
+  },
+  {
+    "name": "Brno",
+    "slug": "brno",
+    "country": "czech-republic",
+    "top": 227,
+    "left": 491
+  },
+  {
+    "name": "Buenos Aires",
+    "slug": "buenos-aires",
+    "country": "argentina",
+    "top": 516,
+    "left": 277
+  },
+  {
+    "name": "Buffalo",
+    "slug": "buffalo",
+    "country": "usa",
+    "top": 240,
+    "left": 245
+  },
+  {
+    "name": "Burlington",
+    "slug": "burlington",
+    "country": "usa",
+    "top": 235,
+    "left": 250
+  },
+  {
+    "name": "Camden",
+    "slug": "camden",
+    "country": "usa",
+    "top": 252,
+    "left": 246
+  },
+  {
+    "name": "Campinas",
+    "slug": "campinas",
+    "country": "brazil",
+    "top": 438,
+    "left": 305
+  },
+  {
     "name": "Cary",
     "slug": "cary",
     "country": "usa",
@@ -35,11 +231,60 @@
     "left": 225
   },
   {
+    "name": "Chennai",
+    "slug": "chennai",
+    "country": "india",
+    "top": 354,
+    "left": 698
+  },
+  {
     "name": "Chicago",
     "slug": "chicago",
     "country": "usa",
     "top": 240,
     "left": 195
+  },
+  {
+    "name": "Cincinnati",
+    "slug": "cincinnati",
+    "country": "usa",
+    "top": 250,
+    "left": 208
+  },
+  {
+    "name": "Cleveland",
+    "slug": "cleveland",
+    "country": "usa",
+    "top": 240,
+    "left": 193
+  },
+  {
+    "name": "Cochabamba",
+    "slug": "cochabamba",
+    "country": "bolivia",
+    "top": 460,
+    "left": 260
+  },
+  {
+    "name": "Colima",
+    "slug": "colima",
+    "country": "mexico",
+    "top": 330,
+    "left": 135
+  },
+  {
+    "name": "Colorado",
+    "slug": "colorado",
+    "country": "usa",
+    "top": 225,
+    "left": 140
+  },
+  {
+    "name": "Columbus",
+    "slug": "columbus",
+    "country": "usa",
+    "top": 248,
+    "left": 205
   },
   {
     "name": "Corpus Christi",
@@ -50,192 +295,17 @@
   },
   {
     "name": "Dallas Fort Worth",
-    "slug": "dallas-fort-worth",
+    "slug": "dallas-forth-worth",
     "country": "usa",
     "top": 280,
     "left": 162
   },
   {
-    "name": "Detroit",
-    "slug": "detroit",
+    "name": "Dayton",
+    "slug": "dayton",
     "country": "usa",
-    "top": 238,
-    "left": 210
-  },
-  {
-    "name": "Los Angeles",
-    "slug": "los-angeles",
-    "country": "usa",
-    "top": 290,
-    "left": 105
-  },
-  {
-    "name": "New York",
-    "slug": "new-york",
-    "country": "usa",
-    "top": 250,
-    "left": 250
-  },
-  {
-    "name": "Orlando",
-    "slug": "orlando",
-    "country": "usa",
-    "top": 300,
-    "left": 205
-  },
-  {
-    "name": "Providence",
-    "slug": "providence",
-    "country": "usa",
-    "top": 245,
-    "left": 255
-  },
-  {
-    "name": "Pittsburgh",
-    "slug": "pittsburgh",
-    "country": "usa",
-    "top": 250,
-    "left": 220
-  },
-  {
-    "name": "Utah",
-    "slug": "utah",
-    "country": "usa",
-    "top": 255,
-    "left": 130
-  },
-  {
-    "name": "San Francisco",
-    "slug": "san-francisco",
-    "country": "usa",
-    "top": 275,
-    "left": 95
-  },
-  {
-    "name": "Seattle",
-    "slug": "seattle",
-    "country": "usa",
-    "top": 210,
-    "left": 100
-  },
-  {
-    "name": "Edmonton",
-    "slug": "edmonton",
-    "country": "canada",
-    "top": 180,
-    "left": 140
-  },
-  {
-    "name": "Halifax",
-    "slug": "halifax",
-    "country": "canada",
-    "top": 240,
-    "left": 270
-  },
-  {
-    "name": "Montreal",
-    "slug": "montreal",
-    "country": "canada",
-    "top": 230,
-    "left": 250
-  },
-  {
-    "name": "Vancouver",
-    "slug": "vancouver",
-    "country": "canada",
-    "top": 200,
-    "left": 100
-  },
-  {
-    "name": "Mérida",
-    "slug": "merida",
-    "country": "mexico",
-    "top": 330,
-    "left": 180
-  },
-  {
-    "name": "Rio de Janeiro",
-    "slug": "rio-de-janeiro",
-    "country": "brazil",
-    "top": 465,
-    "left": 325
-  },
-  {
-    "name": "Sao Paulo",
-    "slug": "sao-paulo",
-    "country": "brazil",
-    "top": 470,
-    "left": 305
-  },
-  {
-    "name": "London",
-    "slug": "london",
-    "country": "uk",
-    "top": 220,
-    "left": 450
-  },
-  {
-    "name": "Oxford",
-    "slug": "oxford",
-    "country": "uk",
-    "top": 219,
-    "left": 444
-  },
-  {
-    "name": "Dublin",
-    "slug": "dublin",
-    "country": "ireland",
-    "top": 210,
-    "left": 430
-  },
-  {
-    "name": "Paris",
-    "slug": "paris",
-    "country": "france",
-    "top": 230,
-    "left": 450
-  },
-  {
-    "name": "Berlin",
-    "slug": "berlin",
-    "country": "germany",
-    "top": 212,
-    "left": 484
-  },
-  {
-    "name": "Vienna",
-    "slug": "vienna",
-    "country": "austria",
-    "top": 230,
-    "left": 490
-  },
-  {
-    "name": "Stockholm",
-    "slug": "stockholm",
-    "country": "sweden",
-    "top": 185,
-    "left": 497
-  },
-  {
-    "name": "Madrid",
-    "slug": "madrid",
-    "country": "spain",
-    "top": 260,
-    "left": 440
-  },
-  {
-    "name": "Milan",
-    "slug": "milan",
-    "country": "italy",
-    "top": 245,
-    "left": 475
-  },
-  {
-    "name": "Tel Aviv",
-    "slug": "tel-aviv",
-    "country": "israel",
-    "top": 296,
-    "left": 550
+    "top": 251,
+    "left": 207
   },
   {
     "name": "Delhi",
@@ -245,81 +315,137 @@
     "left": 687
   },
   {
-    "name": "Bangalore",
-    "slug": "bangalore",
-    "country": "india",
-    "top": 355,
-    "left": 687
+    "name": "Denver",
+    "slug": "denver",
+    "country": "usa",
+    "top": 257,
+    "left": 150
   },
   {
-    "name": "Bhopal",
-    "slug": "bhopal",
-    "country": "india",
-    "top": 325,
-    "left": 687
+    "name": "Detroit",
+    "slug": "detroit",
+    "country": "usa",
+    "top": 238,
+    "left": 210
   },
   {
-    "name": "Chennai",
-    "slug": "chennai",
-    "country": "india",
-    "top": 354,
-    "left": 698
+    "name": "Dublin",
+    "slug": "dublin",
+    "country": "ireland",
+    "top": 210,
+    "left": 430
   },
   {
-    "name": "Pune",
-    "slug": "pune",
-    "country": "india",
-    "top": 340,
-    "left": 675
+    "name": "Edinburgh",
+    "slug": "edinburgh",
+    "country": "scotland",
+    "top": 202,
+    "left": 442
   },
   {
-    "name": "Tokyo",
-    "slug": "tokyo",
+    "name": "Edmonton",
+    "slug": "edmonton",
+    "country": "canada",
+    "top": 180,
+    "left": 140
+  },
+  {
+    "name": "Fargo",
+    "slug": "fargo",
+    "country": "usa",
+    "top": 220,
+    "left": 185
+  },
+  {
+    "name": "fort collins",
+    "slug": "fort-collins",
+    "country": "usa",
+    "top": 253,
+    "left": 152
+  },
+  {
+    "name": "Grand Rapids",
+    "slug": "grand-rapids",
+    "country": "usa",
+    "top": 238,
+    "left": 197
+  },
+  {
+    "name": "Greenville",
+    "slug": "greenville",
+    "country": "usa",
+    "top": 270,
+    "left": 210
+  },
+  {
+    "name": "Halifax",
+    "slug": "halifax",
+    "country": "canada",
+    "top": 240,
+    "left": 270
+  },
+  {
+    "name": "Hamburg",
+    "slug": "hamburg",
+    "country": "germany",
+    "top": 207,
+    "left": 474
+  },
+  {
+    "name": "Houston",
+    "slug": "houston",
+    "country": "usa",
+    "top": 293,
+    "left": 170
+  },
+  {
+    "name": "huntsville",
+    "slug": "huntsville",
+    "country": "usa",
+    "top": 278,
+    "left": 198
+  },
+  {
+    "name": "Indiana",
+    "slug": "indiana",
+    "country": "usa",
+    "top": 249,
+    "left": 205
+  },
+  {
+    "name": "Kampala",
+    "slug": "kampala",
+    "country": "uganda",
+    "top": 394,
+    "left": 555
+  },
+  {
+    "name": "Kazan",
+    "slug": "kazan",
+    "country": "russia",
+    "top": 210,
+    "left": 578
+  },
+  {
+    "name": "Kingston",
+    "slug": "kingston",
+    "country": "jamaica",
+    "top": 333,
+    "left": 200
+  },
+  {
+    "name": "Kyiv",
+    "slug": "kyiv",
+    "country": "ukraine",
+    "top": 224,
+    "left": 511
+  },
+  {
+    "name": "Kyoto",
+    "slug": "kyoto",
     "country": "japan",
-    "top": 268,
-    "left": 860
-  },
-  {
-    "name": "Nairobi",
-    "slug": "nairobi",
-    "country": "kenya",
-    "top": 396,
-    "left": 560
-  },
-  {
-    "name": "Poznan",
-    "slug": "poznan",
-    "country": "poland",
-    "top": 212,
-    "left": 494
-  },
-  {
-    "name": "Trojmiasto",
-    "slug": "trojmiasto",
-    "country": "poland",
-    "top": 205,
-    "left": 496
-  },
-  {
-    "name": "Zurich",
-    "slug": "zurich",
-    "country": "switzerland",
-    "top": 235,
-    "left": 475
-  },
-  {
-    "name": "Cochabamba",
-    "slug": "cochabamba",
-    "country": "bolivia",
-    "top": 460,
-    "left": 260
-  },
-  {
-    "name": "Buenos Aires",
-    "slug": "buenos-aires",
-    "country": "argentina",
-    "top": 516,
-    "left": 277
+    "top": 273,
+    "left": 855
   },
   {
     "name": "La Paz",
@@ -329,10 +455,661 @@
     "left": 274
   },
   {
+    "name": "Lagos",
+    "slug": "lagos",
+    "country": "nigeria",
+    "top": 380,
+    "left": 451
+  },
+  {
+    "name": "Las-Vegas",
+    "slug": "las-vegas",
+    "country": "usa",
+    "top": 270,
+    "left": 119
+  },
+  {
+    "name": "Lehigh-Valley",
+    "slug": "lehigh-valley",
+    "country": "usa",
+    "top": 250,
+    "left": 246
+  },
+  {
+    "name": "London",
+    "slug": "london",
+    "country": "uk",
+    "top": 220,
+    "left": 450
+  },
+  {
+    "name": "Los Angeles",
+    "slug": "los-angeles",
+    "country": "usa",
+    "top": 290,
+    "left": 105
+  },
+  {
+    "name": "Maceio",
+    "slug": "maceio",
+    "country": "brazil",
+    "top": 417,
+    "left": 346
+  },
+  {
+    "name": "Madrid",
+    "slug": "madrid",
+    "country": "spain",
+    "top": 260,
+    "left": 440
+  },
+  {
+    "name": "Manila",
+    "slug": "manila",
+    "country": "phillipines",
+    "top": 343,
+    "left": 820
+  },
+  {
+    "name": "Medellin",
+    "slug": "medellin",
+    "country": "colombia",
+    "top": 370,
+    "left": 220
+  },
+  {
     "name": "Melbourne",
     "slug": "melbourne",
     "country": "australia",
-    "top": 526,
+    "top": 537,
     "left": 880
+  },
+  {
+    "name": "Memphis",
+    "slug": "memphis",
+    "country": "usa",
+    "top": 278,
+    "left": 195
+  },
+  {
+    "name": "Merida",
+    "slug": "merida",
+    "country": "mexico",
+    "top": 330,
+    "left": 180
+  },
+  {
+    "name": "Mexico City",
+    "slug": "mexico-city",
+    "country": "mexico",
+    "top": 330,
+    "left": 150
+  },
+  {
+    "name": "Miami-Fort-Lauderdale",
+    "slug": "miami-fort-lauderdale",
+    "country": "usa",
+    "top": 306,
+    "left": 209
+  },
+  {
+    "name": "Michigan",
+    "slug": "michigan",
+    "country": "usa",
+    "top": 236,
+    "left": 200
+  },
+  {
+    "name": "Milan",
+    "slug": "milan",
+    "country": "italy",
+    "top": 245,
+    "left": 475
+  },
+  {
+    "name": "Milwaukee",
+    "slug": "milwaukee",
+    "country": "usa",
+    "top": 235,
+    "left": 195
+  },
+  {
+    "name": "Minneapolis",
+    "slug": "minneapolis",
+    "country": "usa",
+    "top": 225,
+    "left": 189
+  },
+  {
+    "name": "Monterrey",
+    "slug": "monterrey",
+    "country": "usa",
+    "top": 279,
+    "left": 99
+  },
+  {
+    "name": "Montreal",
+    "slug": "montreal",
+    "country": "canada",
+    "top": 230,
+    "left": 250
+  },
+  {
+    "name": "Moscow",
+    "slug": "moscow",
+    "country": "russia",
+    "top": 210,
+    "left": 558
+  },
+  {
+    "name": "Mumbai",
+    "slug": "mumbai",
+    "country": "india",
+    "top": 337,
+    "left": 672
+  },
+  {
+    "name": "Nairobi",
+    "slug": "nairobi",
+    "country": "kenya",
+    "top": 396,
+    "left": 560
+  },
+  {
+    "name": "Nashville",
+    "slug": "nashville",
+    "country": "usa",
+    "top": 271,
+    "left": 198
+  },
+  {
+    "name": "Natal",
+    "slug": "natal",
+    "country": "brazil",
+    "top": 411,
+    "left": 348
+  },
+  {
+    "name": "New Delhi",
+    "slug": "new-delhi",
+    "country": "india",
+    "top": 306,
+    "left": 687
+  },
+  {
+    "name": "New York",
+    "slug": "new-york",
+    "country": "usa",
+    "top": 250,
+    "left": 250
+  },
+  {
+    "name": "North-Dakota",
+    "slug": "north-dakota",
+    "country": "usa",
+    "top": "",
+    "left": ""
+  },
+  {
+    "name": "Oakland",
+    "slug": "oakland",
+    "country": "usa",
+    "top": 276,
+    "left": 95
+  },
+  {
+    "name": "Ohio",
+    "slug": "ohio",
+    "country": "usa",
+    "top": "",
+    "left": ""
+  },
+  {
+    "name": "Orange-County",
+    "slug": "orange-county",
+    "country": "usa",
+    "top": 292,
+    "left": 107
+  },
+  {
+    "name": "Orlando",
+    "slug": "orlando",
+    "country": "usa",
+    "top": 300,
+    "left": 205
+  },
+  {
+    "name": "Oxford",
+    "slug": "oxford",
+    "country": "uk",
+    "top": 219,
+    "left": 444
+  },
+  {
+    "name": "Paris",
+    "slug": "paris",
+    "country": "france",
+    "top": 230,
+    "left": 450
+  },
+  {
+    "name": "Philadelphia",
+    "slug": "philadelphia",
+    "country": "usa",
+    "top": 251,
+    "left": 245
+  },
+  {
+    "name": "Phoenix",
+    "slug": "phoenix",
+    "country": "usa",
+    "top": 290,
+    "left": 142
+  },
+  {
+    "name": "Pittsburgh",
+    "slug": "pittsburgh",
+    "country": "usa",
+    "top": 250,
+    "left": 220
+  },
+  {
+    "name": "Pittsburgh",
+    "slug": "pittsburgh",
+    "country": "usa",
+    "top": 252,
+    "left": 245
+  },
+  {
+    "name": "Portland",
+    "slug": "portland",
+    "country": "usa",
+    "top": 216,
+    "left": 98
+  },
+  {
+    "name": "Portland-Me",
+    "slug": "portland-me",
+    "country": "usa",
+    "top": 242,
+    "left": 258
+  },
+  {
+    "name": "Poznan",
+    "slug": "poznan",
+    "country": "poland",
+    "top": 212,
+    "left": 494
+  },
+  {
+    "name": "Providence",
+    "slug": "providence",
+    "country": "usa",
+    "top": 245,
+    "left": 255
+  },
+  {
+    "name": "Provo",
+    "slug": "provo",
+    "country": "usa",
+    "top": 210,
+    "left": 100
+  },
+  {
+    "name": "Pune",
+    "slug": "pune",
+    "country": "india",
+    "top": 340,
+    "left": 675
+  },
+  {
+    "name": "Quito",
+    "slug": "quito",
+    "country": "ecuador",
+    "top": 402,
+    "left": 211
+  },
+  {
+    "name": "Raleigh-Durham",
+    "slug": "raleigh-durham",
+    "country": "usa",
+    "top": 270,
+    "left": 226
+  },
+  {
+    "name": "Recife",
+    "slug": "recife",
+    "country": "brazil",
+    "top": 416,
+    "left": 345
+  },
+  {
+    "name": "Reno",
+    "slug": "reno",
+    "country": "usa",
+    "top": 247,
+    "left": 100
+  },
+  {
+    "name": "Richmond",
+    "slug": "richmond",
+    "country": "usa",
+    "top": 264,
+    "left": 231
+  },
+  {
+    "name": "Rio de Janeiro",
+    "slug": "rio-de-janeiro",
+    "country": "brazil",
+    "top": 465,
+    "left": 325
+  },
+  {
+    "name": "Rochester",
+    "slug": "rochester",
+    "country": "usa",
+    "top": 238,
+    "left": 249
+  },
+  {
+    "name": "sacramento",
+    "slug": "sacramento",
+    "country": "usa",
+    "top": 261,
+    "left": 98
+  },
+  {
+    "name": "Saint Petersburg",
+    "slug": "saint-petersburg",
+    "country": "russia",
+    "top": 187,
+    "left": 511
+  },
+  {
+    "name": "Salt Lake City",
+    "slug": "salt-lake-city",
+    "country": "usa",
+    "top": 251,
+    "left": 131
+  },
+  {
+    "name": "Salvador",
+    "slug": "salvador",
+    "country": "brazil",
+    "top": 339,
+    "left": 434
+  },
+  {
+    "name": "San Diego",
+    "slug": "san-diego",
+    "country": "usa",
+    "top": 291,
+    "left": 105
+  },
+  {
+    "name": "San Francisco",
+    "slug": "san-francisco",
+    "country": "usa",
+    "top": 275,
+    "left": 95
+  },
+  {
+    "name": "San-Jose",
+    "slug": "san-jose",
+    "country": "usa",
+    "top": 278,
+    "left": 98
+  },
+  {
+    "name": "Santiago",
+    "slug": "santiago",
+    "country": "usa",
+    "top": 515,
+    "left": 248
+  },
+  {
+    "name": "Sao Carlos",
+    "slug": "sao-carlos",
+    "country": "chile",
+    "top": "",
+    "left": ""
+  },
+  {
+    "name": "Sao Paulo",
+    "slug": "sao-paulo",
+    "country": "brazil",
+    "top": 470,
+    "left": 305
+  },
+  {
+    "name": "Seattle",
+    "slug": "seattle",
+    "country": "usa",
+    "top": 210,
+    "left": 100
+  },
+  {
+    "name": "Shanghai",
+    "slug": "shanghai",
+    "country": "china",
+    "top": 297,
+    "left": 815
+  },
+  {
+    "name": "Singapore",
+    "slug": "singapore",
+    "country": "singapore",
+    "top": 393,
+    "left": 770
+  },
+  {
+    "name": "Sofia",
+    "slug": "sofia",
+    "country": "Bulgaria",
+    "top": 252,
+    "left": 515
+  },
+  {
+    "name": "Stockholm",
+    "slug": "stockholm",
+    "country": "sweden",
+    "top": 185,
+    "left": 497
+  },
+  {
+    "name": "Sydney",
+    "slug": "sydney",
+    "country": "australia",
+    "top": 517,
+    "left": 898
+  },
+  {
+    "name": "Taipei",
+    "slug": "taipei",
+    "country": "china",
+    "top": 321,
+    "left": 815
+  },
+  {
+    "name": "Taiwan",
+    "slug": "taiwan",
+    "country": "china",
+    "top": "",
+    "left": ""
+  },
+  {
+    "name": "tampa",
+    "slug": "tampa",
+    "country": "usa",
+    "top": 303,
+    "left": 203
+  },
+  {
+    "name": "Tampa-Bay",
+    "slug": "tampa-bay",
+    "country": "usa",
+    "top": "",
+    "left": ""
+  },
+  {
+    "name": "Tel Aviv",
+    "slug": "tel-aviv",
+    "country": "israel",
+    "top": 296,
+    "left": 550
+  },
+  {
+    "name": "Tel Aviv",
+    "slug": "tel-aviv",
+    "country": "israel",
+    "top": "",
+    "left": ""
+  },
+  {
+    "name": "Tennessee",
+    "slug": "tennessee",
+    "country": "usa",
+    "top": "",
+    "left": ""
+  },
+  {
+    "name": "Teresina",
+    "slug": "teresina",
+    "country": "brazil",
+    "top": 411,
+    "left": 315
+  },
+  {
+    "name": "Texas",
+    "slug": "texas",
+    "country": "usa",
+    "top": "",
+    "left": ""
+  },
+  {
+    "name": "Tokyo",
+    "slug": "tokyo",
+    "country": "japan",
+    "top": 268,
+    "left": 860
+  },
+  {
+    "name": "Toronto",
+    "slug": "toronto",
+    "country": "canada",
+    "top": 235,
+    "left": 239
+  },
+  {
+    "name": "Trojmiasto",
+    "slug": "trojmiasto",
+    "country": "poland",
+    "top": 205,
+    "left": 496
+  },
+  {
+    "name": "Tunisia",
+    "slug": "tunisia",
+    "country": "tunisia",
+    "top": 283,
+    "left": 475
+  },
+  {
+    "name": "twin cities",
+    "slug": "twin-cities",
+    "country": "usa",
+    "top": 225,
+    "left": 187
+  },
+  {
+    "name": "Utah",
+    "slug": "utah",
+    "country": "usa",
+    "top": 255,
+    "left": 130
+  },
+  {
+    "name": "Vale do paraiba",
+    "slug": "vale-do-paraiba",
+    "country": "brazil",
+    "top": 463,
+    "left": 321
+  },
+  {
+    "name": "Vancouver",
+    "slug": "vancouver",
+    "country": "canada",
+    "top": 200,
+    "left": 100
+  },
+  {
+    "name": "Vermont",
+    "slug": "vermont",
+    "country": "usa",
+    "top": "",
+    "left": ""
+  },
+  {
+    "name": "Vienna",
+    "slug": "vienna",
+    "country": "austria",
+    "top": 230,
+    "left": 490
+  },
+  {
+    "name": "Virginia",
+    "slug": "virginia",
+    "country": "usa",
+    "top": "",
+    "left": ""
+  },
+  {
+    "name": "Washington",
+    "slug": "washington",
+    "country": "usa",
+    "top": "",
+    "left": ""
+  },
+  {
+    "name": "Washington-Dc",
+    "slug": "washington-dc",
+    "country": "usa",
+    "top": 263,
+    "left": 232
+  },
+  {
+    "name": "Waterloo",
+    "slug": "waterloo",
+    "country": "canada",
+    "top": 237,
+    "left": 238
+  },
+  {
+    "name": "West-Palm-Beach",
+    "slug": "west-palm-beach",
+    "country": "usa",
+    "top": 301,
+    "left": 211
+  },
+  {
+    "name": "Wichita",
+    "slug": "wichita",
+    "country": "usa",
+    "top": 256,
+    "left": 174
+  },
+  {
+    "name": "Wilmington",
+    "slug": "wilmington",
+    "country": "usa",
+    "top": 253,
+    "left": 240
+  },
+  {
+    "name": "Zurich",
+    "slug": "zurich",
+    "country": "switzerland",
+    "top": 235,
+    "left": 475
   }
 ]
