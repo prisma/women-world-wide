@@ -34,8 +34,8 @@ const List = ({ currentCity, setCurrentCity }) => {
 
       cities.map(({ node: city }) => {
         return city.country === country.slug
-        ? cityOptions.push({ value: city.slug, label: city.name })
-        : null
+          ? cityOptions.push({ value: city.slug, label: city.name })
+          : null
       })
 
       return options.push({ label: country.name, options: cityOptions })
@@ -59,8 +59,9 @@ const List = ({ currentCity, setCurrentCity }) => {
   return (
     <Container>
       <Filter>
-        <FilterPin />
-        <FilterText>Show me all organizations in</FilterText>
+        <FilterText>
+          <FilterPin /> Show me all organizations in
+        </FilterText>
         <Select
           onChange={option => setCurrentCity(option)}
           value={currentCity}
@@ -86,15 +87,18 @@ const List = ({ currentCity, setCurrentCity }) => {
 
                 <Bottom>
                   <Meta>
-                    <Pin />
-                    { orgCity &&
-                      <City>
-                        <CityLink onClick={() => handleCityClick(orgCity)}>
-                          {orgCity.node.name}
-                        </CityLink>,&nbsp;
-                      </City>
-                    }
-                    { orgCountry && <Country>{orgCountry.node.name}</Country> }
+                    <Location>
+                      <Pin />
+                      { orgCity &&
+                        <City>
+                          <CityLink onClick={() => handleCityClick(orgCity)}>
+                            {orgCity.node.name}
+                          </CityLink>,&nbsp;
+                        </City>
+                      }
+                      { orgCountry && <Country>{orgCountry.node.name}</Country> }
+                    </Location>
+
                     <Topics>
                       { org.topics.map((topic, i) =>
                         <Topic key={i}>{topic}</Topic>
@@ -181,21 +185,34 @@ const Container = styled.div`
 
 const Filter = styled.div`
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
   color: ${p => p.theme.gray};
   margin: 48px 0;
+  padding: 0 24px;
+
+  @media screen and (min-width: 650px) {
+    flex-direction: row;
+  }
 `
 
 const FilterPin = styled(LocationIcon)`
+  flex-shrink: 0;
   margin-right: 12px;
   height: 24px;
   width: auto;
 `
 
 const FilterText = styled.div`
+  display: flex;
+  align-items: center;
   font-size: 24px;
-  margin-right: 16px;
+  margin: 0 0 16px 0;
+
+  @media screen and (min-width: 650px) {
+    margin: 0 16px 0 0;
+  }
 `
 
 const Card = styled.div`
@@ -205,9 +222,13 @@ const Card = styled.div`
 
 const Row = styled.div`
   display: flex;
-  align-items: center;
+  align-items: top;
   padding: 24px 32px;
   border-bottom: 1px solid ${p => p.theme.lightGray};
+
+  @media screen and (min-width: 650px) {
+    align-items: center;
+  }
 `
 
 const Main = styled.div`
@@ -216,15 +237,25 @@ const Main = styled.div`
 
 const Name = styled.a`
   margin-right: 24px;
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 600;
   text-decoration: none;
+
+  @media screen and (min-width: 550px) {
+    font-size: 24px;
+  }
 `
 
 const Top = styled.div`
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: flex-start;
+  flex-direction: column;
+
+  @media screen and (min-width: 550px) {
+    align-items: center;
+    flex-direction: row;
+  }
 `
 
 const MainLink = styled.a`
@@ -235,6 +266,7 @@ const MainLink = styled.a`
   align-items: center;
   padding: 0 12px;
   text-decoration: none;
+  margin: 12px 0 0 0;
 
   svg {
     display: block;
@@ -242,19 +274,39 @@ const MainLink = styled.a`
     width: auto;
     margin-right: 8px;
   }
+
+  @media screen and (min-width: 550px) { margin: 0; }
 `
 
 const Bottom = styled.div`
   margin-top: 8px;
   display: flex;
+  flex-direction: column;
   justify-content: space-between;
-  align-items: center;
+  align-items: flex-start;
+  width: 100%;
+
+  @media screen and (min-width: 650px) {
+    flex-direction: row;
+    align-items: center;
+  }
 `
 
 const Meta = styled.div`
   color: ${p => p.theme.gray};
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
+  flex-direction: row;
+`
+
+const Location = styled.div`
+  display: flex;
+  align-items: center;
+  line-height: 1.5;
+  flex-wrap: wrap;
+
+  @media screen and (min-width: 850px) { line-height: 1; }
 `
 
 const Pin = styled(LocationIcon)`
@@ -264,21 +316,31 @@ const Pin = styled(LocationIcon)`
 const City = styled.span``
 
 const CityLink = styled.span`
+  white-space: nowrap;
+
   &:hover {
     cursor: pointer;
     text-decoration: underline;
   }
 `
 
-const Country = styled.span``
+const Country = styled.span`
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  flex-shrink: 1;
+`
 
 const Topics = styled.div`
   color: ${p => p.theme.gray};
   display: flex;
+  flex-wrap: wrap;
 `
+
 const Topic = styled.div`
   position: relative;
   margin-left: 24px;
+  white-space: nowrap;
 
   &:before {
     content: '';
@@ -290,12 +352,30 @@ const Topic = styled.div`
     height: 4px;
     border-radius: 4px;
   }
+
+  &:first-child:before { display: block; }
+
+  @media screen and (min-width: 650px) {
+    &:first-child:before { display: none; }
+  }
+
+  @media screen and (min-width: 850px) {
+    &:first-child:before { display: block; }
+  }
 `
 
 const SecondaryLinks = styled.div`
   color: ${p => p.theme.gray};
   display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  line-height: 1.5;
+
+  @media screen and (min-width: 550px) {
+    justify-content: flex-end;
+  }
 `
+
 const SecondaryLink = styled.a`
   color: ${p => p.theme.gray};
   position: relative;
@@ -304,7 +384,7 @@ const SecondaryLink = styled.a`
   &:before {
     content: '';
     position: absolute;
-    top: 5px;
+    top: 10px;
     left: -14px;
     background-color: ${p => transparentize(0.5, p.theme.gray)};
     width: 4px;
@@ -319,15 +399,21 @@ const SecondaryLink = styled.a`
 
 const Image = styled.div`
   flex-shrink: 0;
-  height: 64px;
-  width: 64px;
+  height: 40px;
+  width: 40px;
   background-image: url(${p => p.src});
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
   border-radius: 64px;
   border: 3px solid ${p => p.theme.purple};
-  margin-right: 24px;
+  margin-right: 16px;
+
+  @media screen and (min-width: 650px) {
+    width: 64px;
+    height: 64px;
+    margin-right: 24px;
+  }
 `
 
 export default List

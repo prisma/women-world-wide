@@ -34,7 +34,7 @@ const Map = ({ setCurrentCity }) => {
   return (
     <Container>
       <Title className="rellax" data-rellax-speed="-5">
-        Some Sort of Page Title I Assume Goes Here
+        Discover the groups nearest to you!
       </Title>
 
       <Dots className="rellax" data-rellax-speed="-4">
@@ -79,22 +79,35 @@ const citiesQuery = graphql`
 // Styles
 const Container = styled.div`
   position: relative;
-  height: 650px;
-  width: 1100px;
+  height: 300px;
+  max-width: 1100px;
   margin: 40px auto 0 auto;
+  background-image: url('/mobile-flora.svg');
+  background-repeat: no-repeat;
+  background-position: center top;
   overflow: hidden;
+
+  @media screen and (min-width: 850px) {
+    background-image: none;
+    height: 650px;
+    background: none;
+  }
 `
 
 const Title = styled.div`
   position: relative;
   z-index: 2;
   max-width: 500px;
-  margin: 64px auto 0 auto;
+  margin: 40px auto 0 auto;
   text-align: center;
   color: ${p => p.theme.white};
   font-size: 40px;
   font-weight: 600;
   line-height: 48px;
+
+  @media screen and (min-width: 500px) {
+    margin: 64px auto 0 auto;
+  }
 `
 
 const StyledYellowTriangle = styled(YellowTriangle)`
@@ -133,12 +146,17 @@ const StyledRedSquare = styled(RedSquare)`
 `
 
 const Dots = styled.div`
+  display: none;
   position: absolute;
   z-index: 4;
   width: 980px;
   height: 600px;
   top: 0;
-  left: 60px;
+  left: -60px;
+
+  @media screen and (min-width: 850px) { display: block; }
+  @media screen and (min-width: 950px) { left: 0px; }
+  @media screen and (min-width: 1100px) { left: 60px; }
 `
 
 const Dot = styled.div`
@@ -159,23 +177,36 @@ const Dot = styled.div`
 `
 
 const Flowers = styled(FlowersIllustration)`
+  display: none;
   position: absolute;
   z-index: 3;
   bottom: -48px;
-  left: 60px;
+  left: -60px;
+
+  @media screen and (min-width: 850px) { display: block; }
+  @media screen and (min-width: 950px) { left: 0px; }
+  @media screen and (min-width: 1100px) { left: 60px; }
 `
 
 const StyledMap = styled(MapIllustration)`
+  display: none;
   position: absolute;
   z-index: 1;
   top: 0;
-  left: 60px;
+  left: -60px;
+
+  @media screen and (min-width: 850px) { display: block; }
+  @media screen and (min-width: 950px) { left: 0px; }
+  @media screen and (min-width: 1100px) { left: 60px;}
 `
 
 const Background = styled(BackgroundIllustration)`
+  display: none;
   position: absolute;
   z-index: 0;
   bottom: 0;
+
+  @media screen and (min-width: 850px) { display: block; }
 `
 
 export default Map

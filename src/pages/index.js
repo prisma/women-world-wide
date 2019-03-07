@@ -30,8 +30,9 @@ const IndexPage = () => {
 }
 
 const Header = styled.div`
-  padding: 64px 0 0 0;
+  padding: 40px 0 0 0;
   background: ${p => p.theme.purple};
+  @media screen and (min-width: 850px) { padding: 64px 0 0 0; }
 `
 
 export default IndexPage

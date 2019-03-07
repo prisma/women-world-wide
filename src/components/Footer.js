@@ -17,12 +17,19 @@ const Footer = () => (
 // Styles
 const Container = styled.div`
   display: flex;
+  flex-direction: column;
   justify-content: space-between;
   align-items: center;
   max-width: 900px;
-  padding: 40px 0;
+  padding: 40px 16px;
   margin: 0 auto 64px auto;
   color: ${p => p.theme.gray};
+  text-align: center;
+
+  @media screen and (min-width: 650px) {
+    text-align: left;
+    flex-direction: row;
+  }
 `
 
 const Left = styled.div``
@@ -32,7 +39,13 @@ const Name = styled.div`
 `
 
 const Right = styled.div`
-  text-align: right;
+  text-align: center;
+  margin: 16px 0 0 0;
+
+  @media screen and (min-width: 650px) {
+    text-align: right;
+    margin: 0;
+  }
 `
 
 const Faded = styled.div`

@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Women in Tech`,
+    title: `Women in Tech Organizations`,
     description: `Women in Tech`,
     author: `@prisma`,
   },

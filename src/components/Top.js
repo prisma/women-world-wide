@@ -8,7 +8,7 @@ import GithubIcon from '../svgs/github.svg'
 // Layout
 const Top = () => (
   <Center>
-    <Name>Women in Tech</Name>
+    <Name>Women in Tech Organizations</Name>
     <Nav>
       <NavLink>
         <StyledGithubIcon />
@@ -24,6 +24,7 @@ const Center = styled.div`
   justify-content: space-between;
   max-width: 900px;
   margin: 0 auto;
+  padding: 0 16px;
   color: ${p => p.theme.white};
 `
 

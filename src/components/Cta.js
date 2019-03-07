@@ -10,31 +10,54 @@ import PlusIcon from '../svgs/plus.svg'
 const Cta = () => (
   <Container>
     <Illustration />
-    <Text>
-      <Title>Don't see your organization on the list?</Title>
-      <Subtitle>This site is fully open source, submit a PR to add a new resource.</Subtitle>
-    </Text>
-    <Button href="https://github.com/prisma/women-in-tech">
-      <PlusIcon /> Add an org
-    </Button>
+    <Main>
+      <Text>
+        <Title>Don't see your organization on the list?</Title>
+        <Subtitle>This site is fully open source, submit a PR to add a new resource.</Subtitle>
+      </Text>
+      <Button href="https://github.com/prisma/women-in-tech">
+        <PlusIcon /> Add an org
+      </Button>
+    </Main>
   </Container>
 )
 
 // Styles
 const Container = styled.div`
   display: flex;
-  align-items: center;
+  flex-direction: column;
+  align-items: flex-start;
   position: relative;
   z-index: 10;
   background: ${p => p.theme.white};
   max-width: 900px;
   margin: -40px auto 0 auto;
   box-shadow: ${p => p.theme.cardShadow};
-  padding: 32px 40px;
+  padding: 32px;
+
+  @media screen and (min-width: 450px) {
+    padding: 32px 40px;
+    flex-direction: row;
+    align-items: center;
+  }
 `
 
 const Illustration = styled(Octocat)`
-  margin-right: 20px;
+  margin: 0 0 16px 0;
+
+  @media screen and (min-width: 450px) { margin: 0 20px 0 0; }
+`
+
+const Main = styled.div`
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  flex: 1;
+
+  @media screen and (min-width: 800px) {
+    align-items: center;
+    flex-direction: row;
+  }
 `
 
 const Text = styled.div`
@@ -58,7 +81,7 @@ const Subtitle = styled.div`
 const Button = styled.a`
   display: flex;
   padding: 0 12px;
-  margin-left: 24px;
+  margin: 16px 0 0 0;
   height: 32px;
   background-color: ${p => p.theme.purple};
   color: ${p => p.theme.white};
@@ -70,6 +93,10 @@ const Button = styled.a`
     height: 12px;
     width: auto;
     margin-right: 8px;
+  }
+
+  @media screen and (min-width: 800px) {
+    margin: 0 0 0 24px;
   }
 `
 
