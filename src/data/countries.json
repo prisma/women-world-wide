@@ -1,102 +1,166 @@
 [
   {
-    "name": "United States",
-    "slug": "usa"
+    "slug": "argentina",
+    "name": "Argentina"
   },
   {
-    "name": "Canada",
-    "slug": "canada"
+    "slug": "australia",
+    "name": "Australia"
   },
   {
-    "name": "Mexico",
-    "slug": "mexico"
+    "slug": "austria",
+    "name": "Austria"
   },
   {
-    "name": "Ecuador",
-    "slug": "ecuador"
+    "slug": "bolivia",
+    "name": "Bolivia"
   },
   {
-    "name": "Brazil",
-    "slug": "brazil"
+    "slug": "brazil",
+    "name": "Brazil"
   },
   {
-    "name": "United Kingdom",
-    "slug": "uk"
+    "slug": "bulgaria",
+    "name": "Bulgaria"
   },
   {
-    "name": "Ireland",
-    "slug": "ireland"
+    "slug": "canada",
+    "name": "Canada"
   },
   {
-    "name": "France",
-    "slug": "france"
+    "slug": "chile",
+    "name": "Chile"
   },
   {
-    "name": "Germany",
-    "slug": "germany"
+    "slug": "china",
+    "name": "China"
   },
   {
-    "name": "Austria",
-    "slug": "austria"
+    "slug": "colombia",
+    "name": "Colombia"
   },
   {
-    "name": "Sweden",
-    "slug": "sweden"
+    "slug": "czech-republic",
+    "name": "Czech Republic"
   },
   {
-    "name": "Spain",
-    "slug": "spain"
+    "slug": "ecuador",
+    "name": "Ecuador"
   },
   {
-    "name": "Italy",
-    "slug": "italy"
+    "slug": "france",
+    "name": "France"
   },
   {
-    "name": "Israel",
-    "slug": "israel"
+    "slug": "germany",
+    "name": "Germany"
   },
   {
-    "name": "India",
-    "slug": "india"
+    "slug": "ghana",
+    "name": "Ghana"
   },
   {
-    "name": "Japan",
-    "slug": "japan"
+    "slug": "india",
+    "name": "India"
   },
   {
-    "name": "Kenya",
-    "slug": "keyna"
+    "slug": "ireland",
+    "name": "Ireland"
   },
   {
-    "name": "Nigeria",
-    "slug": "nigeria"
+    "slug": "israel",
+    "name": "Israel"
   },
   {
-    "name": "Poland",
-    "slug": "poland"
+    "slug": "italy",
+    "name": "Italy"
   },
   {
-    "name": "Romania",
-    "slug": "romania"
+    "slug": "jamaica",
+    "name": "Jamaica"
   },
   {
-    "name": "Switzerland",
-    "slug": "switzerland"
+    "slug": "japan",
+    "name": "Japan"
   },
   {
-    "name": "Bolivia",
-    "slug": "bolivia"
+    "slug": "kenya",
+    "name": "Kenya"
   },
   {
-    "name": "Argentina",
-    "slug": "argentina"
+    "slug": "mexico",
+    "name": "Mexico"
   },
   {
-    "name": "Australia",
-    "slug": "australia"
+    "slug": "netherlands",
+    "name": "Netherlands"
   },
   {
-    "name": "Uruguay",
-    "slug": "uruguay"
+    "slug": "nigeria",
+    "name": "Nigeria"
+  },
+  {
+    "slug": "peru",
+    "name": "Peru"
+  },
+  {
+    "slug": "phillipines",
+    "name": "Phillipines"
+  },
+  {
+    "slug": "poland",
+    "name": "Poland"
+  },
+  {
+    "slug": "romania",
+    "name": "Romania"
+  },
+  {
+    "slug": "russia",
+    "name": "Russia"
+  },
+  {
+    "slug": "scotland",
+    "name": "Scotland"
+  },
+  {
+    "slug": "singapore",
+    "name": "Singapore"
+  },
+  {
+    "slug": "slovakia",
+    "name": "Slovakia"
+  },
+  {
+    "slug": "spain",
+    "name": "Spain"
+  },
+  {
+    "slug": "sweden",
+    "name": "Sweden"
+  },
+  {
+    "slug": "switzerland",
+    "name": "Switzerland"
+  },
+  {
+    "slug": "tunisia",
+    "name": "Tunisia"
+  },
+  {
+    "slug": "uganda",
+    "name": "Uganda"
+  },
+  {
+    "slug": "uruguay",
+    "name": "Uruguay"
+  },
+  {
+    "slug": "uk",
+    "name": "United Kingdom"
+  },
+  {
+    "slug": "usa",
+    "name": "United States"
   }
 ]

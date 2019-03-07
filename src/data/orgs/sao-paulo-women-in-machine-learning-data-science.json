@@ -1,0 +1,14 @@
+{
+  "city": "sao-paulo",
+  "country": "brazil",
+  "name": "São Paulo Women in Machine Learning & Data Science",
+  "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
+  "topics": ["Machine Learning", "Data Science"],
+  "mainLink": "https://www.meetup.com/Sao-Paulo-Women-in-Machine-Learning-Data-Science/",
+  "secondaryLinks": [
+    {
+      "name": "Website",
+      "url": "http://wimlds.org/about-the-sao-paulo-team/"
+    }
+  ]
+}

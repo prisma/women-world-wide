@@ -1,0 +1,22 @@
+{
+  "city": "paris",
+  "country": "france",
+  "name": "Paris Women in Machine Learning & Data Science",
+  "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
+  "topics": ["Machine Learning", "Data Science"],
+  "mainLink": "https://www.meetup.com/Paris-Women-in-Machine-Learning-Data-Science/",
+  "secondaryLinks": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/WiMLDS_Paris"
+    },
+    {
+      "name": "Website",
+      "url": "http://wimlds.org/about-the-paris-team/"
+    },
+    {
+      "name": "Medium",
+      "url": "https://medium.com/@WiMLDS_Paris"
+    }
+  ]
+}

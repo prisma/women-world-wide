@@ -1,0 +1,18 @@
+{
+  "city": "denver",
+  "country": "usa",
+  "name": "Girl Develop It Denver",
+  "image": "http://pbs.twimg.com/profile_images/502139303665754112/NJVFW9dA_normal.png",
+  "topics": ["Tech"],
+  "mainLink": "https://www.meetup.com/Girl-Develop-It-Boulder-Denver/",
+  "secondaryLinks": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/gdidenver"
+    },
+    {
+      "name": "Website",
+      "url": "https://www.girldevelopit.com/chapters/denver"
+    }
+  ]
+}

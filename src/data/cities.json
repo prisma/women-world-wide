@@ -21,7 +21,7 @@
     "left": 460
   },
   {
-    "name": "Ann-Arbor",
+    "name": "Ann Arbor",
     "slug": "ann-arbor",
     "country": "usa",
     "top": 240,
@@ -63,7 +63,7 @@
     "left": 687
   },
   {
-    "name": "barcelona",
+    "name": "Barcelona",
     "slug": "barcelona",
     "country": "spain",
     "top": 255,
@@ -135,7 +135,7 @@
   {
     "name": "Boise",
     "slug": "boise",
-    "country": "boise",
+    "country": "usa",
     "top": 220,
     "left": 130
   },
@@ -185,7 +185,7 @@
     "name": "Brno",
     "slug": "brno",
     "country": "czech-republic",
-    "top": 227,
+    "top": 225,
     "left": 491
   },
   {
@@ -357,7 +357,7 @@
     "left": 185
   },
   {
-    "name": "fort collins",
+    "name": "Fort collins",
     "slug": "fort-collins",
     "country": "usa",
     "top": 253,
@@ -399,7 +399,7 @@
     "left": 170
   },
   {
-    "name": "huntsville",
+    "name": "Huntsville",
     "slug": "huntsville",
     "country": "usa",
     "top": 278,
@@ -462,14 +462,14 @@
     "left": 451
   },
   {
-    "name": "Las-Vegas",
+    "name": "Las Vegas",
     "slug": "las-vegas",
     "country": "usa",
     "top": 270,
     "left": 119
   },
   {
-    "name": "Lehigh-Valley",
+    "name": "Lehigh Valley",
     "slug": "lehigh-valley",
     "country": "usa",
     "top": 250,
@@ -511,7 +511,7 @@
     "left": 820
   },
   {
-    "name": "Medellin",
+    "name": "Medellín",
     "slug": "medellin",
     "country": "colombia",
     "top": 370,
@@ -532,7 +532,7 @@
     "left": 195
   },
   {
-    "name": "Merida",
+    "name": "Mérida",
     "slug": "merida",
     "country": "mexico",
     "top": 330,
@@ -546,7 +546,7 @@
     "left": 150
   },
   {
-    "name": "Miami-Fort-Lauderdale",
+    "name": "Miami Fort Lauderdale",
     "slug": "miami-fort-lauderdale",
     "country": "usa",
     "top": 306,
@@ -630,13 +630,6 @@
     "left": 348
   },
   {
-    "name": "New Delhi",
-    "slug": "new-delhi",
-    "country": "india",
-    "top": 306,
-    "left": 687
-  },
-  {
     "name": "New York",
     "slug": "new-york",
     "country": "usa",
@@ -644,7 +637,7 @@
     "left": 250
   },
   {
-    "name": "North-Dakota",
+    "name": "North Dakota",
     "slug": "north-dakota",
     "country": "usa",
     "top": 10,
@@ -665,7 +658,7 @@
     "left": 0
   },
   {
-    "name": "Orange-County",
+    "name": "Orange County",
     "slug": "orange-county",
     "country": "usa",
     "top": 292,
@@ -710,13 +703,6 @@
     "name": "Pittsburgh",
     "slug": "pittsburgh",
     "country": "usa",
-    "top": 250,
-    "left": 220
-  },
-  {
-    "name": "Pittsburgh",
-    "slug": "pittsburgh",
-    "country": "usa",
     "top": 252,
     "left": 245
   },
@@ -728,7 +714,7 @@
     "left": 98
   },
   {
-    "name": "Portland-Me",
+    "name": "Portland, Me",
     "slug": "portland-me",
     "country": "usa",
     "top": 242,
@@ -770,7 +756,7 @@
     "left": 211
   },
   {
-    "name": "Raleigh-Durham",
+    "name": "Raleigh Durham",
     "slug": "raleigh-durham",
     "country": "usa",
     "top": 270,
@@ -812,7 +798,7 @@
     "left": 249
   },
   {
-    "name": "sacramento",
+    "name": "Sacramento",
     "slug": "sacramento",
     "country": "usa",
     "top": 261,
@@ -854,7 +840,7 @@
     "left": 95
   },
   {
-    "name": "San-Jose",
+    "name": "San Jose",
     "slug": "san-jose",
     "country": "usa",
     "top": 278,
@@ -938,18 +924,11 @@
     "left": 0
   },
   {
-    "name": "tampa",
+    "name": "Tampa",
     "slug": "tampa",
     "country": "usa",
     "top": 303,
     "left": 203
-  },
-  {
-    "name": "Tampa-Bay",
-    "slug": "tampa-bay",
-    "country": "usa",
-    "top": 50,
-    "left": 0
   },
   {
     "name": "Tel Aviv",
@@ -957,13 +936,6 @@
     "country": "israel",
     "top": 296,
     "left": 550
-  },
-  {
-    "name": "Tel Aviv",
-    "slug": "tel-aviv",
-    "country": "israel",
-    "top": 60,
-    "left": 0
   },
   {
     "name": "Tennessee",
@@ -1015,7 +987,7 @@
     "left": 475
   },
   {
-    "name": "twin cities",
+    "name": "Twin Cities",
     "slug": "twin-cities",
     "country": "usa",
     "top": 225,
@@ -1029,7 +1001,7 @@
     "left": 130
   },
   {
-    "name": "Vale do paraiba",
+    "name": "Vale do Paraiba",
     "slug": "vale-do-paraiba",
     "country": "brazil",
     "top": 463,
@@ -1067,13 +1039,6 @@
     "name": "Washington",
     "slug": "washington",
     "country": "usa",
-    "top": 110,
-    "left": 0
-  },
-  {
-    "name": "Washington-Dc",
-    "slug": "washington-dc",
-    "country": "usa",
     "top": 263,
     "left": 232
   },
@@ -1085,7 +1050,7 @@
     "left": 238
   },
   {
-    "name": "West-Palm-Beach",
+    "name": "West Palm Beach",
     "slug": "west-palm-beach",
     "country": "usa",
     "top": 301,

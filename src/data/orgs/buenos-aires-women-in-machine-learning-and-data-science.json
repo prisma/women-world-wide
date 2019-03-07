@@ -1,0 +1,18 @@
+{
+  "city": "buenos-aires",
+  "country": "argentina",
+  "name": "Buenos Aires Women in Machine Learning and Data Science",
+  "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
+  "topics": ["Machine Learning", "Data Science"],
+  "mainLink": "https://www.meetup.com/Buenos-Aires-Women-in-Machine-Learning-Data-Science/",
+  "secondaryLinks": [
+    {
+      "name": "Website",
+      "url": "http://wimlds.org/buenos-aires-team/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/WiMLDS_BA"
+    }
+  ]
+}

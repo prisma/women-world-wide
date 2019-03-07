@@ -1,0 +1,14 @@
+{
+  "city": "phoenix",
+  "country": "usa",
+  "name": "Girl Develop It Phoenix",
+  "image": "https://secure.meetupstatic.com/photos/event/2/0/1/c/600_467048220.jpeg",
+  "topics": ["Tech"],
+  "mainLink": "https://www.meetup.com/Girl-Develop-It-Phoenix/",
+  "secondaryLinks": [
+    {
+      "name": "Website",
+      "url": "https://www.girldevelopit.com/chapters/phoenix"
+    }
+  ]
+}

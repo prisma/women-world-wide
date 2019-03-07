@@ -864,459 +864,446 @@
   //   ]
   // },
 
-  {
-    "city": "lagos",
-    "country": "nigeria",
-    "name": "Lagos Women in Machine Learning & Data Science",
-    "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
-    "topics": ["Machine Learning", "Data Science"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Website",
-        "url": "http://wimlds.org/about-the-lagos-team/"
-      }
-    ]
-  },
+  // {
+  //   "city": "lagos",
+  //   "country": "nigeria",
+  //   "name": "Lagos Women in Machine Learning & Data Science",
+  //   "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
+  //   "topics": ["Machine Learning", "Data Science"],
+  //   "mainLink": "https://www.meetup.com/Lagos-Women-in-Machine-Learning-Data-Science/",
+  //   "secondaryLinks": [
+  //     {
+  //       "name": "Website",
+  //       "url": "http://wimlds.org/about-the-lagos-team/"
+  //     }
+  //   ]
+  // },
 
-  {
-    "city": "bangalore",
-    "country": "india",
-    "name": "Bengaluru Women in Machine Learning & Data Science",
-    "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
-    "topics": ["Machine Learning", "Data Science"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Website",
-        "url": "http://wimlds.org/about-the-bengaluru-team/"
-      }
-    ]
-  },
+  // {
+  //   "city": "bangalore",
+  //   "country": "india",
+  //   "name": "Bengaluru Women in Machine Learning & Data Science",
+  //   "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
+  //   "topics": ["Machine Learning", "Data Science"],
+  //   "mainLink": "https://www.meetup.com/Bengaluru-Women-in-Machine-Learning-and-Data-Science/",
+  //   "secondaryLinks": [
+  //     {
+  //       "name": "Website",
+  //       "url": "http://wimlds.org/about-the-bengaluru-team/"
+  //     }
+  //   ]
+  // },
 
-  {
-    "city": "bhopal",
-    "country": "india",
-    "name": "Bhopal Women in Machine Learning & Data Science",
-    "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
-    "topics": ["Machine Learning", "Data Science"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Website",
-        "url": "http://wimlds.org/about-the-bhopal-team/"
-      }
-    ]
-  },
+  // {
+  //   "city": "bhopal",
+  //   "country": "india",
+  //   "name": "Bhopal Women in Machine Learning & Data Science",
+  //   "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
+  //   "topics": ["Machine Learning", "Data Science"],
+  //   "mainLink": "https://www.meetup.com/Bhopal-Women-in-Machine-Learning-and-Data-Science/",
+  //   "secondaryLinks": [
+  //     {
+  //       "name": "Website",
+  //       "url": "http://wimlds.org/about-the-bhopal-team/"
+  //     }
+  //   ]
+  // },
 
-  {
-    "city": "chennai",
-    "country": "india",
-    "name": "Chennai Women in Machine Learning & Data Science",
-    "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
-    "topics": ["Machine Learning", "Data Science"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Website",
-        "url": "http://wimlds.org/about-the-chennai-team/"
-      }
-    ]
-  },
+  // {
+  //   "city": "chennai",
+  //   "country": "india",
+  //   "name": "Chennai Women in Machine Learning & Data Science",
+  //   "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
+  //   "topics": ["Machine Learning", "Data Science"],
+  //   "mainLink": "https://www.meetup.com/Chennai-Women-in-Machine-Learning-and-Data-Science/",
+  //   "secondaryLinks": [
+  //     {
+  //       "name": "Website",
+  //       "url": "http://wimlds.org/about-the-chennai-team/"
+  //     }
+  //   ]
+  // },
 
-  {
-    "city": "delhi",
-    "country": "india",
-    "name": "Delhi Women in Machine Learning & Data Science",
-    "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
-    "topics": ["Machine Learning", "Data Science"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Website",
-        "url": "http://wimlds.org/about-the-delhi-team/"
-      }
-    ]
-  },
+  // {
+  //   "city": "delhi",
+  //   "country": "india",
+  //   "name": "Delhi Women in Machine Learning & Data Science",
+  //   "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
+  //   "topics": ["Machine Learning", "Data Science"],
+  //   "mainLink": "https://www.meetup.com/Delhi-Women-in-Machine-Learning-Data-Science/",
+  //   "secondaryLinks": [
+  //     {
+  //       "name": "Website",
+  //       "url": "http://wimlds.org/about-the-delhi-team/"
+  //     }
+  //   ]
+  // },
 
-  {
-    "city": "mumbai",
-    "country": "india",
-    "name": "Mumbai Women in Machine Learning and Data Science",
-    "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
-    "topics": ["Machine Learning", "Data Science"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Website",
-        "url": "http://wimlds.org/about-the-mumbai-team/"
-      }
-    ]
-  },
+  // {
+  //   "city": "mumbai",
+  //   "country": "india",
+  //   "name": "Mumbai Women in Machine Learning and Data Science",
+  //   "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
+  //   "topics": ["Machine Learning", "Data Science"],
+  //   "mainLink": "https://www.meetup.com/Mumbai-Women-in-Machine-Learning-and-Data-Science/",
+  //   "secondaryLinks": [
+  //     {
+  //       "name": "Website",
+  //       "url": "http://wimlds.org/about-the-mumbai-team/"
+  //     }
+  //   ]
+  // },
 
-  {
-    "city": "pune",
-    "country": "india",
-    "name": "Pune Women in Machine Learning & Data Science",
-    "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
-    "topics": ["Machine Learning", "Data Science"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Website",
-        "url": "http://wimlds.org/about-the-pune-team/"
-      }
-    ]
-  },
+  // {
+  //   "city": "pune",
+  //   "country": "india",
+  //   "name": "Pune Women in Machine Learning & Data Science",
+  //   "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
+  //   "topics": ["Machine Learning", "Data Science"],
+  //   "mainLink": "https://www.meetup.com/Pune-Women-in-Machine-Learning-and-Data-Science/",
+  //   "secondaryLinks": [
+  //     {
+  //       "name": "Website",
+  //       "url": "http://wimlds.org/about-the-pune-team/"
+  //     }
+  //   ]
+  // },
 
-  {
-    "city": "berlin",
-    "country": "germany",
-    "name": "Berlin Women in Machine Learning & Data Science",
-    "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
-    "topics": ["Machine Learning", "Data Science"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Website",
-        "url": "http://wimlds.org/about-the-berlin-team/"
-      }
-    ]
-  },
+  // {
+  //   "city": "berlin",
+  //   "country": "germany",
+  //   "name": "Berlin Women in Machine Learning & Data Science",
+  //   "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
+  //   "topics": ["Machine Learning", "Data Science"],
+  //   "mainLink": "https://www.meetup.com/Berlin-Women-in-Machine-Learning-and-Data-Science/",
+  //   "secondaryLinks": [
+  //     {
+  //       "name": "Website",
+  //       "url": "http://wimlds.org/about-the-berlin-team/"
+  //     }
+  //   ]
+  // },
 
-  {
-    "city": "madrid",
-    "country": "spain",
-    "name": "Madrid Women in Machine Learning & Data Science",
-    "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
-    "topics": ["Machine Learning", "Data Science"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Website",
-        "url": "http://wimlds.org/about-the-madrid/"
-      }
-    ]
-  },
+  // {
+  //   "city": "madrid",
+  //   "country": "spain",
+  //   "name": "Madrid Women in Machine Learning & Data Science",
+  //   "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
+  //   "topics": ["Machine Learning", "Data Science"],
+  //   "mainLink": "https://www.meetup.com/Madrid-Women-in-Machine-Learning-and-Data-Science/",
+  //   "secondaryLinks": [
+  //     {
+  //       "name": "Website",
+  //       "url": "http://wimlds.org/about-the-madrid/"
+  //     }
+  //   ]
+  // },
 
-  {
-    "city": "milan",
-    "country": "italy",
-    "name": "Milan Women in Machine Learning and Data Science",
-    "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
-    "topics": ["Machine Learning", "Data Science"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Website",
-        "url": "http://wimlds.org/about-the-milan-team/"
-      }
-    ]
-  },
+  // {
+  //   "city": "milan",
+  //   "country": "italy",
+  //   "name": "Milan Women in Machine Learning and Data Science",
+  //   "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
+  //   "topics": ["Machine Learning", "Data Science"],
+  //   "mainLink": "https://www.meetup.com/Milan-Women-in-Machine-Learning-and-Data-Science/",
+  //   "secondaryLinks": [
+  //     {
+  //       "name": "Website",
+  //       "url": "http://wimlds.org/about-the-milan-team/"
+  //     }
+  //   ]
+  // },
 
-  {
-    "city": "paris",
-    "country": "france",
-    "name": "Paris Women in Machine Learning & Data Science",
-    "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
-    "topics": ["Machine Learning", "Data Science"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Twitter",
-        "url": "https://twitter.com/WiMLDS_Paris?lang=fr"
-      },
+  // {
+  //   "city": "paris",
+  //   "country": "france",
+  //   "name": "Paris Women in Machine Learning & Data Science",
+  //   "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
+  //   "topics": ["Machine Learning", "Data Science"],
+  //   "mainLink": "https://www.meetup.com/Paris-Women-in-Machine-Learning-Data-Science/",
+  //   "secondaryLinks": [
+  //     {
+  //       "name": "Twitter",
+  //       "url": "https://twitter.com/WiMLDS_Paris?lang=fr"
+  //     },
+  //     {
+  //       "name": "Website",
+  //       "url": "http://wimlds.org/about-the-paris-team/"
+  //     }
+  //   ]
+  // },
 
+  // {
+  //   "city": "poznan",
+  //   "country": "poland",
+  //   "name": "Poznań Women in Machine Learning & Data Science",
+  //   "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
+  //   "topics": ["Machine Learning", "Data Science"],
+  //   "mainLink": "https://www.meetup.com/Poznan-Women-in-Machine-Learning-Data-Science/",
+  //   "secondaryLinks": [
+  //     {
+  //       "name": "Website",
+  //       "url": "http://wimlds.org/about-the-poznan-team/"
+  //     }
+  //   ]
+  // },
 
-      {
-        "name": "Website",
-        "url": "http://wimlds.org/about-the-paris-team/"
-      }
-    ]
-  },
+  // {
+  //   "city": "trojmiasto",
+  //   "country": "poland",
+  //   "name": "Trojmiasto Women in Machine Learning & Data Science",
+  //   "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
+  //   "topics": ["Machine Learning", "Data Science"],
+  //   "mainLink": "https://www.meetup.com/Trojmiasto-Women-in-Machine-Learning-and-Data-Science/",
+  //   "secondaryLinks": [
+  //     {
+  //       "name": "Website",
+  //       "url": "http://wimlds.org/about-the-trojmiasto-team/"
+  //     }
+  //   ]
+  // },
 
-  {
-    "city": "poznan",
-    "country": "poland",
-    "name": "Poznań Women in Machine Learning & Data Science",
-    "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
-    "topics": ["Machine Learning", "Data Science"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Website",
-        "url": "http://wimlds.org/about-the-poznan-team/"
-      }
-    ]
-  },
+  // {
+  //   "city": "zurich",
+  //   "country": "switzerland",
+  //   "name": "Zürich Women in Machine Learning and Data Science",
+  //   "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
+  //   "topics": ["Machine Learning", "Data Science"],
+  //   "mainLink": "https://www.meetup.com/Zurich-Women-in-Machine-Learning-and-Data-Science/",
+  //   "secondaryLinks": [
+  //     {
+  //       "name": "Website",
+  //       "url": "http://wimlds.org/2229-2/"
+  //     }
+  //   ]
+  // },
 
-  {
-    "city": "trojmiasto",
-    "country": "poland",
-    "name": "Trojmiasto Women in Machine Learning & Data Science",
-    "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
-    "topics": ["Machine Learning", "Data Science"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Website",
-        "url": "http://wimlds.org/about-the-trojmiasto-team/"
-      }
-    ]
-  },
+  // {
+  //   "city": "cochabamba",
+  //   "country": "bolivia",
+  //   "name": "Cochabamba Women in Machine Learning & Data Science",
+  //   "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
+  //   "topics": ["Machine Learning", "Data Science"],
+  //   "mainLink": "https://www.meetup.com/Cochabamba-Women-in-Machine-Learning-and-Data-Science/",
+  //   "secondaryLinks": [
+  //     {
+  //       "name": "Website",
+  //       "url": "http://wimlds.org/about-the-cochabamba-team/"
+  //     }
+  //   ]
+  // },
 
-  {
-    "city": "zurich",
-    "country": "switzerland",
-    "name": "Zürich Women in Machine Learning and Data Science",
-    "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
-    "topics": ["Machine Learning", "Data Science"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Website",
-        "url": "http://wimlds.org/2229-2/"
-      }
-    ]
-  },
+  // {
+  //   "city": "buenos-aires",
+  //   "country": "argentina",
+  //   "name": "Buenos Aires Women in Machine Learning and Data Science",
+  //   "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
+  //   "topics": ["Machine Learning", "Data Science"],
+  //   "mainLink": "https://www.meetup.com/Buenos-Aires-Women-in-Machine-Learning-Data-Science/",
+  //   "secondaryLinks": [
+  //     {
+  //       "name": "Website",
+  //       "url": "http://wimlds.org/buenos-aires-team/"
+  //     },
+  //     {
+  //       "name": "Twitter",
+  //       "url": "https://twitter.com/WiMLDS_BA"
+  //     }
+  //   ]
+  // },
 
-  {
-    "city": "cochabamba",
-    "country": "bolivia",
-    "name": "Cochabamba Women in Machine Learning & Data Science",
-    "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
-    "topics": ["Machine Learning", "Data Science"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Website",
-        "url": "http://wimlds.org/about-the-cochabamba-team/"
-      }
-    ]
-  },
+  // {
+  //   "city": "la-paz",
+  //   "country": "argentina",
+  //   "name": "La Paz Women in Machine Learning & Data Science",
+  //   "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
+  //   "topics": ["Machine Learning", "Data Science"],
+  //   "mainLink": "https://www.meetup.com/La-Paz-Women-in-Machine-Learning-and-Data-Science/",
+  //   "secondaryLinks": [
+  //     {
+  //       "name": "Website",
+  //       "url": "http://wimlds.org/about-the-la-paz-team/"
+  //     }
+  //   ]
+  // },
 
-  {
-    "city": "buenos-aires",
-    "country": "argentina",
-    "name": "Buenos Aires Women in Machine Learning and Data Science",
-    "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
-    "topics": ["Machine Learning", "Data Science"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Website",
-        "url": "http://wimlds.org/buenos-aires-team/"
-      }
-    ]
-  },
+  // {
+  //   "city": "sao-paulo",
+  //   "country": "brazil",
+  //   "name": "São Paulo Women in Machine Learning & Data Science",
+  //   "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
+  //   "topics": ["Machine Learning", "Data Science"],
+  //   "mainLink": "https://www.meetup.com/Sao-Paulo-Women-in-Machine-Learning-Data-Science/",
+  //   "secondaryLinks": [
+  //     {
+  //       "name": "Website",
+  //       "url": "http://wimlds.org/about-the-sao-paulo-team/"
+  //     }
+  //   ]
+  // },
 
-  {
-    "city": "la-paz",
-    "country": "argentina",
-    "name": "La Paz Women in Machine Learning & Data Science",
-    "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
-    "topics": ["Machine Learning", "Data Science"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Website",
-        "url": "http://wimlds.org/about-the-la-paz-team/"
-      }
-    ]
-  },
+  // {
+  //   "city": "melbourne",
+  //   "country": "australia",
+  //   "name": "Melbourne Women in Machine Learning & Data Science",
+  //   "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
+  //   "topics": ["Machine Learning", "Data Science"],
+  //   "mainLink": "https://www.meetup.com/Melbourne-Women-in-Machine-Learning-and-Data-Science/",
+  //   "secondaryLinks": [
+  //     {
+  //       "name": "Website",
+  //       "url": "http://wimlds.org/about-the-melbourne-team/"
+  //     }
+  //   ]
+  // },
 
-  {
-    "city": "sao-paulo",
-    "country": "brazil",
-    "name": "São Paulo Women in Machine Learning & Data Science",
-    "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
-    "topics": ["Machine Learning", "Data Science"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Website",
-        "url": "http://wimlds.org/about-the-sao-paulo-team/"
-      }
-    ]
-  },
+  // {
+  //   "city": "phoenix",
+  //   "country": "usa",
+  //   "name": "Girl Develop It Phoenix",
+  //   "image": "https://secure.meetupstatic.com/photos/event/2/0/1/c/600_467048220.jpeg",
+  //   "topics": ["Tech"],
+  //   "mainLink": "https://www.meetup.com/Girl-Develop-It-Phoenix/",
+  //   "secondaryLinks": [
+  //     {
+  //       "name": "Website",
+  //       "url": "https://www.girldevelopit.com/chapters/phoenix"
+  //     }
+  //   ]
+  // },
 
-  {
-    "city": "melbourne",
-    "country": "australia",
-    "name": "Melbourne Women in Machine Learning & Data Science",
-    "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
-    "topics": ["Machine Learning", "Data Science"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Website",
-        "url": "http://wimlds.org/about-the-melbourne-team/"
-      }
-    ]
-  },
+  // {
+  //   "city": "los-angeles",
+  //   "country": "usa",
+  //   "name": "Girl Develop It Los Angeles",
+  //   "image": "http://pbs.twimg.com/profile_images/739981137104142337/pxtuSme7_400x400.jpg",
+  //   "topics": ["Tech"],
+  //   "mainLink": "https://www.meetup.com/Girl-Develop-It-Los-Angeles/",
+  //   "secondaryLinks": [
+  //     {
+  //       "name": "Twitter",
+  //       "url": "https://twitter.com/girldevelopitLA"
+  //     },
+  //     {
+  //       "name": "Website",
+  //       "url": "https://www.girldevelopit.com/chapters/los-angeles"
+  //     }
+  //   ]
+  // },
 
-  {
-    "city": "phoenix",
-    "country": "usa",
-    "name": "Girl Develop It Phoenix",
-    "image": "__NO_TWITTER_ACCOUNT_FOR_IMAGE",
-    "topics": ["Tech"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Website",
-        "url": "https://www.girldevelopit.com/chapters/phoenix"
-      }
-    ]
-  },
+  // {
+  //   "city": "oakland",
+  //   "country": "usa",
+  //   "name": "Girl Develop It Oakland",
+  //   "image": "https://pbs.twimg.com/profile_images/1046212680107741184/JUXjddWJ_400x400.jpg",
+  //   "topics": ["Tech"],
+  //   "mainLink": "https://www.meetup.com/Girl-Develop-It-Oakland/",
+  //   "secondaryLinks": [
+  //     {
+  //       "name": "Website",
+  //       "url": "https://www.girldevelopit.com/chapters/oakland"
+  //     },
+  //     {
+  //       "name": "Twitter",
+  //       "url": "https://twitter.com/GDIOak"
+  //     }
+  //   ]
+  // },
 
-  {
-    "city": "los-angeles",
-    "country": "usa",
-    "name": "Girl Develop It Los Angeles",
-    "image": "http://pbs.twimg.com/profile_images/739981137104142337/pxtuSme7_400x400.jpg",
-    "topics": ["Tech"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Twitter",
-        "url": "https://twitter.com/girldevelopitLA"
-      },
-      {
-        "name": "Website",
-        "url": "https://www.girldevelopit.com/chapters/los-angeles"
-      }
-    ]
-  },
+  // {
+  //   "city": "orange-county",
+  //   "country": "usa",
+  //   "name": "Girl Develop It Orange County",
+  //   "image": "http://pbs.twimg.com/profile_images/1075045668471889920/UG-E6iVl_400x400.jpg",
+  //   "topics": ["Tech"],
+  //   "mainLink": "https://www.meetup.com/girl-develop-it-orange-county/",
+  //   "secondaryLinks": [
+  //     {
+  //       "name": "Twitter",
+  //       "url": "https://twitter.com/GDIOrangeCounty"
+  //     },
+  //     {
+  //       "name": "Website",
+  //       "url": "https://www.girldevelopit.com/chapters/orange-county"
+  //     }
+  //   ]
+  // },
 
-  {
-    "city": "oakland",
-    "country": "usa",
-    "name": "Girl Develop It Oakland",
-    "image": "__NO_TWITTER_ACCOUNT_FOR_IMAGE",
-    "topics": ["Tech"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Website",
-        "url": "https://www.girldevelopit.com/chapters/oakland"
-      }
-    ]
-  },
+  // {
+  //   "city": "san-diego",
+  //   "country": "usa",
+  //   "name": "Girl Develop It San Diego",
+  //   "image": "http://pbs.twimg.com/profile_images/661329152713199616/cbddeIaQ_400x400.jpg",
+  //   "topics": ["Tech"],
+  //   "mainLink": "https://www.meetup.com/Girl-Develop-It-San-Diego/",
+  //   "secondaryLinks": [
+  //     {
+  //       "name": "Twitter",
+  //       "url": "https://twitter.com/GDISD/"
+  //     },
+  //     {
+  //       "name": "Website",
+  //       "url": "https://www.girldevelopit.com/chapters/san-diego"
+  //     }
+  //   ]
+  // },
 
-  {
-    "city": "orange-county",
-    "country": "usa",
-    "name": "Girl Develop It Orange County",
-    "image": "http://pbs.twimg.com/profile_images/1075045668471889920/UG-E6iVl_400x400.jpg",
-    "topics": ["Tech"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Twitter",
-        "url": "https://twitter.com/GDIOrangeCounty"
-      },
-      {
-        "name": "Website",
-        "url": "https://www.girldevelopit.com/chapters/orange-county"
-      }
-    ]
-  },
+  // {
+  //   "city": "san-francisco",
+  //   "country": "usa",
+  //   "name": "Girl Develop It San Francisco",
+  //   "image": "https://pbs.twimg.com/profile_images/701617188562579456/f_Wo-6G3_400x400.png",
+  //   "topics": ["Tech"],
+  //   "mainLink": "https://www.meetup.com/Girl-Develop-It-San-Francisco/",
+  //   "secondaryLinks": [
+  //     {
+  //       "name": "Website",
+  //       "url": "https://www.girldevelopit.com/chapters/san-francisco"
+  //     },
+  //     {
+  //       "name": "Twitter",
+  //       "url": "https://twitter.com/gdisf"
+  //     }
+  //   ]
+  // },
 
-  // What
-  {
-    "city": "san-diego",
-    "country": "usa",
-    "name": "Girl Develop It San Diego",
-    "image": "http://pbs.twimg.com/profile_images/661329152713199616/cbddeIaQ_400x400.jpg",
-    "topics": ["Tech"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Twitter",
-        "url": "https://twitter.com/GDISD/"
-      },
-      {
-        "name": "Website",
-        "url": "https://www.girldevelopit.com/chapters/salinas/monterey"
-      }
-    ]
-  },
+  // {
+  //   "city": "san-jose",
+  //   "country": "usa",
+  //   "name": "Girl Develop It San Jose",
+  //   "image": "https://pbs.twimg.com/profile_images/501061948553707520/2uXT964V_400x400.png",
+  //   "topics": ["Tech"],
+  //   "mainLink": "https://www.meetup.com/Girl-Develop-It-San-Jose/",
+  //   "secondaryLinks": [
+  //     {
+  //       "name": "Twitter",
+  //       "url": "https://twitter.com/gdisjc"
+  //     },
+  //     {
+  //       "name": "Website",
+  //       "url": "https://www.girldevelopit.com/chapters/san-jose"
+  //     }
+  //   ]
+  // },
 
-  // What
-  {
-    "city": "san-francisco",
-    "country": "usa",
-    "name": "Girl Develop It San Francisco",
-    "image": "__NO_TWITTER_ACCOUNT_FOR_IMAGE",
-    "topics": ["Tech"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Website",
-        "url": "https://www.girldevelopit.com/chapters/san-diego"
-      }
-    ]
-  },
-
-  // What
-  {
-    "city": "san-jose",
-    "country": "usa",
-    "name": "Girl Develop It San Jose",
-    "image": "http://pbs.twimg.com/profile_images/501061948553707520/2uXT964V_normal.png",
-    "topics": ["Tech"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Twitter",
-        "url": "https://twitter.com/gdisjc"
-      },
-      {
-        "name": "Website",
-        "url": "https://www.girldevelopit.com/chapters/san-francisco"
-      }
-    ]
-  },
-
-  // What
-  {
-    "city": "boulder",
-    "country": "usa",
-    "name": "Girl Develop It Boulder/Denver",
-    "image": "http://pbs.twimg.com/profile_images/502139303665754112/NJVFW9dA_normal.png",
-    "topics": ["Tech"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Twitter",
-        "url": "https://twitter.com/gdidenver"
-      },
-      {
-        "name": "Website",
-        "url": "https://www.girldevelopit.com/chapters/san-jose"
-      }
-    ]
-  },
-
-  {
-    "city": "denver",
-    "country": "usa",
-    "name": "Girl Develop It Boulder/Denver",
-    "image": "http://pbs.twimg.com/profile_images/502139303665754112/NJVFW9dA_normal.png",
-    "topics": ["Tech"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Twitter",
-        "url": "https://twitter.com/gdidenver"
-      },
-      {
-        "name": "Website",
-        "url": "https://www.girldevelopit.com/chapters/denver"
-      }
-    ]
-  },
+  // {
+  //   "city": "denver",
+  //   "country": "usa",
+  //   "name": "Girl Develop It Denver",
+  //   "image": "http://pbs.twimg.com/profile_images/502139303665754112/NJVFW9dA_normal.png",
+  //   "topics": ["Tech"],
+  //   "mainLink": "https://www.meetup.com/Girl-Develop-It-Boulder-Denver/",
+  //   "secondaryLinks": [
+  //     {
+  //       "name": "Twitter",
+  //       "url": "https://twitter.com/gdidenver"
+  //     },
+  //     {
+  //       "name": "Website",
+  //       "url": "https://www.girldevelopit.com/chapters/denver"
+  //     }
+  //   ]
+  // },
 
   {
     "city": "wilmington",

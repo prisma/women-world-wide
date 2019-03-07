@@ -1,0 +1,14 @@
+{
+  "city": "milan",
+  "country": "italy",
+  "name": "Milan Women in Machine Learning and Data Science",
+  "image": "https://pbs.twimg.com/profile_images/895132525114216449/3uK3PVZU_400x400.jpg",
+  "topics": ["Machine Learning", "Data Science"],
+  "mainLink": "https://www.meetup.com/Milan-Women-in-Machine-Learning-and-Data-Science/",
+  "secondaryLinks": [
+    {
+      "name": "Website",
+      "url": "http://wimlds.org/about-the-milan-team/"
+    }
+  ]
+}
