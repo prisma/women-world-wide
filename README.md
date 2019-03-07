@@ -2,7 +2,7 @@
 
 [WomenWorldWide.dev](WomenWorldWide.dev) is a map of coding and tech groups around the world for women. 
 
-This map represents just a tiny sliver of the great organizations that share with this focus. 
+This map represents just a tiny sliver of the great organizations that share this focus. 
 
 If you know of a local group that should be on the 🗺, please submit a pull request, so that we can be sure to add it!
 
