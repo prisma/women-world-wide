@@ -647,8 +647,8 @@
     "name": "North-Dakota",
     "slug": "north-dakota",
     "country": "usa",
-    "top": "",
-    "left": ""
+    "top": 10,
+    "left": 0
   },
   {
     "name": "Oakland",
@@ -661,8 +661,8 @@
     "name": "Ohio",
     "slug": "ohio",
     "country": "usa",
-    "top": "",
-    "left": ""
+    "top": 20,
+    "left": 0
   },
   {
     "name": "Orange-County",
@@ -871,8 +871,8 @@
     "name": "Sao Carlos",
     "slug": "sao-carlos",
     "country": "chile",
-    "top": "",
-    "left": ""
+    "top": 30,
+    "left": 0
   },
   {
     "name": "Sao Paulo",
@@ -934,8 +934,8 @@
     "name": "Taiwan",
     "slug": "taiwan",
     "country": "china",
-    "top": "",
-    "left": ""
+    "top": 40,
+    "left": 0
   },
   {
     "name": "tampa",
@@ -948,8 +948,8 @@
     "name": "Tampa-Bay",
     "slug": "tampa-bay",
     "country": "usa",
-    "top": "",
-    "left": ""
+    "top": 50,
+    "left": 0
   },
   {
     "name": "Tel Aviv",
@@ -962,15 +962,15 @@
     "name": "Tel Aviv",
     "slug": "tel-aviv",
     "country": "israel",
-    "top": "",
-    "left": ""
+    "top": 60,
+    "left": 0
   },
   {
     "name": "Tennessee",
     "slug": "tennessee",
     "country": "usa",
-    "top": "",
-    "left": ""
+    "top": 70,
+    "left": 0
   },
   {
     "name": "Teresina",
@@ -983,8 +983,8 @@
     "name": "Texas",
     "slug": "texas",
     "country": "usa",
-    "top": "",
-    "left": ""
+    "top": 80,
+    "left": 0
   },
   {
     "name": "Tokyo",
@@ -1046,8 +1046,8 @@
     "name": "Vermont",
     "slug": "vermont",
     "country": "usa",
-    "top": "",
-    "left": ""
+    "top": 90,
+    "left": 0
   },
   {
     "name": "Vienna",
@@ -1060,15 +1060,15 @@
     "name": "Virginia",
     "slug": "virginia",
     "country": "usa",
-    "top": "",
-    "left": ""
+    "top": 100,
+    "left": 0
   },
   {
     "name": "Washington",
     "slug": "washington",
     "country": "usa",
-    "top": "",
-    "left": ""
+    "top": 110,
+    "left": 0
   },
   {
     "name": "Washington-Dc",
