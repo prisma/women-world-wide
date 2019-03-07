@@ -42,18 +42,18 @@ You can see an example below (using the *Women Who Code Atlanta* organization):
 }
 ```
 
-A submitted organization should have the following 
+A submitted organization should have the following: 
 * **Filename**: The filename should be the organization name followed by the group's location. For example: `women-who-code-atlanta.json`
-* **Image**: A link to the organizations image 
+* **Image**: A link to the organization's image 
 * **Name**: The name of the organization (including the branch location)
 * **Country**
 * **City**: *If your local organization branch just has a country, but not a city, this section can be skipped*
-* **Topics**: If the group focuses on a specfic technology, you can add more details about the language or focus here. 
-* **Main Link**: This is the main link where your organization lives. Often this is a meetup link, but it could be the group's homepage, or anything other place where readers can get additional information. 
-* **Secondary Links**: These are additional links that correspond to an organization — for example if they have a specific twitter, etc. 
+* **Topics**: If the group focuses on a specfic technology, you can add more details about the language or focus here 
+* **Main Link**: This is the main link where your organization lives. Often this is a meetup link, but it could be the group's homepage, or any other place where readers can get additional information 
+* **Secondary Links**: These are additional links that correspond to an organization — for example if the group has a specific twitter, etc 
 
 ## Maintenance 💪
-If you see an inactive (without activity for over six months) organization on this map, please open up an issue, so that the map remain current and helpful as possible. 
+If you see an inactive (without activity for over six months) organization on this map, please open up an issue, so that the map can remain as current and helpful as possible. 
 
 
 
