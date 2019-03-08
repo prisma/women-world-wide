@@ -1,8 +1,8 @@
 {
-  "image": "https://pbs.twimg.com/profile_images/915794034332962821/Z9Pzsv_b_400x400.jpg",
-  "name": "Girl Develop It Orlando",
-  "country": "usa",
   "city": "orlando",
+  "country": "usa",
+  "name": "Girl Develop It Orlando",
+  "image": "https://pbs.twimg.com/profile_images/915794034332962821/Z9Pzsv_b_400x400.jpg",
   "topics": ["Tech"],
   "mainLink": "https://www.meetup.com/Girl-Develop-It-Orlando/",
   "secondaryLinks": [

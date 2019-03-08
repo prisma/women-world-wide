@@ -1,0 +1,18 @@
+{
+  "city": "wilmington",
+  "country": "usa",
+  "name": "Girl Develop It Wilmington",
+  "image": "https://pbs.twimg.com/profile_images/640530349748002817/PkDHi_8Q_400x400.png",
+  "topics": ["Tech"],
+  "mainLink": "https://www.meetup.com/Girl-Develop-It-Wilmington/",
+  "secondaryLinks": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/gdiwilm"
+    },
+    {
+      "name": "Website",
+      "url": "https://www.girldevelopit.com/chapters/wilmington"
+    }
+  ]
+}

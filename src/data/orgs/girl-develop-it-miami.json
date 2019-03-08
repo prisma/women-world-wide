@@ -1,0 +1,18 @@
+{
+  "city": "miami-fort-lauderdale",
+  "country": "usa",
+  "name": "Girl Develop It Miami",
+  "image": "http://pbs.twimg.com/profile_images/424292800796950528/k9V1fmgH_normal.png",
+  "topics": ["Tech"],
+  "mainLink": "https://www.meetup.com/Girl-Develop-It-Miami/",
+  "secondaryLinks": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/GDIMiami"
+    },
+    {
+      "name": "Website",
+      "url": "https://www.girldevelopit.com/chapters/miami-fort-lauderdale"
+    }
+  ]
+}

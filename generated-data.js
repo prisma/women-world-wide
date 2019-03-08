@@ -1305,235 +1305,199 @@
   //   ]
   // },
 
-  {
-    "city": "wilmington",
-    "country": "usa",
-    "name": "Girl Develop It Wilmington",
-    "image": "http://pbs.twimg.com/profile_images/640530349748002817/PkDHi_8Q_normal.png",
-    "topics": ["Tech"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Twitter",
-        "url": "https://twitter.com/gdiwilm"
-      },
-      {
-        "name": "Website",
-        "url": "https://www.girldevelopit.com/chapters/wilmington"
-      }
-    ]
-  },
+  // {
+  //   "city": "wilmington",
+  //   "country": "usa",
+  //   "name": "Girl Develop It Wilmington",
+  //   "image": "https://pbs.twimg.com/profile_images/640530349748002817/PkDHi_8Q_400x400.png",
+  //   "topics": ["Tech"],
+  //   "mainLink": "https://www.meetup.com/Girl-Develop-It-Wilmington/",
+  //   "secondaryLinks": [
+  //     {
+  //       "name": "Twitter",
+  //       "url": "https://twitter.com/gdiwilm"
+  //     },
+  //     {
+  //       "name": "Website",
+  //       "url": "https://www.girldevelopit.com/chapters/wilmington"
+  //     }
+  //   ]
+  // },
 
-  {
-    "city": "district-of-columbia",
-    "country": "usa",
-    "name": "Girl Develop It D.C.",
-    "image": "http://pbs.twimg.com/profile_images/446871193358839808/UAAr-Vy8_normal.png",
-    "topics": ["Tech"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Twitter",
-        "url": "https://twitter.com/girldevelopitDC"
-      },
-      {
-        "name": "Website",
-        "url": "https://www.girldevelopit.com/chapters/washington-dc"
-      }
-    ]
-  },
+  // {
+  //   "city": "district-of-columbia",
+  //   "country": "usa",
+  //   "name": "Girl Develop It D.C.",
+  //   "image": "https://pbs.twimg.com/profile_images/446871193358839808/UAAr-Vy8_400x400.png",
+  //   "topics": ["Tech"],
+  //   "mainLink": "https://www.meetup.com/Girl-Develop-It-DC/",
+  //   "secondaryLinks": [
+  //     {
+  //       "name": "Twitter",
+  //       "url": "https://twitter.com/girldevelopitDC"
+  //     },
+  //     {
+  //       "name": "Website",
+  //       "url": "https://www.girldevelopit.com/chapters/washington-dc"
+  //     }
+  //   ]
+  // },
 
-  {
-    "city": "washington-dc",
-    "country": "usa",
-    "name": "Girl Develop It D.C.",
-    "image": "__NO_TWITTER_ACCOUNT_FOR_IMAGE",
-    "topics": ["Tech"],
-    "mainLink": "",
-    "secondaryLinks": []
-  },
+  // {
+  //   "city": "miami-fort-lauderdale",
+  //   "country": "usa",
+  //   "name": "Girl Develop It Miami",
+  //   "image": "http://pbs.twimg.com/profile_images/424292800796950528/k9V1fmgH_normal.png",
+  //   "topics": ["Tech"],
+  //   "mainLink": "https://www.meetup.com/Girl-Develop-It-Miami/",
+  //   "secondaryLinks": [
+  //     {
+  //       "name": "Twitter",
+  //       "url": "https://twitter.com/GDIMiami"
+  //     },
+  //     {
+  //       "name": "Website",
+  //       "url": "https://www.girldevelopit.com/chapters/miami-fort-lauderdale"
+  //     }
+  //   ]
+  // },
 
-  {
-    "city": "miami-fort-lauderdale",
-    "country": "usa",
-    "name": "Girl Develop It Miami",
-    "image": "http://pbs.twimg.com/profile_images/424292800796950528/k9V1fmgH_normal.png",
-    "topics": ["Tech"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Twitter",
-        "url": "https://twitter.com/GDIMiami"
-      },
-      {
-        "name": "Website",
-        "url": "https://www.girldevelopit.com/chapters/miami-fort-lauderdale"
-      }
-    ]
-  },
+  // {
+  //   "city": "orlando",
+  //   "country": "usa",
+  //   "name": "Girl Develop It Orlando",
+  //   "image": "https://pbs.twimg.com/profile_images/915794034332962821/Z9Pzsv_b_400x400.jpg",
+  //   "topics": ["Tech"],
+  //   "mainLink": "https://www.meetup.com/Girl-Develop-It-Orlando/",
+  //   "secondaryLinks": [
+  //     {
+  //       "name": "Twitter",
+  //       "url": "https://twitter.com/gdiorl"
+  //     },
+  //     {
+  //       "name": "Slack",
+  //       "url": "http://gdi-orlando-slack.herokuapp.com/"
+  //     },
+  //     {
+  //       "name": "Website",
+  //       "url": "https://www.girldevelopit.com/chapters/orlando"
+  //     }
+  //   ]
+  // },
 
-  {
-    "city": "orlando",
-    "country": "usa",
-    "name": "Girl Develop It Orlando",
-    "image": "__NO_TWITTER_ACCOUNT_FOR_IMAGE",
-    "topics": ["Tech"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Twitter",
-        "url": "https://twitter.com/gdiorl?lang=en"
-      },
-      {
-        "name": "Website",
-        "url": "https://www.girldevelopit.com/chapters/orlando"
-      }
-    ]
-  },
+  // {
+  //   "city": "tampa-bay",
+  //   "country": "usa",
+  //   "name": "Girl Develop It Tampa Bay",
+  //   "image": "http://pbs.twimg.com/profile_images/997116519829200896/P71Df-uA_400x400.jpg",
+  //   "topics": ["Tech"],
+  //   "mainLink": "https://www.meetup.com/Girl-Develop-It-Tampa-Bay/",
+  //   "secondaryLinks": [
+  //     {
+  //       "name": "Twitter",
+  //       "url": "https://twitter.com/GDITampaBay"
+  //     },
+  //     {
+  //       "name": "Website",
+  //       "url": "https://www.girldevelopit.com/chapters/tampa-bay"
+  //     }
+  //   ]
+  // },
 
-  {
-    "city": "tampa-bay",
-    "country": "usa",
-    "name": "Girl Develop It Tampa Bay",
-    "image": "http://pbs.twimg.com/profile_images/997116519829200896/P71Df-uA_400x400.jpg",
-    "topics": ["Tech"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Twitter",
-        "url": "https://twitter.com/GDITampaBay"
-      },
-      {
-        "name": "Website",
-        "url": "https://www.girldevelopit.com/chapters/tampa-bay"
-      }
-    ]
-  },
+  // {
+  //   "city": "west-palm-beach",
+  //   "country": "usa",
+  //   "name": "Girl Develop It West Palm Beach",
+  //   "image": "https://pbs.twimg.com/profile_images/497126460071501825/L_VG4jg8_400x400.png",
+  //   "topics": ["Tech"],
+  //   "mainLink": "https://www.meetup.com/Girl-Develop-It-West-Palm-Beach/",
+  //   "secondaryLinks": [
+  //     {
+  //       "name": "Twitter",
+  //       "url": "https://twitter.com/gdiwpb"
+  //     },
+  //     {
+  //       "name": "Website",
+  //       "url": "https://www.girldevelopit.com/chapters/west-palm-beach"
+  //     }
+  //   ]
+  // },
 
-  {
-    "city": "west-palm-beach",
-    "country": "usa",
-    "name": "Girl Develop It West Palm Beach",
-    "image": "http://pbs.twimg.com/profile_images/497126460071501825/L_VG4jg8_normal.png",
-    "topics": ["Tech"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Twitter",
-        "url": "https://twitter.com/gdiwpb"
-      },
-      {
-        "name": "Website",
-        "url": "https://www.girldevelopit.com/chapters/west-palm-beach"
-      }
-    ]
-  },
+  // {
+  //   "city": "atlanta",
+  //   "country": "usa",
+  //   "name": "Girl Develop It Atlanta",
+  //   "image": "http://pbs.twimg.com/profile_images/1090347122191417344/HboCdDBz_400x400.jpg",
+  //   "topics": ["Tech"],
+  //   "mainLink": "https://www.meetup.com/Girl-Develop-It-Atlanta/",
+  //   "secondaryLinks": [
+  //     {
+  //       "name": "Twitter",
+  //       "url": "https://twitter.com/GDIAtlanta"
+  //     },
+  //     {
+  //       "name": "Website",
+  //       "url": "https://www.girldevelopit.com/chapters/atlanta"
+  //     }
+  //   ]
+  // },
 
-  {
-    "city": "atlanta",
-    "country": "usa",
-    "name": "Girl Develop It Atlanta",
-    "image": "http://pbs.twimg.com/profile_images/1090347122191417344/HboCdDBz_400x400.jpg",
-    "topics": ["Tech"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Twitter",
-        "url": "https://twitter.com/GDIAtlanta"
-      },
-      {
-        "name": "Website",
-        "url": "https://www.girldevelopit.com/chapters/atlanta"
-      }
-    ]
-  },
+  // {
+  //   "city": "boise",
+  //   "country": "usa",
+  //   "name": "Girl Develop It Boise",
+  //   "image": "https://pbs.twimg.com/profile_images/461658574154780672/Yb5d3Y13_400x400.jpeg",
+  //   "topics": ["Tech"],
+  //   "mainLink": "https://www.meetup.com/Girl-Develop-It-Boise/",
+  //   "secondaryLinks": [
+  //     {
+  //       "name": "Twitter",
+  //       "url": "https://twitter.com/gdiboise"
+  //     },
+  //     {
+  //       "name": "Website",
+  //       "url": "https://www.girldevelopit.com/chapters/boise"
+  //     }
+  //   ]
+  // },
 
-  {
-    "city": "idaho",
-    "country": "usa",
-    "name": "__NO_ORGANAZATION_NAME_YET",
-    "image": "__NO_TWITTER_ACCOUNT_FOR_IMAGE",
-    "topics": ["Tech"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Website",
-        "url": "https://www.girldevelopit.com/chapters/idaho"
-      }
-    ]
-  },
+  // {
+  //   "city": "chicago",
+  //   "country": "usa",
+  //   "name": "Girl Develop It Chicago",
+  //   "image": "http://pbs.twimg.com/profile_images/863821519310512129/_nRg-IWg_400x400.jpg",
+  //   "topics": ["Tech"],
+  //   "mainLink": "https://www.meetup.com/Girl-Develop-It-Chicago-IL/",
+  //   "secondaryLinks": [
+  //     {
+  //       "name": "Twitter",
+  //       "url": "https://twitter.com/gdichicago"
+  //     },
+  //     {
+  //       "name": "Website",
+  //       "url": "https://www.girldevelopit.com/chapters/chicago"
+  //     }
+  //   ]
+  // },
 
-  {
-    "city": "boise",
-    "country": "usa",
-    "name": "Girl Develop It Boise",
-    "image": "http://pbs.twimg.com/profile_images/461658574154780672/Yb5d3Y13_normal.jpeg",
-    "topics": ["Tech"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Twitter",
-        "url": "https://twitter.com/gdiboise"
-      },
-      {
-        "name": "Website",
-        "url": "https://www.girldevelopit.com/chapters/boise"
-      }
-    ]
-  },
-
-  {
-    "city": "illinois",
-    "country": "usa",
-    "name": "Girl Develop It Chicago",
-    "image": "http://pbs.twimg.com/profile_images/863821519310512129/_nRg-IWg_400x400.jpg",
-    "topics": ["Tech"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Twitter",
-        "url": "https://twitter.com/gdichicago"
-      },
-      {
-        "name": "Website",
-        "url": "https://www.girldevelopit.com/chapters/chicago"
-      }
-    ]
-  },
-
-  {
-    "city": "chicago",
-    "country": "usa",
-    "name": "__NO_ORGANAZATION_NAME_YET",
-    "image": "http://pbs.twimg.com/profile_images/863821519310512129/_nRg-IWg_400x400.jpg",
-    "topics": ["Tech"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Twitter",
-        "url": "https://twitter.com/gdichicago"
-      }
-    ]
-  },
-
-  {
-    "city": "indiana",
-    "country": "usa",
-    "name": "Girl Develop It Indianapolis",
-    "image": "http://pbs.twimg.com/profile_images/554028783238275072/_bkxaAVY_normal.png",
-    "topics": ["Tech"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Twitter",
-        "url": "https://twitter.com/gdiIndy"
-      },
-      {
-        "name": "Website",
-        "url": "https://www.girldevelopit.com/chapters/indianapolis"
-      }
-    ]
-  },
+  // {
+  //   "city": "indiana",
+  //   "country": "usa",
+  //   "name": "Girl Develop It Indianapolis",
+  //   "image": "https://pbs.twimg.com/profile_images/554028783238275072/_bkxaAVY_400x400.png",
+  //   "topics": ["Tech"],
+  //   "mainLink": "https://www.meetup.com/Girl-Develop-It-Indianapolis/",
+  //   "secondaryLinks": [
+  //     {
+  //       "name": "Twitter",
+  //       "url": "https://twitter.com/gdiIndy"
+  //     },
+  //     {
+  //       "name": "Website",
+  //       "url": "http://gdiindy.github.io/docs/"
+  //     }
+  //   ]
+  // },
 
   {
     "city": "portland",

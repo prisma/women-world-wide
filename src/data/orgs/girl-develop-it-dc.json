@@ -1,0 +1,18 @@
+{
+  "city": "district-of-columbia",
+  "country": "usa",
+  "name": "Girl Develop It D.C.",
+  "image": "https://pbs.twimg.com/profile_images/446871193358839808/UAAr-Vy8_400x400.png",
+  "topics": ["Tech"],
+  "mainLink": "https://www.meetup.com/Girl-Develop-It-DC/",
+  "secondaryLinks": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/girldevelopitDC"
+    },
+    {
+      "name": "Website",
+      "url": "https://www.girldevelopit.com/chapters/washington-dc"
+    }
+  ]
+}

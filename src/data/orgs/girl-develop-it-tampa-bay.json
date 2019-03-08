@@ -1,0 +1,18 @@
+{
+  "city": "tampa-bay",
+  "country": "usa",
+  "name": "Girl Develop It Tampa Bay",
+  "image": "https://secure.meetupstatic.com/photos/event/8/7/a/c/600_436114732.jpeg",
+  "topics": ["Tech"],
+  "mainLink": "https://www.meetup.com/Girl-Develop-It-Tampa-Bay/",
+  "secondaryLinks": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/GDITampaBay"
+    },
+    {
+      "name": "Website",
+      "url": "https://www.girldevelopit.com/chapters/tampa-bay"
+    }
+  ]
+}
