@@ -1,6 +1,6 @@
 # Women World Wide Dev 🗺👩🏾‍💻👩🏿‍💻👩🏻‍💻👩🏽‍💻👩🏼‍💻
 
-[WomenWorldWide.dev](WomenWorldWide.dev) is a map of coding and tech groups around the world around the world for all who identify as women. 
+[WomenWorldWide.dev](https://WomenWorldWide.dev) is a map of coding and tech groups around the world around the world for all who identify as women. 
 
 This map represents just a tiny sliver of the great organizations that share this focus. 
 
