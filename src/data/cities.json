@@ -189,6 +189,13 @@
     "left": 440
   },
   {
+    "name": "Medellin",
+    "slug": "medellin",
+    "country": "colombia",
+    "top": 375,
+    "left": 227
+  },
+  {
     "name": "Melbourne",
     "slug": "melbourne",
     "country": "australia",
