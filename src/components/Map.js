@@ -97,7 +97,7 @@ const Container = styled.div`
 const Title = styled.div`
   position: relative;
   z-index: 2;
-  max-width: 500px;
+  max-width: 550px;
   margin: 40px auto 0 auto;
   text-align: center;
   color: ${p => p.theme.white};
