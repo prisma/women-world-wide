@@ -1499,88 +1499,77 @@
   //   ]
   // },
 
-  {
-    "city": "portland",
-    "country": "usa",
-    "name": "Girl Develop It Portland, ME",
-    "image": "http://pbs.twimg.com/profile_images/1026808652722626561/Lsly2hav_400x400.jpg",
-    "topics": ["Tech"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Twitter",
-        "url": "https://twitter.com/GDIPortlandME"
-      }
-    ]
-  },
+  // {
+  //   "city": "portland",
+  //   "country": "usa",
+  //   "name": "Girl Develop It Portland, ME",
+  //   "image": "http://pbs.twimg.com/profile_images/1026808652722626561/Lsly2hav_400x400.jpg",
+  //   "topics": ["Tech"],
+  //   "mainLink": "https://www.meetup.com/Girl-Develop-It-Portland-ME/",
+  //   "secondaryLinks": [
+  //     {
+  //       "name": "Twitter",
+  //       "url": "https://twitter.com/GDIPortlandME"
+  //     }
+  //   ]
+  // },
 
-  {
-    "city": "baltimore",
-    "country": "usa",
-    "name": "Girl Develop It Baltimore",
-    "image": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
-    "topics": ["Tech"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Twitter",
-        "url": "https://twitter.com/gdibaltimore"
-      },
-      {
-        "name": "Website",
-        "url": "https://www.girldevelopit.com/chapters/baltimore"
-      }
-    ]
-  },
+  // {
+  //   "city": "baltimore",
+  //   "country": "usa",
+  //   "name": "Girl Develop It Baltimore",
+  //   "image": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+  //   "topics": ["Tech"],
+  //   "mainLink": "https://www.meetup.com/Girl-Develop-It-Baltimore/",
+  //   "secondaryLinks": [
+  //     {
+  //       "name": "Twitter",
+  //       "url": "https://twitter.com/gdibaltimore"
+  //     },
+  //     {
+  //       "name": "Website",
+  //       "url": "https://www.girldevelopit.com/chapters/baltimore"
+  //     }
+  //   ]
+  // },
 
-  {
-    "city": "massachusetts",
-    "country": "usa",
-    "name": "Girl Develop It Austin",
-    "image": "__NO_TWITTER_ACCOUNT_FOR_IMAGE",
-    "topics": ["Tech"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Website",
-        "url": "https://www.girldevelopit.com/chapters/austin"
-      }
-    ]
-  },
+  // {
+  //   "city": "austin",
+  //   "country": "usa",
+  //   "name": "Girl Develop It Austin",
+  //   "image": "https://pbs.twimg.com/profile_images/1095882592388169729/17lgxpiW_400x400.png",
+  //   "topics": ["Tech"],
+  //   "mainLink": "https://www.meetup.com/Girl-Develop-It-Austin/",
+  //   "secondaryLinks": [
+  //     {
+  //       "name": "Website",
+  //       "url": "https://www.girldevelopit.com/chapters/austin"
+  //     },
+  //     {
+  //       "name": "Twitter",
+  //       "url": "https://twitter.com/gdiatx"
+  //     }
+  //   ]
+  // },
 
-  {
-    "city": "boston",
-    "country": "usa",
-    "name": "Girl Develop It Boston",
-    "image": "__NO_TWITTER_ACCOUNT_FOR_IMAGE",
-    "topics": ["Tech"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Website",
-        "url": "https://www.girldevelopit.com/chapters/boston"
-      }
-    ]
-  },
-
-  {
-    "city": "michigan",
-    "country": "usa",
-    "name": "Girl Develop It Detroit",
-    "image": "http://pbs.twimg.com/profile_images/2741420589/de10a9f13010fc569fd25c1a6392366c_normal.png",
-    "topics": ["Tech"],
-    "mainLink": "",
-    "secondaryLinks": [
-      {
-        "name": "Twitter",
-        "url": "https://twitter.com/GDIdet"
-      },
-      {
-        "name": "Website",
-        "url": "https://www.girldevelopit.com/chapters/detroit"
-      }
-    ]
-  },
+  // {
+  //   "city": "boston",
+  //   "country": "usa",
+  //   "name": "Girl Develop It Boston",
+  //   "image": "https://pbs.twimg.com/profile_images/458737330178646016/P0cTDh4Z_400x400.png",
+  //   "topics": ["Tech"],
+  //   "mainLink": "https://www.meetup.com/Girl-Develop-It-Boston/",
+  //   "secondaryLinks": [
+  //     {
+  //       "name": "Website",
+  //       "url": "https://www.girldevelopit.com/chapters/boston"
+  //     },
+  //     {
+  //       "name": "Twitter",
+  //       "url": "https://twitter.com/gdiboston"
+  //     }
+  //   ]
+  // },
 
   {
     "city": "ann-arbor",

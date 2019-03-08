@@ -1,0 +1,18 @@
+{
+  "city": "boston",
+  "country": "usa",
+  "name": "Girl Develop It Boston",
+  "image": "https://pbs.twimg.com/profile_images/458737330178646016/P0cTDh4Z_400x400.png",
+  "topics": ["Tech"],
+  "mainLink": "https://www.meetup.com/Girl-Develop-It-Boston/",
+  "secondaryLinks": [
+    {
+      "name": "Website",
+      "url": "https://www.girldevelopit.com/chapters/boston"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/gdiboston"
+    }
+  ]
+}

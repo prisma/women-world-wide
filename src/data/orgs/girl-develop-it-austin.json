@@ -1,0 +1,18 @@
+{
+  "city": "austin",
+  "country": "usa",
+  "name": "Girl Develop It Austin",
+  "image": "https://pbs.twimg.com/profile_images/1095882592388169729/17lgxpiW_400x400.png",
+  "topics": ["Tech"],
+  "mainLink": "https://www.meetup.com/Girl-Develop-It-Austin/",
+  "secondaryLinks": [
+    {
+      "name": "Website",
+      "url": "https://www.girldevelopit.com/chapters/austin"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/gdiatx"
+    }
+  ]
+}
