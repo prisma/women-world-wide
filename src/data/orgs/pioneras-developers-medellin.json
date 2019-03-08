@@ -1,0 +1,18 @@
+{
+  "image": "https://pbs.twimg.com/profile_images/976917501656338433/n0Bdd7ve_400x400.jpg",
+  "name": "Pioneras Developers",
+  "country": "colombia",
+  "city": "medellin",
+  "topics": ["Tech"],
+  "mainLink": "https://www.meetup.com/es/PionerasDevelopers/",
+  "secondaryLinks": [
+      {
+      "name": "Twitter",
+      "url": "https://twitter.com/pionerasdev"
+      },
+      {
+      "name": "Website",
+      "url": "http://pionerasdev.co/"
+      }
+  ]
+}
