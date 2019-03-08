@@ -1,0 +1,14 @@
+{
+  "city": "melbourne",
+  "country": "australia",
+  "name": "Girl Geek Academy",
+  "image": "https://pbs.twimg.com/profile_images/470353056257675265/3RK8CLKV_400x400.jpeg",
+  "topics": ["Tech"],
+  "mainLink": "https://girlgeekacademy.com/",
+  "secondaryLinks": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/GirlGeekAcademy"
+    }
+  ]
+}
