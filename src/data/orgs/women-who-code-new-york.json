@@ -1,0 +1,18 @@
+{
+  "city": "new-york",
+  "country": "usa",
+  "name": "Women Who Code NYC",
+  "image": "https://pbs.twimg.com/profile_images/673931225111769088/ucgFhSLs_400x400.jpg",
+  "topics": ["Tech"],
+  "mainLink": "https://www.meetup.com/WomenWhoCodeNYC/",
+  "secondaryLinks": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/WomenWhoCodeNYC"
+    },
+    {
+      "name": "Website",
+      "url": "https://www.womenwhocode.com/nyc"
+    }
+  ]
+}

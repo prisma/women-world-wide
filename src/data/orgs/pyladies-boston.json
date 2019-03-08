@@ -1,0 +1,18 @@
+{
+  "city": "boston",
+  "country": "usa",
+  "name": "PyLadies Boston",
+  "image": "http://boston.pyladies.com/assets/images/pyladies_boston_logo.png",
+  "topics": ["Python"],
+  "mainLink": "https://www.meetup.com/PyLadies-Boston/",
+  "secondaryLinks": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/pyladiesboston"
+    },
+    {
+      "name": "Website",
+      "url": "http://boston.pyladies.com/"
+    }
+  ]
+}
