@@ -159,6 +159,7 @@ const Dots = styled.div`
 
 const Dot = styled(CityLink)`
   display: block;
+  outline: none;
   transition: transform 0.1s ease, opacity 0.1s ease;
   position: absolute;
   z-index: 5;
