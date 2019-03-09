@@ -1,0 +1,22 @@
+{
+  "image": "https://pbs.twimg.com/profile_images/993767204033196032/2YJz-Pdw_400x400.jpg",
+  "name": "Pehia Foundation",
+  "country": "india",
+  "city": "kochi",
+  "topics": ["Tech", "Women Who code", "entrepreneurship"],
+  "mainLink": "https://pehia.org/",
+  "secondaryLinks": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/pehiaorg"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/pehiaorg"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.linkedin.com/in/pehiaorg"
+    }
+  ]
+}
