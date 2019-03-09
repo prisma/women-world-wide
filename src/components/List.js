@@ -5,6 +5,9 @@ import { transparentize } from 'polished'
 import { useStaticQuery, graphql } from 'gatsby'
 import Select from 'react-select'
 
+// Utilities
+import { createCityUrl, navigateTo, allCitiesOption, convertToOption, unwrapNodes } from '../utils'
+
 // Icons
 import LocationIcon from '../svgs/location.svg'
 import MeetupIcon from '../svgs/meetup.svg'
@@ -12,49 +15,38 @@ import TwitterIcon from '../svgs/twitter.svg'
 import TelegramIcon from '../svgs/telegram.svg'
 import LinkIcon from '../svgs/link.svg'
 
+// Components
+import UnstyledCityLink from './CityLink'
+
 // Styles
 import theme from '../styles/theme'
 import selectStyles from '../styles/selectStyles'
 
+// Handle City Selection
+const setCurrentCity = ({ data = {} }) => navigateTo(data.url)
+const getOrgCityUrl = (orgCity, orgCountry) => {
+  if(!orgCity || !orgCountry) return null
+  return createCityUrl(orgCity.slug, orgCountry.slug)
+}
 
 // List
-const List = ({ currentCity, setCurrentCity }) => {
+const List = ({ currentCity }) => {
 
   const data = useStaticQuery(queries)
-  const orgs = data.allOrgsJson.edges
-  const cities = data.allCitiesJson.edges
-  const countries = data.allCountriesJson.edges
+  const orgs = unwrapNodes(data.allOrgsJson)
+  const cities = unwrapNodes(data.allCitiesJson)
+  const countries = unwrapNodes(data.allCountriesJson)
 
   // Select Options
-  const selectOptions = () => {
-    const options = []
+  const groupedCitiesOptions = countries.map(country => ({
+    label: country.name,
+    data: { url: `/${country.slug}` },
+    options: cities
+      .filter(city => city.country === country.slug)
+      .map(convertToOption)
+  }))
 
-    countries.map(({ node: country }) => {
-      const cityOptions = []
-
-      cities.map(({ node: city }) => {
-        return city.country === country.slug
-          ? cityOptions.push({ value: city.slug, label: city.name })
-          : null
-      })
-
-      return options.push({ label: country.name, options: cityOptions })
-    })
-
-    return [
-      { value: 'all', label: 'All cities' },
-      ...options
-    ]
-  }
-
-  // Handle City Click
-  const handleCityClick = city => {
-    const currentCity = {
-      value: city.node.slug,
-      label: city.node.name
-    }
-    setCurrentCity(currentCity)
-  }
+  const selectOptions = () => [allCitiesOption, ...groupedCitiesOptions]
 
   return (
     <Container>
@@ -70,11 +62,11 @@ const List = ({ currentCity, setCurrentCity }) => {
       </Filter>
 
       <Card>
-        { orgs.map(({ node: org }) => {
+        { orgs.map(org => {
           if (currentCity.value !== 'all' && currentCity.value !== org.city) return null
 
-          const orgCity = cities.find(({ node: city }) => city.slug === org.city)
-          const orgCountry = countries.find(({ node: country }) => country.slug === org.country)
+          const orgCity = cities.find(city => city.slug === org.city)
+          const orgCountry = countries.find(country => country.slug === org.country)
 
           return (
             <Row key={org.id}>
@@ -91,12 +83,12 @@ const List = ({ currentCity, setCurrentCity }) => {
                       <Pin />
                       { orgCity &&
                         <City>
-                          <CityLink onClick={() => handleCityClick(orgCity)}>
-                            {orgCity.node.name}
+                          <CityLink to={getOrgCityUrl(orgCountry, orgCity)}>
+                            {orgCity.name}
                           </CityLink>,&nbsp;
                         </City>
                       }
-                      { orgCountry && <Country>{orgCountry.node.name}</Country> }
+                      { orgCountry && <Country>{orgCountry.name}</Country> }
                     </Location>
 
                     <Topics>
@@ -315,8 +307,10 @@ const Pin = styled(LocationIcon)`
 
 const City = styled.span``
 
-const CityLink = styled.span`
+const CityLink = styled(UnstyledCityLink)`
   white-space: nowrap;
+  color: currentColor;
+  text-decoration: none;
 
   &:hover {
     cursor: pointer;

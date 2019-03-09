@@ -5,6 +5,9 @@ import styled from 'styled-components'
 import Rellax from 'rellax'
 import Tippy from '@tippy.js/react'
 
+// Components
+import CityLink from './CityLink'
+
 // Illustration
 import MapIllustration from '../svgs/map.svg'
 import BackgroundIllustration from '../svgs/background.svg'
@@ -19,18 +22,13 @@ import YellowBall from '../svgs/yellow-ball.svg'
 Tippy.defaultProps = { ...Tippy.defaultProps, a11y: false }
 
 // Map
-const Map = ({ setCurrentCity }) => {
+const Map = () => {
 
   const data = useStaticQuery(citiesQuery)
   const cities = data.allCitiesJson.edges
 
   useEffect(() => { new Rellax('.rellax') }, [])
-
-  const handleDotClick = city => {
-    window.scrollTo({ top: 850, behavior: 'smooth' })
-    setCurrentCity({ label: city.name, value: city.slug })
-  }
-
+  
   return (
     <Container>
       <Title className="rellax" data-rellax-speed="-5">
@@ -40,7 +38,7 @@ const Map = ({ setCurrentCity }) => {
       <Dots className="rellax" data-rellax-speed="-4">
         { cities.map(({ node: city }) =>
           <Tippy content={city.name} key={city.id}>
-            <Dot {...city} onClick={() => handleDotClick(city)} />
+            <Dot {...city} tabIndex={-1} />
           </Tippy>
         )}
       </Dots>
@@ -159,7 +157,8 @@ const Dots = styled.div`
   @media screen and (min-width: 1100px) { left: 60px; }
 `
 
-const Dot = styled.div`
+const Dot = styled(CityLink)`
+  display: block;
   transition: transform 0.1s ease, opacity 0.1s ease;
   position: absolute;
   z-index: 5;
