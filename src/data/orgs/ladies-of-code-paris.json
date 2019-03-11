@@ -1,0 +1,31 @@
+{
+  "city": "paris",
+  "country": "france",
+  "name": "Ladies of Code Paris",
+  "image": "https://paris.ladiesofcode.com/wp-content/uploads/2017/01/Ladies-Of-Code-1.png",
+  "topics": ["Tech"],
+  "mainLink": "https://www.meetup.com/Ladies-of-Code-Paris",
+  "secondaryLinks": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/LadiesCodeParis"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/LadiesCodeParis"
+    },
+    {
+      "name": "Github",
+      "url": "https://github.com/ladiesOfCodeParis"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/ladiesofcode.paris"
+    },
+    {
+      "name": "Website",
+      "url": "https://paris.ladiesofcode.com/"
+    }
+  ]
+}
+
