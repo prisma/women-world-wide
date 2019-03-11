@@ -1,0 +1,14 @@
+{
+  "image": "https://pbs.twimg.com/profile_images/708397047318257664/NAEgm8eZ_400x400.jpg",
+  "name": "Pyladies",
+  "country": "colombia",
+  "city": "medellin",
+  "topics": ["Python"],
+  "mainLink": "https://www.meetup.com/es/Python-Ladies-Medellin/",
+  "secondaryLinks": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/pyladiesmed"
+    }
+  ]
+}
