@@ -2,7 +2,7 @@
   "city": "boston",
   "country": "usa",
   "name": "PyLadies Boston",
-  "image": "http://boston.pyladies.com/assets/images/pyladies_boston_logo.png",
+  "image": "https://boston.pyladies.com/assets/images/pyladies_boston_logo.png",
   "topics": ["Python"],
   "mainLink": "https://www.meetup.com/PyLadies-Boston/",
   "secondaryLinks": [
