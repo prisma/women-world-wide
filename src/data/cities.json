@@ -28,13 +28,6 @@
     "left": 687
   },
   {
-    "name": "Kochi",
-    "slug": "kochi",
-    "country": "india",
-    "top": 365,
-    "left": 682
-  },
-  {
     "name": "Berlin",
     "slug": "berlin",
     "country": "germany",
@@ -159,6 +152,13 @@
     "country": "usa",
     "top": 249,
     "left": 205
+  },
+  {
+    "name": "Kochi",
+    "slug": "kochi",
+    "country": "india",
+    "top": 365,
+    "left": 682
   },
   {
     "name": "La Paz",
