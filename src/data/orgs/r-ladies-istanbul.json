@@ -1,0 +1,14 @@
+{
+  "image": "https://pbs.twimg.com/profile_images/805708674811514881/CuxHbvqT_400x400.jpg",
+  "name": "R-Ladies Istanbul",
+  "country": "Turkey",
+  "city": "Istanbul",
+  "topics": ["R Programming"],
+  "mainLink": "https://twitter.com/RLadiesIstanbul",
+  "secondaryLinks": [
+    {
+      "name": "Meetup",
+      "url": "https://www.meetup.com/rladies-istanbul/"
+    }
+  ]
+}
