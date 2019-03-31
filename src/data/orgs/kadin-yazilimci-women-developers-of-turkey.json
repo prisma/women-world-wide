@@ -10,14 +10,17 @@
       "name": "Twitter",
       "url": "https://twitter.com/kadinyazilimci"
     },
-    ,
     {
       "name": "Facebook",
       "url": "https://www.facebook.com/KadinYazilimci"
-    }
+    },
     {
       "name": "Slack",
       "url": "https://slack.kadinyazilimci.com/katil"
+    },
+    {
+      "name": "Eventbrite",
+      "url": "https://www.eventbrite.com/o/kadn-yazlmc-9569163515"
     }
   ]
 }
