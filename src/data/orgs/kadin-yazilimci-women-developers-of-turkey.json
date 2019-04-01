@@ -1,0 +1,26 @@
+{
+  "image": "https://www.kadinyazilimci.com/wp-content/uploads/2019/03/logo-square.png",
+  "name": "Kadın Yazılımcı - Women Developers of Turkey",
+  "country": "turkey",
+  "city": "istanbul",
+  "topics": ["Tech"],
+  "mainLink": "https://www.kadinyazilimci.com",
+  "secondaryLinks": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/kadinyazilimci"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/KadinYazilimci"
+    },
+    {
+      "name": "Slack",
+      "url": "https://slack.kadinyazilimci.com/katil"
+    },
+    {
+      "name": "Eventbrite",
+      "url": "https://www.eventbrite.com/o/kadn-yazlmc-9569163515"
+    }
+  ]
+}
