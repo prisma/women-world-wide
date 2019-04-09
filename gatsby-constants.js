@@ -1,0 +1,1 @@
+exports.DO_NOT_SCROLL_KEY = '__doNotScroll'
