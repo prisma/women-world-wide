@@ -1,0 +1,18 @@
+{
+  "city": "boston",
+  "country": "usa",
+  "name": "R-Ladies Boston",
+  "image": "https://pbs.twimg.com/profile_images/842033618226683905/ee4wjuxG_400x400.jpg",
+  "topics": ["R Programming"],
+  "mainLink": "https://www.meetup.com/rladies-boston/",
+  "secondaryLinks": [
+    {
+      "name": "Website",
+      "url": "https://rladies.github.io/Boston/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/rladiesboston?lang=en"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "city": "new-york",
+  "country": "usa",
+  "name": "R-Ladies New York",
+  "image": "https://pbs.twimg.com/profile_images/842033618226683905/ee4wjuxG_400x400.jpg",
+  "topics": ["R Programming"],
+  "mainLink": "https://www.meetup.com/rladies-newyork/",
+  "secondaryLinks": [
+    {
+      "name": "Website",
+      "url": "https://www.rladiesnyc.org/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/rladiesnyc?lang=en"
+    }
+  ]
+}
