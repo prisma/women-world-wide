@@ -1,0 +1,14 @@
+{
+  "city": "boston",
+  "country": "usa",
+  "name": "Boston Women in Machine Learning & Data Science",
+  "image": "https://pbs.twimg.com/profile_images/877345413115764736/MTFNgtp3_400x400.jpg",
+  "topics": ["Machine Learning", "Data Science"],
+  "mainLink": "https://www.meetup.com/Boston-Women-in-Machine-Learning-and-Data-Science/",
+  "secondaryLinks": [
+    {
+      "name": "Website",
+      "url": "http://wimlds.org/about-the-boston-team/"
+    }
+  ]
+}
