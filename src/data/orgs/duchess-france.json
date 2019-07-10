@@ -1,0 +1,31 @@
+{
+  "city": "paris",
+  "country": "france",
+  "name": "Duchess France",
+  "image": "https://pbs.twimg.com/profile_images/477518173869060096/O_Rprbz3_400x400.png",
+  "topics": ["Python"],
+  "mainLink": "https://www.meetup.com/Duchess-France-Meetup",
+  "secondaryLinks": [
+    {
+      "name": "Website",
+      "url": "https://www.duchess-france.org/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/duchessfr"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/duchessfr"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/duchessfr"
+    },
+    {
+      "name": "Linkedin",
+      "url": "https://www.linkedin.com/groups/2750811"
+    }
+  ]
+}
+

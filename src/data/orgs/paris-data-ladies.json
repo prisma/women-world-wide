@@ -1,0 +1,19 @@
+{
+  "city": "paris",
+  "country": "france",
+  "name": "Paris Data Ladies",
+  "image": "https://femmes-numerique.fr/wp-content/uploads/2018/08/logo-Paris_DataLadies.png",
+  "topics": ["Data"],
+  "mainLink": "https://www.meetup.com/Paris-DataLadies",
+  "secondaryLinks": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/parisdataladies"
+    },
+    {
+      "name": "Website",
+      "url": "https://femmes-numerique.fr/"
+    }
+  ]
+}
+

@@ -1,0 +1,23 @@
+{
+  "city": "paris",
+  "country": "france",
+  "name": "Le Reset",
+  "image": "https://wiki.lereset.org/_media/wiki:logo.png",
+  "topics": ["hackerspace"],
+  "mainLink": "https://lereset.org",
+  "secondaryLinks": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/le_RESET"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/leRESETparis"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/le_reset/"
+    }
+  ]
+}
+
