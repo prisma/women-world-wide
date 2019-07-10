@@ -1,0 +1,23 @@
+{
+  "city": "paris",
+  "country": "france",
+  "name": "PyLadies Paris",
+  "image": "https://www.pyladies.com/assets/images/pylady_geek.png",
+  "topics": ["Python"],
+  "mainLink": "https://www.meetup.com/PyLadies-Paris",
+  "secondaryLinks": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/PyLadiesParis"
+    },
+    {
+      "name": "Github",
+      "url": "https://github.com/PyLadiesParis"
+    },
+    {
+      "name": "Website",
+      "url": "https://www.pyladies.com/locations/paris/"
+    }
+  ]
+}
+
