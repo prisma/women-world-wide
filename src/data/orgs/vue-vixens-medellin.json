@@ -1,0 +1,14 @@
+{
+  "image": "https://avatars3.githubusercontent.com/u/35713339",
+  "name": "Vue Vixens",
+  "country": "colombia",
+  "city": "medellin",
+  "topics": ["Vue.js"],
+  "mainLink": "https://www.vuevixens.org/",
+  "secondaryLinks": [
+    {
+    "name": "Twitter",
+    "url": "https://twitter.com/vuevixensco"
+    }
+  ]
+}
