@@ -70,6 +70,13 @@
     "left": 277
   },
   {
+    "name": "Cairo",
+    "slug": "cairo",
+    "country": "egypt",
+    "top": 298,
+    "left": 540
+  },
+  {
     "name": "Cary",
     "slug": "cary",
     "country": "usa",
@@ -159,7 +166,7 @@
     "country": "turkey",
     "top": 252,
     "left": 525
-  },  
+  },
   {
     "name": "Kochi",
     "slug": "kochi",
@@ -409,8 +416,8 @@
     "name": "Tel Aviv",
     "slug": "tel-aviv",
     "country": "israel",
-    "top": 296,
-    "left": 550
+    "top": 285,
+    "left": 555
   },
   {
     "name": "Tokyo",

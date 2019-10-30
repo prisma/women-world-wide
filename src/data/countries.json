@@ -48,6 +48,10 @@
     "name": "Ecuador"
   },
   {
+    "slug": "egypt",
+    "name": "Egypt"
+  },
+  {
     "slug": "france",
     "name": "France"
   },
@@ -147,7 +151,7 @@
     "slug": "tunisia",
     "name": "Tunisia"
   },
-   {
+  {
     "slug": "turkey",
     "name": "Turkey"
   },
