@@ -1,0 +1,14 @@
+{
+  "image": "https://pbs.twimg.com/profile_images/1093585928642162688/oVdX1KD-_400x400.jpg",
+  "name": "WTM Cairo",
+  "country": "egypt",
+  "city": "cairo",
+  "topics": ["Tech"],
+  "mainLink": "https://www.womentechmakers.com/",
+  "secondaryLinks": [
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/WTMCairo"
+    }
+  ]
+}
