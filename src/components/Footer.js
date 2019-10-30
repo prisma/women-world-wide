@@ -7,10 +7,10 @@ const Footer = () => (
   <Container>
     <Left>
       <Name>Women World Wide Dev</Name>
-      <Subline>Thank you to everyone who makes these groups possible! 🙌</Subline>
+      <Subline>Thank you to everyone who makes these groups possible! <span role="img" aria-hidden="true">🙌</span></Subline>
     </Left>
 
-    <Right>Made with <Emoji>️️❤️</Emoji> by <Link href="https://www.prisma.io/">Prisma</Link></Right>
+    <Right>Made with <Emoji><span role="img" aria-label="love">️️❤️</span></Emoji> by <Link href="https://www.prisma.io/">Prisma</Link></Right>
   </Container>
 )
 

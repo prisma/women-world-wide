@@ -13,7 +13,7 @@ const Cta = () => (
     <Main>
       <Text>
         <Title>Don't see your organization on the list?</Title>
-        <Subtitle>This site is fully open source! 🙃 Simply <a href="https://github.com/prisma/women-world-wide">submit a PR on Github</a> to add a new organization.</Subtitle>
+        <Subtitle>This site is fully open source! <span role="img" aria-hidden="true">🙃</span> Simply <a href="https://github.com/prisma/women-world-wide">submit a PR on Github</a> to add a new organization.</Subtitle>
       </Text>
       <Button href="https://github.com/prisma/women-world-wide">
         <PlusIcon /> Add an org
