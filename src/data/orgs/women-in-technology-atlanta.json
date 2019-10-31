@@ -1,0 +1,19 @@
+{
+  "image": "https://ww1.prweb.com/prfiles/2017/09/20/14726734/gI_63061_WIT_Brandmark_CMYK_Vertical%20Lockup_Vertical%20Lockup.png",
+  "name": "Women In Technology (WIT)",
+  "country": "usa",
+  "city": "atlanta",
+  "topics": ["Tech"],
+  "mainLink": "https://mywit.org",
+  "secondaryLinks": [
+    {
+      "name": "Events",
+      "url": "https://www.mywit.org/events/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/witgeorgia"
+    }
+  ]
+}
+
