@@ -1,0 +1,22 @@
+{
+  "image": "https://kadinyazilimtasarim.org/img/logo-light.png",
+  "name": "Kadın Yazılım Tasarım Kolektifi",
+  "country": "turkey",
+  "city": "istanbul",
+  "topics": ["Tech","Design"],
+  "mainLink": "https://kadinyazilimtasarim.org/",
+  "secondaryLinks": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/kyazilimtasarim"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/kadinyazilimtasarim/"
+    },
+    {
+      "name": "Youtube",
+      "url": "https://www.youtube.com/Kad%C4%B1nYaz%C4%B1l%C4%B1mTasar%C4%B1m"
+    }
+  ]
+}
