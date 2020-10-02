@@ -1,0 +1,22 @@
+{
+  "image": "https://i1.wp.com/www.kadinyazilimci.com/wp-content/uploads/2015/11/djangolong.png",
+  "name": "Django Girls Turkey",
+  "country": "turkey",
+  "city": "istanbul",
+  "topics": ["Tech"],
+  "mainLink": "http://djangogirlsturkey.kadinyazilimci.com/",
+  "secondaryLinks": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/djangogirlsist"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/djangogirlsistanbul"
+    },
+    {
+      "name": "Global web site",
+      "url": "https://djangogirls.org/istanbul/"
+    }
+  ]
+}
