@@ -1,0 +1,34 @@
+{
+  "image": "https://pbs.twimg.com/profile_images/993115542117548040/uAhtJo87_400x400.jpg",
+  "name": "Sisterslab",
+  "country": "turkey",
+  "city": "istanbul",
+  "topics": ["STEAM"],
+  "mainLink": "https://linktr.ee/sisterslabb",
+  "secondaryLinks": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/SistersLab"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/sisterslabb/"
+    },
+    {
+      "name": "Kommunity",
+      "url": "https://kommunity.com/sisterslabdeyiz"
+    },
+    {
+      "name": "Linktr",
+      "url": "https://linktr.ee/sisterslabb"
+    },
+    {
+      "name": "Slack",
+      "url": "https://sisterslab.slack.com/"
+    },
+    {
+      "name": "Linkedin",
+      "url": "https://www.linkedin.com/company/sisterslab/"
+    }
+  ]
+}
