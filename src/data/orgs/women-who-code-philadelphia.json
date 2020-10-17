@@ -1,0 +1,26 @@
+{
+  "city": "philadelphia",
+  "country": "usa",
+  "name": "Women Who Code Philadelphia",
+  "image": "https://pbs.twimg.com/profile_banners/3235282868/1584627920/1500x500",
+  "topics": ["Tech"],
+  "mainLink": "https://www.womenwhocode.com/philadelphia",
+  "secondaryLinks": [
+    {
+      "name": "meetup",
+      "url": "https://www.meetup.com/Women-Who-Code-Philly/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/wwcodephilly?lang=en"
+    },
+    {
+      "name": "instagram",
+      "url": "https://www.instagram.com/womenwhocode/"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/company/women-who-code"
+    }
+  ]
+}

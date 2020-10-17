@@ -1,0 +1,13 @@
+{
+  "city": "boston",
+  "country": "usa",
+  "name": "Boston Area Women in Agile",
+  "topics": ["Tech"],
+  "mainLink": "https://womeninagile.org/",
+  "secondaryLinks": [
+    {
+      "name": "meetup",
+      "url": "https://www.meetup.com/Boston-Area-Women-in-Agile/"
+    }
+  ]
+}

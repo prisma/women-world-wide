@@ -1,0 +1,22 @@
+{
+  "city": "philadelphia",
+  "country": "usa",
+  "name": "ChickTech:Philadelphia",
+  "image": "https://philadelphia.chicktech.org/wp-content/uploads/sites/18/2016/01/chicktech_philadelphia_logo-copy-2.jpg",
+  "topics": ["Tech"],
+  "mainLink": "https://philadelphia.chicktech.org/",
+  "secondaryLinks": [
+    {
+      "name": "meetup",
+      "url": "https://www.meetup.com/Philadelphia-Women-in-Technology-ChickTech-Meetup/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/ChickTechPhilly"
+    },
+    {
+      "name": "instagram",
+      "url": "https://www.instagram.com/"
+    }
+  ]
+}

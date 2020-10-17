@@ -1,0 +1,26 @@
+{
+  "city": "princeton",
+  "country": "usa",
+  "name": "Women in Technology International-WITI NJ",
+  "image": "https://www.witi.com/BD-themes/witi2014/images/witi-logo.png",
+  "topics": ["Tech"],
+  "mainLink": "https://technical.ly/company/women-in-data-philadelphia/",
+  "secondaryLinks": [
+    {
+      "name": "meetup",
+      "url": "https://www.meetup.com/WITI-NJ/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/witi"
+    },
+    {
+      "name": "instagram",
+      "url": "https://www.instagram.com/womenintechnologyinternational"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/groups/1888/"
+    }
+  ]
+}
