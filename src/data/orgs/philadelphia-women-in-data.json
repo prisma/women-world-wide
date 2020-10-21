@@ -1,0 +1,26 @@
+{
+  "city": "philadelphia",
+  "country": "usa",
+  "name": "Philadelphia Women in Data",
+  "image": "https://pbs.twimg.com/profile_banners/744712793056649216/1589307037/1500x500",
+  "topics": ["Tech", "Data"],
+  "mainLink": "https://technical.ly/company/women-in-data-philadelphia/",
+  "secondaryLinks": [
+    {
+      "name": "meetup",
+      "url": "https://www.meetup.com/Philadelphia-Women-in-Data/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/womenindataorg"
+    },
+    {
+      "name": "instagram",
+      "url": "https: //www.instagram.com/womenindataorg/?hl=en"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/company/women-in-data/"
+    }
+  ]
+}

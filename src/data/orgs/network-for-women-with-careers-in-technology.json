@@ -1,0 +1,22 @@
+{
+  "city": "philadelphia",
+  "country": "usa",
+  "name": "Network for Women with Careers in Technology",
+  "image": "https://pbs.twimg.com/profile_banners/3192189521/1576643867/1500x500",
+  "topics": ["Tech"],
+  "mainLink": "https://www.nwct-phila.org/",
+  "secondaryLinks": [
+    {
+      "name": "meetup",
+      "url": "https://www.meetup.com/NWCTgetsIT-Network-of-Women-with-Careers-in-Technology/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/NWCTgetsIT"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/groups/108713"
+    }
+  ]
+}
