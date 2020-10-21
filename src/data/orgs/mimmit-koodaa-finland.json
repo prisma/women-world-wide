@@ -1,0 +1,22 @@
+{
+  "image": "https://mimmitkoodaa.ohjelmistoebusiness.fi/wp-content/uploads/2019/05/sininen-pallo-logo-297x300.png",
+  "name": "Mimmit Koodaa",
+  "country": "finland",
+  "city": "helsinki",
+  "topics": ["Tech"],
+  "mainLink": "https://mimmitkoodaa.ohjelmistoebusiness.fi/",
+  "secondaryLinks": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/mimmitkoodaa"
+    },
+    {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/mimmitkoodaa/"
+    },
+    {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/mimmitkoodaa/"
+    }
+  ]
+}

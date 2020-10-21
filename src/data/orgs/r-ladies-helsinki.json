@@ -1,0 +1,14 @@
+{
+  "city": "helsinki",
+  "country": "finland",
+  "name": "R-Ladies Helsinki",
+  "image": "https://pbs.twimg.com/profile_images/842033618226683905/ee4wjuxG_400x400.jpg",
+  "topics": ["R Programming, "],
+  "mainLink": "https://www.meetup.com/rladies-helsinki/",
+  "secondaryLinks": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/rladieshelsinki"
+    }
+  ]
+}

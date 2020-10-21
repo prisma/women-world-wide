@@ -1,0 +1,18 @@
+{
+  "image": "https://res.cloudinary.com/toughbyte/image/upload/b_transparent,c_pad,g_center,h_230,w_230/v1445769771/ahmlwbzfpshaefihyal4.png",
+  "name": "PyLadies Helsinki",
+  "country": "finland",
+  "city": "helsinki",
+  "topics": ["Python"],
+  "mainLink": "https://www.meetup.com/Helsinki-PyLadies/",
+  "secondaryLinks": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/pyladieshki"
+    },
+    {
+        "name": "GitHub",
+        "url": "https://github.com/pyladieshki"
+    }
+  ]
+}
