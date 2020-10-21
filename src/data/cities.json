@@ -154,6 +154,13 @@
     "left": 270
   },
   {
+    "name": "Helsinki",
+    "slug": "helsinki",
+    "country": "finland",
+    "top": 173,
+    "left": 513
+  },
+  {
     "name": "Indiana",
     "slug": "indiana",
     "country": "usa",
