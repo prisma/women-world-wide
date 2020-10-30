@@ -441,6 +441,13 @@
     "left": 496
   },
   {
+    "name": "Turku",
+    "slug": "turku",
+    "country": "finland",
+    "top": 175,
+    "left": 503
+  },
+  {
     "name": "Utah",
     "slug": "utah",
     "country": "usa",
