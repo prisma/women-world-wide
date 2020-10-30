@@ -1,0 +1,18 @@
+{
+  "image": "https://turkupy.github.io/static/logo-e556aca72f8670e6571bdd474a461f90.png",
+  "name": "Turku.py",
+  "country": "finland",
+  "city": "turku",
+  "topics": ["Python", "Tech"],
+  "mainLink": "https://turkupy.github.io/",
+  "secondaryLinks": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/turku_py"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/turkupy/turkupy.github.io"
+    }
+  ]
+}
