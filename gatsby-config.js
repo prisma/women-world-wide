@@ -1,5 +1,6 @@
 module.exports = {
   plugins: [
+    `gatsby-plugin-preload-fonts`,
     `gatsby-plugin-react-helmet`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
@@ -18,17 +19,6 @@ module.exports = {
         rule: {
           include: /svgs/
         }
-      }
-    },
-    {
-      resolve: `gatsby-plugin-prefetch-google-fonts`,
-      options: {
-        fonts: [
-          {
-            family: `Poppins`,
-            variants: [`500`, `600`]
-          }
-        ]
       }
     },
     {
