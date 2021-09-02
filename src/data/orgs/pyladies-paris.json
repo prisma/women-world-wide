@@ -4,7 +4,7 @@
   "name": "PyLadies Paris",
   "image": "https://www.pyladies.com/assets/images/pylady_geek.png",
   "topics": ["Python"],
-  "mainLink": "https://www.meetup.com/PyLadies-Paris",
+  "mainLink": "https://www.pyladies.com/locations/paris/",
   "secondaryLinks": [
     {
       "name": "Twitter",
@@ -14,10 +14,6 @@
       "name": "Github",
       "url": "https://github.com/PyLadiesParis"
     },
-    {
-      "name": "Website",
-      "url": "https://www.pyladies.com/locations/paris/"
-    }
   ]
 }
 
