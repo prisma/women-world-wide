@@ -6,11 +6,10 @@
   "topics": ["Tech", "Data"],
   "mainLink": "https://technical.ly/company/women-in-data-philadelphia/",
   "secondaryLinks": [
- 
     {
       "name": "twitter",
       "url": "https://twitter.com/womenindataorg"
-    }
+    },
     {
       "name": "linkedin",
       "url": "https://www.linkedin.com/company/women-in-data/"
