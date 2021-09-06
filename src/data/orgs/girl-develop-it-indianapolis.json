@@ -4,15 +4,11 @@
   "name": "Girl Develop It Indianapolis",
   "image": "https://pbs.twimg.com/profile_images/554028783238275072/_bkxaAVY_400x400.png",
   "topics": ["Tech"],
-  "mainLink": "https://www.meetup.com/Girl-Develop-It-Indianapolis/",
+  "mainLink": "http://gdiindy.github.io/docs/",
   "secondaryLinks": [
     {
       "name": "Twitter",
       "url": "https://twitter.com/gdiIndy"
-    },
-    {
-      "name": "Website",
-      "url": "http://gdiindy.github.io/docs/"
     }
   ]
 }

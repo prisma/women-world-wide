@@ -4,7 +4,7 @@
   "country": "turkey",
   "city": "istanbul",
   "topics": ["Tech"],
-  "mainLink": "http://djangogirlsturkey.kadinyazilimci.com/",
+  "mainLink": "https://djangogirls.org/istanbul/",
   "secondaryLinks": [
     {
       "name": "Twitter",
@@ -13,10 +13,6 @@
     {
       "name": "Facebook",
       "url": "https://www.facebook.com/djangogirlsistanbul"
-    },
-    {
-      "name": "Global web site",
-      "url": "https://djangogirls.org/istanbul/"
     }
   ]
 }
