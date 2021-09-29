@@ -2,8 +2,10 @@
   "image": "https://pbs.twimg.com/profile_images/1229795064651698178/klKj6Blv_400x400.jpg",
   "name": "Women in Tech Cluj",
   "country": "romania",
-  "city": "Cluj-Napoca",
-  "topics": ["Tech"],
+  "city": "cluj-napoca",
+  "topics": [
+    "Tech"
+  ],
   "mainLink": "https://www.womenintechcluj.com",
   "secondaryLinks": [
     {
