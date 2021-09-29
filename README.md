@@ -17,9 +17,9 @@ yarn develop
 ```
 
 ## Contributions 🤝
-We are actively seeking to add additional organizations for the map. 
+We are actively seeking to add additional organizations to the map. 
 
-There are three components to each contribution: 
+There are three components to each entry: 
 
 * the country 
 * the city
@@ -27,7 +27,7 @@ There are three components to each contribution:
 
 When adding a new group, you can add it into an existing city and/or country, or you can add the necessary city and country. You can take any of these steps in the relevant file. 
 
-### Adding a country 
+### Adding a country 🌍
 If the country where your organization is based is not listed on the page, you can add a country to the map. 
 
 To add a country to the map, you should edit the [`src/data/countries.json`](.src/data/countries.json) file. In that file, each country is listed alphabetically with the country name, which is displayed, and the slug, which is used for reference and is always lowercase. 
@@ -40,13 +40,15 @@ To add a country, find the place in the alphabetized list and add both slug and 
   },
 ```
 
-For countries that have a name consisting of multiple words, you have two options for the slug. You can either use a common acronym, like the "United States" example:
+For countries that have a name consisting of multiple words, you have two options for the slug. 
+
+You can either use a common acronym, like the "United States" example:
 
 ```
  {
     "slug": "usa",
     "name": "United States"
-  }
+  },
 ```
 or combine the names, lower-cased, with a dash between them, like the "Czech Republic" example:
 
@@ -58,7 +60,7 @@ or combine the names, lower-cased, with a dash between them, like the "Czech Rep
   },
   ```
 
-### Adding a city
+### Adding a city 🌆
 If the city where your organization is based is not listed on the page, you can add the city to the map. 
 
 To add a city to the map, you should edit the [`src/data/cities.json`](.src/data/cities.json) file. 
@@ -70,6 +72,7 @@ Each city entry in the file is composed of multiple parts:
 * the country slug, which should match the slug in the `countries.json` file
 * the location on the header map indicated in pixels
 
+```
  {
     "name": "Berlin",
     "slug": "berlin",
@@ -77,12 +80,12 @@ Each city entry in the file is composed of multiple parts:
     "top": 212,
     "left": 484
   },
+  ```
 
 To add a city, find the place in the alphabetized list and add all of the necessary components to plot the city roughy in the correct area on the map. You may need to try a couple of option in your local version to get the location as close as possible to the correct geographic location. 
 
 
-### Adding an organization 
-
+### Adding an organization 🥳
 To add your group, please add each of the organization's locations as a separate JSON file in the [`src/data/orgs`](./src/data/orgs) directory. 
 
 The file should end with a `.json` extension. 
