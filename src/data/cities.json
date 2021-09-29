@@ -98,6 +98,13 @@
     "left": 195
   },
   {
+    "name": "Cluj-Napoca",
+    "slug": "cluj-napoca",
+    "country": "romania",
+    "top": 239,
+    "left": 515
+  },
+  {
     "name": "Cochabamba",
     "slug": "cochabamba",
     "country": "bolivia",
