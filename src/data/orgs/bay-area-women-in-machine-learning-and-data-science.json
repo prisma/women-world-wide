@@ -7,10 +7,6 @@
   "mainLink": "https://www.meetup.com/Bay-Area-Women-in-Machine-Learning-and-Data-Science/",
   "secondaryLinks": [
     {
-      "name": "Website",
-      "url": "http://wimlds.org/chapters/about-bay-area/"
-    },
-    {
       "name": "Twitter",
       "url": "https://twitter.com/wimlds_bayarea"
     }

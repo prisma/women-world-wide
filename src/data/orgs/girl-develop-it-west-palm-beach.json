@@ -4,15 +4,5 @@
   "name": "Girl Develop It West Palm Beach",
   "image": "https://pbs.twimg.com/profile_images/497126460071501825/L_VG4jg8_400x400.png",
   "topics": ["Tech"],
-  "mainLink": "https://www.meetup.com/Girl-Develop-It-West-Palm-Beach/",
-  "secondaryLinks": [
-    {
-      "name": "Twitter",
-      "url": "https://twitter.com/gdiwpb"
-    },
-    {
-      "name": "Website",
-      "url": "https://www.girldevelopit.com/chapters/west-palm-beach"
-    }
-  ]
+  "mainLink": "https://twitter.com/gdiwpb"
 }
