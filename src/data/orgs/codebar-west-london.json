@@ -1,0 +1,27 @@
+{
+  "city": "london",
+  "country": "uk",
+  "name": "codebar (West London)",
+  "image": "https://raw.githubusercontent.com/codebar/assets/master/mark/png/mark-white.png",
+  "topics": ["Tech"],
+  "mainLink": "https://codebar.io/west-london",
+  "secondaryLinks": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/codebarWL"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://facebook.com/codebarHQ"
+    },
+    {
+      "name": "Github",
+      "url": "https://github.com/codebar"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://instagram.com/codebarHQ"
+    }
+  ]
+}
+
