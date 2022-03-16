@@ -24,6 +24,10 @@
     "name": "Bulgaria"
   },
   {
+  "slug": "cameroon",
+  "name": "Cameroon"
+  },
+  {
     "slug": "canada",
     "name": "Canada"
   },
@@ -132,6 +136,10 @@
     "name": "Scotland"
   },
   {
+  "slug": "senegal",
+  "name": "Senegal"
+   },
+  {
     "slug": "singapore",
     "name": "Singapore"
   },
@@ -139,6 +147,10 @@
     "slug": "slovakia",
     "name": "Slovakia"
   },
+  {
+  "slug": "south-africa",
+  "name": "South Africa"
+   },
   {
     "slug": "spain",
     "name": "Spain"
@@ -151,6 +163,10 @@
     "slug": "switzerland",
     "name": "Switzerland"
   },
+  {
+  "slug": "tanzania",
+  "name": "Tanzania"
+   },
   {
     "slug": "tunisia",
     "name": "Tunisia"
