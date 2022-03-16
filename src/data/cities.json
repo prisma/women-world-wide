@@ -1,5 +1,12 @@
 [
   {
+    "name": "Abuja",
+    "slug": "abuja",
+    "country": "nigeria",
+    "top": 212,
+    "left": 484
+  },
+  {
     "name": "Atlanta",
     "slug": "atlanta",
     "country": "usa",
@@ -119,6 +126,20 @@
     "left": 160
   },
   {
+    "name": "Dakar",
+    "slug": "dakar",
+    "country": "senegal",
+    "top": 212,
+    "left": 484
+  },
+  {
+    "name": "Dar es Salaam",
+    "slug": "dar-es-salaam",
+    "country": "tanzania",
+    "top": 212,
+    "left": 484
+  },
+  {
     "name": "Delhi",
     "slug": "delhi",
     "country": "india",
@@ -180,6 +201,20 @@
     "country": "turkey",
     "top": 252,
     "left": 525
+  },
+  {
+    "name": "Johannesburg",
+    "slug": "johannesburg",
+    "country": "south-africa",
+    "top": 212,
+    "left": 484
+  },
+  {
+    "name": "kampala",
+    "slug": "kampala",
+    "country": "uganda",
+    "top": 212,
+    "left": 484
   },
   {
     "name": "Kochi",
@@ -488,6 +523,13 @@
     "country": "usa",
     "top": 253,
     "left": 240
+  },
+  {
+    "name": "Yaounde",
+    "slug": "yaounde",
+    "country": "cameroon",
+    "top": 212,
+    "left": 484
   },
   {
     "name": "Zurich",
