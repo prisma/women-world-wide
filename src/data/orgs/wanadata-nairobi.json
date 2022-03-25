@@ -1,0 +1,18 @@
+{
+  "image": "https://cdn-images-1.medium.com/fit/c/120/120/2*TTtCVN3iyr5KK0T28HMEHA.png",
+  "name": "Wanadata  Nairobi",
+  "country": "kenya",
+  "city": "nairobi",
+  "topics": ["Tech"],
+  "mainLink": "https://medium.com/wanadata-africa",
+  "secondaryLinks": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/Code4Africa"
+    },
+    {
+      "name": "Join",
+      "url": "https://forms.gle/tp3xcoFeM7SQtpgb7"
+    }
+  ]
+}
