@@ -1,0 +1,22 @@
+{
+  "city": "paris",
+  "country": "france",
+  "name": "Women on Rails",
+  "image": "https://women-on-rails.github.io/ressources/img/favicon.ico",
+  "topics": ["Ruby on Rails"],
+  "mainLink": "https://www.meetup.com/fr-FR/Women-On-Rails/",
+  "secondaryLinks": [
+    {
+      "name": "Newsletter",
+      "url": "https://womenonrailsinternational.substack.com/"
+    },
+		{
+      "name": "Website",
+      "url": "https://women-on-rails.github.io/ressources/"
+    },
+		{
+			"name": "Twitter",
+			"url": "https://twitter.com/womenonrails"
+		}
+  ]
+}
